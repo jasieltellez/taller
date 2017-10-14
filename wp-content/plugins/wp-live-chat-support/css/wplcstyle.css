@@ -1,0 +1,28 @@
+
+.wplc-chat-alert {
+    display: none;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: #666;
+    border-radius: 15px;
+}
+
+.wplc-chat-alert--theme-3 {
+    background-color: #5a0031;
+}
+
+.wplc-chat-alert.is-active {
+    display: inline-block;
+}
+
+.wplc-chat-alert:after {
+    content: '\f0a2';
+    position: absolute;
+    left: 7px;
+    font-family: FontAwesome;
+    color: #fff;
+    line-height: 30px;
+}

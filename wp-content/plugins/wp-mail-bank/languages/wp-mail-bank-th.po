@@ -1,0 +1,1041 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-08 09:36+0530\n"
+"PO-Revision-Date: 2017-05-08 09:37+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Thai (Thailand)\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 22543\n"
+"X-Loco-Api-Version: 1.0.17 20170505-1\n"
+"X-Poedit-KeywordsList: __;_e;.;gettext\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:179
+msgid "If Interested, Kindly click "
+msgstr "หากสนใจคลิกที่นี่"
+
+#: includes/translations.php:180
+msgid "here."
+msgstr "ที่นี่"
+
+#: includes/translations.php:190
+msgid "Upgrade"
+msgstr "อัพเกรด"
+
+#: includes/translations.php:191
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: includes/translations.php:192
+msgid "This feature is available only in Premium Editions! <br> Kindly Purchase to unlock it!"
+msgstr "คุณสมบัตินี้จะใช้ได้เฉพาะ Premium Edition เท่านั้น! <br> กรุณาทำการสั่งซื้อเพื่อปลกล็อคการใช้งาน"
+
+#: includes/translations.php:195
+msgid "Basic Info"
+msgstr "ข้อมูลพื้นฐาน"
+
+#: includes/translations.php:196
+msgid "Account Setup"
+msgstr "ตั้งค่าบัญชี"
+
+#: includes/translations.php:197
+msgid "Confirm"
+msgstr "ยืนยัน"
+
+#: includes/translations.php:200 includes/translations.php:433
+msgid "Mail Bank"
+msgstr "Mail Bank"
+
+#: includes/translations.php:201
+msgid "Email Setup"
+msgstr "ตั้งค่าอีเมล"
+
+#: includes/translations.php:202
+msgid "Email Logs"
+msgstr "บันทึกข้อมูลอีเมล"
+
+#: includes/translations.php:203 includes/translations.php:257
+msgid "Test Email"
+msgstr "ทดสอบอีเมล"
+
+#: includes/translations.php:204
+msgid "Plugin Settings"
+msgstr "ตั้งค่าปลั๊กอิน"
+
+#: includes/translations.php:205
+msgid "Feedbacks"
+msgstr "ข้อเสนอแนะ"
+
+#: includes/translations.php:206
+msgid "Roles & Capabilities"
+msgstr "บทบาทและความสามารถ"
+
+#: includes/translations.php:207
+msgid "System Information"
+msgstr "ข้อมูลของระบบ"
+
+#: includes/translations.php:208 includes/translations.php:434
+msgid "Error Logs"
+msgstr "บันทึกข้อผิดพลาด"
+
+#: includes/translations.php:211
+msgid "Success!"
+msgstr "สำเร็จ!"
+
+#: includes/translations.php:212
+msgid "Email Setup has been updated Successfully"
+msgstr "การตั้งค่าอีเมลได้รับการปรับปรุงเรียบร้อยแล้ว"
+
+#: includes/translations.php:213
+msgid "Your Feedback has been sent Successfully"
+msgstr "ข้อเสนอแนะของคุณได้ถูกส่งไปเรียบร้อยแล้ว"
+
+#: includes/translations.php:214
+msgid "Test Email was sent Successfully!"
+msgstr "อีเมลทดสอบได้ส่งไปเรียบร้อยแล้ว!"
+
+#: includes/translations.php:215
+msgid "Test Email was not sent!"
+msgstr "อีเมลทดสอบไม่ได้ส่งออกไป!"
+
+#: includes/translations.php:216
+msgid "Plugin Settings have been updated Successfully"
+msgstr "การตั้งค่าปลั๊กอินได้รับการปรับปรุงเรียบร้อยแล้ว"
+
+#: includes/translations.php:217
+msgid "The OAuth is not supported by providing SMTP Host, kindly provide username and password"
+msgstr "OAuth ไม่ได้การรับรองโดย SMTP จากโฮส, กรุณาให้ชื่อผู้ใช้ และรหัสผ่าน"
+
+#: includes/translations.php:218
+msgid "Query"
+msgstr "สอบถาม"
+
+#: includes/translations.php:219
+msgid "Language Interested to Translate"
+msgstr "ภาษาที่ต้องการแปล"
+
+#: includes/translations.php:220
+msgid "Please enter the language you want to translate."
+msgstr "กรุณาระบุภาษาที่คุณต้องการแปล"
+
+#: includes/translations.php:221
+msgid "Please enter the language"
+msgstr "กรุณาระบุภาษา"
+
+#: includes/translations.php:222
+msgid "In this field, You would need to provide your name which will be sent along with your request"
+msgstr "ในส่วนนี้, คุณจำเป็นต้องให้ชื่อของคุณ ซึ่งจะถูกส่งไปพร้อมกัยคำร้องขอของคุณ"
+
+#: includes/translations.php:223
+msgid "Important Disclaimer!"
+msgstr "คำเตือน!"
+
+#: includes/translations.php:224
+msgid "In this field, You would need to provide your valid email which wiil be sent along with your request"
+msgstr "ในส่วนนี้, คุณจะต้องระบุอีเมลที่ถูกต้อง ซึ่งจะถูกส่งไปพร้อมกับคำขอของคุณ"
+
+#: includes/translations.php:225
+msgid "Please enter your query."
+msgstr "กรุณาระบุข้อสอบถามของคุณ"
+
+#: includes/translations.php:226
+msgid "Please enter the query."
+msgstr "กรุณาระบุข้อสอบถาม"
+
+#: includes/translations.php:227 includes/translations.php:345
+msgid "Close"
+msgstr "ปิด"
+
+#: includes/translations.php:228
+msgid "Send Request"
+msgstr "ส่งคำร้อง"
+
+#: includes/translations.php:229
+msgid "Translation Request"
+msgstr "คำขอแปล"
+
+#: includes/translations.php:230
+msgid "Are you sure you want to close without sending Translation Request?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการปิดโดยไม่ต้องส่งคำขอการแปล?"
+
+#: includes/translations.php:231 includes/translations.php:402
+msgid "Your Email"
+msgstr "อีเมลของคุณ"
+
+#: includes/translations.php:232 includes/translations.php:399
+msgid "Your Name"
+msgstr "ชื่อของคุณ"
+
+#: includes/translations.php:233 includes/translations.php:401
+msgid "Please provide your Name"
+msgstr "กรุณาระบุชื่อของคุณ"
+
+#: includes/translations.php:237
+msgid "Sent"
+msgstr "ส่งแล้ว"
+
+#: includes/translations.php:238
+msgid "Not Sent"
+msgstr "ไม่ได้ส่ง"
+
+#: includes/translations.php:239
+msgid "You don't have Sufficient Access to this Page. Kindly contact the Administrator for more Privileges"
+msgstr "คุณไม่มีสิทธิ์เพียงพอที่จะเข้าถึงหน้านี้ โปรดติดต่อผู้ดูแลระบบเพื่อรับสิทธิพิเศษเพิ่มเติม"
+
+#: includes/translations.php:240
+msgid "Enable"
+msgstr "เปิด"
+
+#: includes/translations.php:241
+msgid "Disable"
+msgstr "ปิด"
+
+#: includes/translations.php:242
+msgid "Override"
+msgstr "แทนที"
+
+#: includes/translations.php:243
+msgid "Don't Override"
+msgstr "ห้ามแทนที่"
+
+#: includes/translations.php:244
+msgid "Save Settings"
+msgstr "บันทึกการตั้งค่า"
+
+#: includes/translations.php:245
+msgid "Subject"
+msgstr "หัวข้อ"
+
+#: includes/translations.php:246
+msgid "Next Step"
+msgstr "ขั้นถัดไป"
+
+#: includes/translations.php:247
+msgid "Previous Step"
+msgstr "ขั้นก่อนหน้า"
+
+#: includes/translations.php:250
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/translations.php:251
+msgid "Bcc"
+msgstr "Bcc"
+
+#: includes/translations.php:252
+msgid "Please provide valid Cc Email Address"
+msgstr "กรุณาระบุอีเมลที่ถูกต้องสำหรับ Cc"
+
+#: includes/translations.php:253
+msgid "Please provide valid Bcc Email Address"
+msgstr "กรุณาระบุอีเมลที่ถูกต้องสำหรับ Bcc"
+
+#: includes/translations.php:254
+msgid "Please provide Cc Email"
+msgstr "กรุณาระบุอีเมลสำหรับ Cc"
+
+#: includes/translations.php:255
+msgid "Please provide Bcc Email"
+msgstr "กรุณาระบุอีเมลสำหรับ Bcc"
+
+#: includes/translations.php:256
+msgid "Mailer Settings"
+msgstr "การตั้งค่าการส่งอีเมล"
+
+#: includes/translations.php:258
+msgid "From Name"
+msgstr "จากชื่อ"
+
+#: includes/translations.php:259
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr "\"จากชื่อ\" คือ ช่องกล่องจดหมายซึ่งจะบอกผู้รับของคุณว่าใครเป็นผู้ส่งข้อความ หากคุณต้องการแทนที่\"จากชื่อ\"ที่กำหนดไว้ล่วงหน้า จากนั้นคุณจะต้องใส่ชื่อในช่องกล่องจดหมาย"
+
+#: includes/translations.php:260
+msgid "Please provide From Name"
+msgstr "กรุณาระบุ จากชื่อ"
+
+#: includes/translations.php:261
+msgid "From Email"
+msgstr "จากอีเมล"
+
+#: includes/translations.php:262
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email Address the messages are coming. If you would like to override the "
+"pre-configured From Email, then you would need to insert an Email Address in the inbox field"
+msgstr "จากอีเมล คือ ฟิลด์กล่องจดหมายซึ่งจะบอกผู้รับของคุณว่าอีเมลใดที่มีข้อความมาถึง ถ้าคุณต้องการแทนที่อีเมล ที่กำหนดไว้ล่วงหน้าจากนั้นคุณจะต้องใส่ที่อยู่อีเมลในกล่องขาเข้า"
+
+#: includes/translations.php:263
+msgid "Please provide From Email Address"
+msgstr "กรุณาระบอีเมลแอดเดรส"
+
+#: includes/translations.php:264
+msgid "Mailer Type"
+msgstr "ประเภทการส่งอีเมล"
+
+#: includes/translations.php:265
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer Type. If you would like to send an Email via SMTP mailer, you would "
+"need to select Send Email via SMTP from the drop down or you could use PHP mail () Function"
+msgstr ""
+"ฟิลด์นี้ให้คุณสามารถเลือกตัวเลือกเฉพาะสำหรับ ประเภทการส่งอีเมล ได้ หากคุณต้องการส่งอีเมลผ่าน SMTP mailer คุณจะต้องเลือกส่งอีเมลผ่าน SMTP "
+"จากเมนูแบบเลื่อนลงหรือคุณสามารถใช้ฟังก์ชัน PHP mail () ได้"
+
+#: includes/translations.php:266
+msgid "Send Email via SMTP"
+msgstr "ส่งอีเมลผ่าน SMTP"
+
+#: includes/translations.php:267
+msgid "Use The PHP mail() Function"
+msgstr "ใช้ PHP mail() Function"
+
+#: includes/translations.php:268
+msgid "SMTP Host"
+msgstr "โฮส SMTP"
+
+#: includes/translations.php:269
+msgid ""
+"If you would like to send an Email via different host, you would need to insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr "ถ้าคุณต้องการส่งอีเมลผ่านโฮสต์อื่น คุณจะต้องใส่ชื่อโฮสต์เฉพาะดังกล่าวเช่น smtp.gmail.com ในช่อง"
+
+#: includes/translations.php:270 includes/translations.php:404
+msgid "Please provide your Email Address"
+msgstr "กรุณาระบอีเมลแอดเดรสของคุณ"
+
+#: includes/translations.php:271
+msgid "Please provide SMTP Host"
+msgstr "กรุณาระบุโฮส SMTP"
+
+#: includes/translations.php:272
+msgid "SMTP Port"
+msgstr "พอร์ต SMTP"
+
+#: includes/translations.php:273
+msgid "This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr "ช่องนี้มีไว้สำหรับระบุพอร์ต SMTP ที่ถูกต้องสำหรับการตรวจสอบสิทธิ์"
+
+#: includes/translations.php:274
+msgid "Please provide SMTP Port"
+msgstr "กรุณาระบุพอร์ต SMTP"
+
+#: includes/translations.php:275
+msgid "Encryption"
+msgstr "การเข้ารหัส"
+
+#: includes/translations.php:276
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If you would like to send an Email with TLS encryption, you would need "
+"to select Use TLS Encryption from the drop down or you could use SSL Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would need to select No Encryption from the drop down"
+msgstr ""
+"ช่วยให้คุณสามารถเลือกตัวเลือกเฉพาะสำหรับการเข้ารหัสได้ หากคุณต้องการส่งอีเมลด้วย TLS การเข้ารหัสลับคุณจะต้องเลือกใช้ TLS Encryption จากเมนูแบบเลื่อนลงหรือคุณสามารถใช้ SSL "
+"Encryption เพื่อที่คุณจะต้องเลือก Use SSL Encryption จากเมนูแบบเลื่อนลง ถ้าคุณต้องการส่งอีเมลโดยไม่มีการเข้ารหัสคุณจะต้องเลือกไม่มีการเข้ารหัสจากเมนูแบบเลื่อนลง"
+
+#: includes/translations.php:277
+msgid "No Encryption"
+msgstr "ไม่เข้ารหัส"
+
+#: includes/translations.php:278
+msgid "Use SSL Encryption"
+msgstr "ใช้ SSL Encryption"
+
+#: includes/translations.php:279
+msgid "Use TLS Encryption"
+msgstr "ใช้ TLS Encryption"
+
+#: includes/translations.php:280 includes/translations.php:421
+msgid "Authentication"
+msgstr "การรับรอง"
+
+#: includes/translations.php:281
+msgid ""
+"This inbox field allows you to choose an appropriate option for authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would need to select Use Username and Password from the drop down. You can "
+"also authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret Key, for that you would need to select Use OAuth (Client ID "
+"and Secret Key) from the drop down. You can easily get Client Id and Secret Key from respective SMTP Server Developers section"
+msgstr ""
+"ช่องนี้ช่วยให้คุณสามารถเลือกตัวเลือกที่เหมาะสมสำหรับการตรวจสอบสิทธิ์ จะให้ปัจจัยพิสูจน์ตัวตนแบบสองทาง หากคุณต้องการตรวจสอบตัวตนผ่านทาง Username และ Password "
+"คุณจำเป็นต้องเลือก Use Username and Password จากเมนูแบบเลื่อนลง คุณสามารถรับรองความถูกต้องโดยใช้โปรโตคอล OAuth 2.0 ซึ่งต้องใช้รหัสลูกค้าและคีย์ลับเพราะคุณต้องเลือกใช้ "
+"OAuth (รหัสลูกค้าและคีย์ลับ) จากเมนูแบบเลื่อนลง คุณสามารถรับ ID ไคลเอ็นต์และคีย์ลับจากส่วนนักพัฒนาซอฟต์แวร์ SMTP ได้โดยง่าย"
+
+#: includes/translations.php:282
+msgid "Use SMTP Authentication"
+msgstr "ใช้ SMTP Authentication"
+
+#: includes/translations.php:283
+msgid "Don't Use SMTP Authentication"
+msgstr "ไม่ใช้  SMTP Authentication"
+
+#: includes/translations.php:284
+msgid "Test Email Address"
+msgstr "อีเมลสำหรับทดสอบ"
+
+#: includes/translations.php:285
+msgid "In this field, you would need to provide a valid Email Address in the inbox field on which you would like to receive Test email"
+msgstr "ในฟิลด์นี้คุณจะต้องระบุที่อยู่อีเมลที่ถูกต้องในกล่องขาเข้าที่คุณต้องการรับอีเมลทดสอบ"
+
+#: includes/translations.php:286
+msgid "Please provide Test Email Address"
+msgstr "กรุณาระบอีเมลสำหรับการทดสอบ"
+
+#: includes/translations.php:287
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุหัวข้อสำหรับใช้อีเมลทดสอบ"
+
+#: includes/translations.php:288
+msgid "Please provide Subject"
+msgstr "กรุณาระบุหัวข้อ"
+
+#: includes/translations.php:289
+msgid "Email Content"
+msgstr "เนื้อหาของอีเมล"
+
+#: includes/translations.php:290
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "ในฟิลด์นี้ คุณจำเป้นต้องระบุเนื้อหาสำหรับอีเมลทดสอบ"
+
+#: includes/translations.php:291
+msgid "Send Test Email"
+msgstr "ส่งอีเมลสำหรับทดสอบ"
+
+#: includes/translations.php:292
+msgid "SMTP Debugging Output"
+msgstr "ข้อมูลที่ส่งออกมาจาก ข้อบกพร้องจาก SMTP"
+
+#: includes/translations.php:293
+msgid "Checking your settings"
+msgstr "กำลังตรวจสอบการตั้งค่าของคุณ"
+
+#: includes/translations.php:294
+msgid "Result"
+msgstr "ผลลัพธ์"
+
+#: includes/translations.php:295
+msgid "Send Another Test Email"
+msgstr "ส่งอีเมลสำหรับทดสอบอีกอันหนึ่ง"
+
+#: includes/translations.php:296
+msgid "From Name Configuration"
+msgstr "การตั้งค่า \"จากชื่อ\""
+
+#: includes/translations.php:297
+msgid ""
+"If you would like to override the pre-configured name which will be used while sending Emails, then you would need to choose Override from the "
+"drop down and vice-versa"
+msgstr "ถ้าคุณต้องการแทนที่ชื่อที่กำหนดไว้ล่วงหน้าซึ่งจะใช้ในขณะที่ส่งอีเมลจากนั้นคุณจะต้องเลือกแทนที่จากเมนูแบบเลื่อนลงและกลับกัน"
+
+#: includes/translations.php:298
+msgid "From Email Configuration"
+msgstr "การตั้งค่า \"จากอีเมล\""
+
+#: includes/translations.php:299
+msgid ""
+"If you would like to override your pre-configured Email Address which will be used while sending Emails, then you would need to choose "
+"Override from the drop down and vice-versa"
+msgstr "ถ้าคุณต้องการแทนที่อีเมล์แอดเดรสที่กำหนดไว้ล่วงหน้าซึ่งจะใช้ในขณะที่ส่งอีเมลจากนั้นคุณจะต้องเลือกแทนที่จากเมนูแบบเลื่อนลงและในทางกลับกัน"
+
+#: includes/translations.php:300
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#: includes/translations.php:301
+msgid "In this field, you would need to provide a username to authenticate your SMTP details"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุ ชื่อผู้ใช้ เพื่อรับรองข้อมูล SMTP ของคุณ"
+
+#: includes/translations.php:302
+msgid "Please provide username"
+msgstr "กรุณาระบุชื่อผู้ใช้"
+
+#: includes/translations.php:303
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#: includes/translations.php:304
+msgid "In this field, you would need to provide a password to authenticate your SMTP details"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุรหัสผ่าน เพื่อรับรองข้อมูล SMTP ของคุณ"
+
+#: includes/translations.php:305
+msgid "Please provide password"
+msgstr "กรุณาระบุรหัสผ่าน"
+
+#: includes/translations.php:306
+msgid "Redirect URI"
+msgstr "Redirect URL"
+
+#: includes/translations.php:307
+msgid "Please copy this Redirect URI and Paste into Redirect URI field when creating your app"
+msgstr "กรุณาคะดลอก URL นี้ และวาง ในฟิลด์ของ Redirect URL ในขณะกำลังสร้างแอปของคุณ"
+
+#: includes/translations.php:308
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "ใช้ OAuth (จำเป็นต้องมี Client Id และ Secret Key)"
+
+#: includes/translations.php:309
+msgid "None"
+msgstr "ไม่มี"
+
+#: includes/translations.php:310
+msgid "Plain Authentication"
+msgstr "การรับรองความถูกต้องแบบธรรมดา"
+
+#: includes/translations.php:311
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:312
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+#: includes/translations.php:313
+msgid "Client Id"
+msgstr "Client Id"
+
+#: includes/translations.php:314
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: includes/translations.php:315
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "กรุณาระบุ Client ID ที่ออกโดยโฮสของ SMTP ของคุณ"
+
+#: includes/translations.php:316
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr "กรุณาระบุ Secret Key ที่ออกโดยโฮสของ SMTP ของคุณ"
+
+#: includes/translations.php:317
+msgid "Please provide Client Id"
+msgstr "กรุณาระบุ Client ID"
+
+#: includes/translations.php:318
+msgid "Please provide Secret Key"
+msgstr "กรุณาระบุ Secret Key"
+
+#: includes/translations.php:319
+msgid "Yes, automatically send a Test Email upon clicking on the Next Step Button to verify settings"
+msgstr "ใช่ ส่งอีเมลทดสอบโดยอัตโนมัติ เมื่อคลิกที่ปุ่มขั้นถัดไปเพื่อยืนยันการตั้งค่า"
+
+#: includes/translations.php:320
+msgid "Email Address"
+msgstr "อีเมลแอดเดรส"
+
+#: includes/translations.php:321
+msgid "In this field, you would need to add a valid Email Address in the inbox field from which you would like to send Emails"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุอีเมลแอดเดรสที่ถูกต้อง ในช่อง โดยเือกอีเมลที่คุณต้องการจะทำการส่ง"
+
+#: includes/translations.php:322
+msgid "Please provide valid Email Address"
+msgstr "กรุณาระบุอีเมลแอดเดรสที่ถูกต้อง"
+
+#: includes/translations.php:323
+msgid "Reply To"
+msgstr "ตอบกลับถึง"
+
+#: includes/translations.php:324
+msgid ""
+"In this field, you would need to add a valid Email Address that is automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุอีเมลแอดเดรสที่ถูกต้อง ซึ่งจะถูกใส่ให้โดยอัตโนมัติในฟิลด์ของ \"ตอบกลับถึง\" เมื่อผู้ใช้ตอบกลับข้อความ"
+
+#: includes/translations.php:325
+msgid "Please provide Reply To Email Address"
+msgstr "กรุณาระบอีเมลสำหรับการตอบกลับ"
+
+#: includes/translations.php:326
+msgid "Get Google Client Id and Secret Key"
+msgstr "รับ Google Client Id และ Secret Key"
+
+#: includes/translations.php:327
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "รับ Microsoft Client Id และ Secret Key"
+
+#: includes/translations.php:328
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "รับ Yahoo Client Id และ Secret Key"
+
+#: includes/translations.php:331
+msgid "Start Date"
+msgstr "วันที่เริ่มต้น"
+
+#: includes/translations.php:332
+msgid "Resend"
+msgstr "ส่งใหม่"
+
+#: includes/translations.php:333
+msgid "Please provide Start Date"
+msgstr "กรุณาระบุวันที่เริ่มต้น"
+
+#: includes/translations.php:334
+msgid "This field shows starting date of Email Logs"
+msgstr "ฟิลด์นี้แสดงวันที่เริ่มต้นของการบันทึกอีเมล"
+
+#: includes/translations.php:335
+msgid "End Date"
+msgstr "วันที่สิ้นสุด"
+
+#: includes/translations.php:336
+msgid "Please provide End Date"
+msgstr "กรุณาระบุวันที่สิ้นสุด"
+
+#: includes/translations.php:337
+msgid "This field shows ending date of Email Logs"
+msgstr "ฟิลด์นี้แสดงวันที่สิ้นสุดของการบันทึกอีเมล"
+
+#: includes/translations.php:338
+msgid "Submit"
+msgstr "ยอมรับ"
+
+#: includes/translations.php:339
+msgid "Bulk Action"
+msgstr "การกระทำเป็นกลุ่ม"
+
+#: includes/translations.php:340
+msgid "Delete"
+msgstr "ลบ"
+
+#: includes/translations.php:341
+msgid "Apply"
+msgstr "ใช้"
+
+#: includes/translations.php:342
+msgid "Email To"
+msgstr "อีเมลถึง"
+
+#: includes/translations.php:343
+msgid "Action"
+msgstr "กระทำ"
+
+#: includes/translations.php:344
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#: includes/translations.php:346
+msgid "Debugging Output"
+msgstr "ผลของ Debugging"
+
+#: includes/translations.php:347
+msgid "Show Debugging Output"
+msgstr "แสดงผล Debugging"
+
+#: includes/translations.php:348
+msgid "Email Sent To"
+msgstr "อีเมลส่งไปยัง"
+
+#: includes/translations.php:349
+msgid "Date/Time"
+msgstr "วันที่/เวลา"
+
+#: includes/translations.php:350 includes/translations.php:418
+msgid "Status"
+msgstr "สถานะ"
+
+#: includes/translations.php:351
+msgid "From"
+msgstr "จาก"
+
+#: includes/translations.php:352
+msgid "Back to Email Logs"
+msgstr "ย้อนกลับไปยังบันทึกอีเมล"
+
+#: includes/translations.php:355
+msgid "Automatic Plugin Updates"
+msgstr "อัพเดทปลั๊กอินอัตโนมัติ"
+
+#: includes/translations.php:356
+msgid "Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr "โปรดเลือกตัวเลือกเฉพาะ ว่าจะอนุญาตให้อัปเดตปลั๊กอินอัตโนมัติหรือไม่"
+
+#: includes/translations.php:357
+msgid "Debug Mode"
+msgstr "โหมด Debug"
+
+#: includes/translations.php:358
+msgid "Please choose a specific option for Debug Mode"
+msgstr "โปรดเลือกตัวเลือกเฉพาะสำหรับโหมด Debug"
+
+#: includes/translations.php:359
+msgid "Remove Tables at Uninstall"
+msgstr "นำ Table ออกเมื่อถอนการติดตั้ง"
+
+#: includes/translations.php:360
+msgid "Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr "โปรดเลือกตัวเลือกเฉพาะ เพื่ออนุญาตให้ลบ Table เมื่อถอนการติดตั้ง"
+
+#: includes/translations.php:361
+msgid "Monitoring Email Logs"
+msgstr "กำลังตรวจสอบบันทึกอีเมล"
+
+#: includes/translations.php:362
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr "ฟิลด์นี้ใช้เพื่ออนุญาตให้บันทึกอีเมลเพื่อตรวจสอบหรือไม่"
+
+#: includes/translations.php:363
+msgid "Error Reporting"
+msgstr "รายงานข้อผิดพลาด"
+
+#: includes/translations.php:364
+msgid "If you would like to Report your Errors in Error Logs Menu, then you would need to Choose Enable from dropdown or vice-versa"
+msgstr "หากต้องการรายงานข้อผิดพลาดในเมนูบันทึกข้อผิดพลาดคุณจะต้องเลือกเปิดใช้งานจากเมนูแบบเลื่อนลง หรือปิด"
+
+#: includes/translations.php:368
+msgid "Show Mail Bank Menu"
+msgstr "แสดงเมนูของ Mail Bank"
+
+#: includes/translations.php:369
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr "โปรดเลือกบทบาทเฉพาะที่สามารถดูเมนูแถบด้านข้าง"
+
+#: includes/translations.php:370
+msgid "Administrator"
+msgstr "ผู้ดูแลระบบ"
+
+#: includes/translations.php:371
+msgid "Author"
+msgstr "ผู้แต่ง"
+
+#: includes/translations.php:372
+msgid "Editor"
+msgstr "บรรณาธิการ"
+
+#: includes/translations.php:373
+msgid "Contributor"
+msgstr "ผู้สนับสนุน"
+
+#: includes/translations.php:374
+msgid "Subscriber"
+msgstr "สมาชิก"
+
+#: includes/translations.php:375
+msgid "Others"
+msgstr "อื่นๆ"
+
+#: includes/translations.php:376
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "แสดงเมนูด้านบนของ Mail Bank"
+
+#: includes/translations.php:377
+msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+msgstr "โปรดเลือกตัวเลือกเฉพาะจากเมนูแถบด้านบนของ Mail Bank"
+
+#: includes/translations.php:378
+msgid "An Administrator Role can do the following "
+msgstr "ผู้ดูแลระบบมีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:379
+msgid "Please choose specific page available for the Administrator Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของผู้ดูแลระบบ"
+
+#: includes/translations.php:380
+msgid "Full Control"
+msgstr "ควบคุมทั้งหมด"
+
+#: includes/translations.php:381
+msgid "An Author Role can do the following "
+msgstr "ผู้แต่งมีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:382
+msgid "Please choose specific page available for Author Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของผู้แต่ง"
+
+#: includes/translations.php:383
+msgid "An Editor Role can do the following "
+msgstr "บรรณาธิการมีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:384
+msgid "Please choose specific page available for Editor Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของบรรณาธิการ"
+
+#: includes/translations.php:385
+msgid "A Contributor Role can do the following "
+msgstr "ผู้สนับสนุนมีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:386
+msgid "Please choose specific page available for Contributor Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของผู้สนับสนุน"
+
+#: includes/translations.php:387
+msgid "Other Roles can do the following "
+msgstr "อื่นๆ มีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:388
+msgid "Please choose specific page available for Others Role Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของอื่นๆ"
+
+#: includes/translations.php:389
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "โปรดเลือกตามที่เหมาะสมเพื่อความปลอดภัย"
+
+#: includes/translations.php:390
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "เฉพาะผู้ใช้ที่มีคุณสมบัติเหล่านี้เท่านั้นที่สามารถเข้าถึง Mail Bank"
+
+#: includes/translations.php:391
+msgid "A Subscriber Role can do the following"
+msgstr "สมาชิกมีสิทธิทำได้ดังต่อไปนี้"
+
+#: includes/translations.php:392
+msgid "Please choose specific page available for Subscriber Access"
+msgstr "กรุณาเลือกหน้าเฉพาะสำหรับเข้าถึงข้อมูลของสมาชิก"
+
+#: includes/translations.php:395
+msgid "Thank You!"
+msgstr "ขอบคุณ!"
+
+#: includes/translations.php:396
+msgid "Kindly fill in the below form, if you would like to suggest some features which are not in the Plugin"
+msgstr "กรุณากรอกข้อมูลในแบบฟอร์มด้านล่าง หากคุณต้องการแนะนำคุณลักษณะบางอย่างที่ไม่ได้อยู่ในปลั๊กอิน"
+
+#: includes/translations.php:397
+msgid "If you also have any suggestion/complaint, you can use the same form below"
+msgstr "หากคุณมีข้อเสนอแนะ / คำร้องเรียนใด ๆ คุณสามารถใช้แบบฟอร์มด้านล่างนี้ได้"
+
+#: includes/translations.php:398
+msgid "You can also write us on"
+msgstr "คุณยังสามารถเขียนถึงเราได้"
+
+#: includes/translations.php:400
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr "โปรดระบุชื่อของคุณ ซึ่งจะถูกส่งไปพร้อมกับข้อเสนอแนะของคุณ"
+
+#: includes/translations.php:403
+msgid "Please provide your Email Address which will be sent along with your Feedback"
+msgstr "โปรดระบุอีเมลของคุณ ซึ่งจะถูกส่งไปพร้อมกับข้อเสนอแนะของคุณ"
+
+#: includes/translations.php:405
+msgid "Please provide your Feedback which will be sent along"
+msgstr "โปรดระบุข้อเสนอแนะของคุณ ซึ่งจะถูกส่งไปพร้อมกัน"
+
+#: includes/translations.php:406
+msgid "Please provide your Feedback"
+msgstr "โปรดระบุข้อเสนอแนะของคุณ"
+
+#: includes/translations.php:407
+msgid "Send Feedback"
+msgstr "ส่งข้อเสนอแนะ"
+
+#: includes/translations.php:408
+msgid "Your request Email has been sent Successfully"
+msgstr "อีเมลคำร้องของคุณได้ส่งไปเรียบร้อยแล้ว"
+
+#: includes/translations.php:411
+msgid "Sending Test Email to"
+msgstr "กำลังส่งอีเมลไปยัง"
+
+#: includes/translations.php:412
+msgid "Email Status"
+msgstr "สถานะอีเมล"
+
+#: includes/translations.php:415
+msgid "Connectivity Test"
+msgstr "ทดสอบระบบการติดต่อ"
+
+#: includes/translations.php:416
+msgid "Transport"
+msgstr "ขนส่ง"
+
+#: includes/translations.php:417
+msgid "Socket"
+msgstr "Socket"
+
+#: includes/translations.php:419
+msgid "Service Available"
+msgstr "พร้อมบริการ"
+
+#: includes/translations.php:420
+msgid "Server ID"
+msgstr "Server ID"
+
+#: includes/translations.php:422
+msgid "Plain"
+msgstr "Plain"
+
+#: includes/translations.php:423
+msgid "CRAM-MD5"
+msgstr "CRAM-MD5"
+
+#: includes/translations.php:424
+msgid "OAuth 2.0"
+msgstr "OAuth 2.0"
+
+#: includes/translations.php:425
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:426
+msgid "Gmail API"
+msgstr "Gmail API"
+
+#: includes/translations.php:427
+msgid "Outgoing Mail Server Hostname"
+msgstr "Outgoing Mail Server Hostname"
+
+#: includes/translations.php:428
+msgid "Begin Test"
+msgstr "เริ่มต้นทดสอบ"
+
+#: includes/translations.php:429
+msgid "localhost"
+msgstr "localhost"
+
+#: includes/translations.php:430
+msgid "In this field, you would need to provide Outgoing Mail Server Hostname"
+msgstr "ในฟิลด์นี้ คุณจำเป็นต้องระบุ Outgoing Mail Server Hostname"
+
+#: includes/translations.php:435
+msgid "In this field you would be able to see all PHP Errors"
+msgstr "ในฟิลด์นี้ คุณจะสามารถเห็นข้อผิดพลาดทั้งหมดของ PHP"
+
+#: includes/translations.php:436
+msgid "Download Error Logs"
+msgstr "ดาวน์โหลดบันทึกข้อผิดพลาด"
+
+#: includes/translations.php:437
+msgid "Clear Error Logs"
+msgstr "ล้างบันทึกข้อผิดพลาด"
+
+#: includes/translations.php:438
+msgid "Output"
+msgstr "ผลลัพธ์"
+
+#: includes/translations.php:439
+msgid "Error Logs has been cleared successfully"
+msgstr "บันทึกข้อผิดพลาดได้ถูกล้างเรียบร้อยแล้ว"
+
+#~ msgid "Email Log Details"
+#~ msgstr "รายละเอียดการบันทึกอีเมล"
+
+#~ msgid "Your request email has been sent Successfully"
+#~ msgstr "อีเมลคำร้องของคุณได้ส่งไปเรียบร้อยแล้ว"
+
+#~ msgid "Roles & Capabilities have been updated Successfully"
+#~ msgstr "บทบาทและความสามารถ ได้ปรับปรุงเรียบร้อยแล้ว"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "กรุณาเลือก การกระทำ จากรายการเลื่อนลงนี้!"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "กรุณาเลือกอย่างน้อย 1 ข้อมูล เพื่อทำการลบ!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "คุณมั่นใจหรือไม่ที่จะลบบัยทึกอีเมล?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "บันทึกที่เลือกไว้ได้ถูกลบเรียบร้อยแล้ว"
+
+#~ msgid "Are you sure you want to delete Email Log?"
+#~ msgstr "คุณมั่นใจหรือไม่ที่จะลบบัยทึกอีเมล?"
+
+#~ msgid "Email Log has been deleted Successfully"
+#~ msgstr "บันทึกอีเมลได้ถูกลบเรียบร้อยแล้ว"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "Secret Key ไม่ถูกต้อง กรุณาปรับปรุงแก้ไข และทดลองใหม่!"
+
+#~ msgid "Licensing"
+#~ msgstr "การออกใบอนุญาต"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "อีเมลของคุณได้ส่งใหม่เรียบร้อยแล้ว"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "ขออภัย อีเมลของคุณยังไม่ได้รับการส่ง"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "คุณแน่ใจหรือว่าต้องการจะส่งอีเมลอีกครั้ง?"
+
+#~ msgid "Like Button has been deleted Successfully"
+#~ msgstr "ปุ่ม Like ได้ถูกลบเรียบร้อยแล้ว"
+
+#~ msgid "In this field, you would need to provide your Name which will be sent along with your Feature Request"
+#~ msgstr "ในฟิลด์นี้ คุณจะต้องระบุชื่อของคุณซึ่งจะถูกส่งไปพร้อมกับคำขอคุณลักษณะของคุณ"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "ใบอนุญาตของคุณได้รับการเปิดใช้งานเรียบร้อยแล้ว"
+
+#~ msgid "Settings"
+#~ msgstr "การตั้งค่า"
+
+#~ msgid "Not available"
+#~ msgstr "ไม่พร้อมใช้งาน"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server."
+#~ msgstr ""
+#~ "php extensions ต่อไปนี้ไม่พบในเซิร์ฟเวอร์ของคุณหรือถูกปิดการใช้งานอยู่ในขณะนี้ ปัญหาเหล่านี้อาจสร้างปัญหาในการกำหนดค่า Mail Bank โปรดติดต่อ WebHost "
+#~ "เพื่อตั้งค่าส่วนขยายเหล่านี้บนเซิร์ฟเวอร์ของคุณ"
+
+#~ msgid "Email Details"
+#~ msgstr "รายละเอียดอีเมล"
+
+#~ msgid "Email Debugging output"
+#~ msgstr "Email Debugging output"
+
+#~ msgid "Important Notice!"
+#~ msgstr "ข้อควรระวัง!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank Business Edition and now you would need to activate the license in order to unlock "
+#~ "it!"
+#~ msgstr "ขอแสดงความยินดี! คุณเพิ่งซื้อ Mail Bank Business Edition เมื่อเร็ว ๆ นี้และตอนนี้คุณจะต้องเปิดใช้งานใบอนุญาตเพื่อปลดล็อก!"
+
+#~ msgid "Kindly fill in the required details and click on Validate License to unlock it"
+#~ msgstr "กรุณากรอกรายละเอียดที่จำเป็นและคลิกที่ \"ตรวจสอบใบอนุญาต\" เพื่อปลดล็อค"
+
+#~ msgid "If you face any issues activating the license, you may contact us at "
+#~ msgstr "หากคุณประสบปัญหาใด ๆ ในการเปิดใช้งานใบอนุญาตคุณสามารถติดต่อเราได้ที่"
+
+#~ msgid "Product Name"
+#~ msgstr "ชื่อสินค้า"
+
+#~ msgid "Current Version"
+#~ msgstr "เวอร์ชันปัจจุบัน"
+
+#~ msgid "Website URL"
+#~ msgstr "URL เว็บไซต์"
+
+#~ msgid "Order ID"
+#~ msgstr "รหัสคำสั่งซื้อ"
+
+#~ msgid "API KEY"
+#~ msgstr "API KEY"
+
+#~ msgid "Validate License"
+#~ msgstr "ตรวจสอบใบอนุญาต"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "ฟิลด์นี้แสดงผลิตภัณฑ์ที่ติดตั้งของคุณ"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "ฟิลด์นี้แสดงเวอร์ชันผลิตภัณฑ์ที่ติดตั้งไว้"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "ฟิลด์นี้แสดง URL เว็บไซต์"
+
+#~ msgid "Please provide your Order ID  which you have received after purchasing the Product. This will be used for Validating the License"
+#~ msgstr "โปรดระบุรหัสคำสั่งซื้อที่คุณได้รับหลังจากซื้อผลิตภัณฑ์ นี้จะใช้สำหรับการตรวจสอบสิทธิ์การใช้งาน"
+
+#~ msgid "Please provide your API Key which you have received after purchasing the Product. This will be used for Validating the License"
+#~ msgstr "โปรดระบุ API Key ที่คุณได้รับหลังจากซื้อผลิตภัณฑ์ นี้จะใช้สำหรับการตรวจสอบสิทธิ์การใช้งาน"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "โปรดระบุรหัสคำสั่งซื้อที่ได้รับหลังจากทำการสั่งซื้อ"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "โปรดระบุ API Key ที่ได้รับหลังจากทำการสั่งซื้อ"
+
+#~ msgid "This feature is only available in Business and Developer Editions! <br> Kindly Purchase to unlock it!."
+#~ msgstr "คุณลักษณะนี้ใช้ได้เฉพาะใน Business and Developer Editions เท่านั้น! <br> กรุณาสั่งซื้อเพื่อปลดล็อก!"
+
+#~ msgid "Business Edition"
+#~ msgstr "Business Edition"

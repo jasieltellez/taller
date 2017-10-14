@@ -1,0 +1,3275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat\n"
+"POT-Creation-Date: 2016-10-27 12:02+0200\n"
+"PO-Revision-Date: 2017-03-11 23:03+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko_KR\n"
+"X-Poedit-SearchPath-0: wp-live-chat-support/ajax_new.php\n"
+"X-Poedit-SearchPath-1: wp-live-chat-support/functions.php\n"
+"X-Poedit-SearchPath-2: wp-live-chat-support/wp-live-chat-support.php\n"
+"X-Poedit-SearchPath-3: wp-live-chat-support/modules/api/wplc-api.php\n"
+"X-Poedit-SearchPath-4: wp-live-chat-support/modules/api/wplc-api-functions."
+"php\n"
+"X-Poedit-SearchPath-5: wp-live-chat-support/modules/api/wplc-api-routes.php\n"
+"X-Poedit-SearchPath-6: wp-live-chat-support/includes/deprecated.php\n"
+"X-Poedit-SearchPath-7: wp-live-chat-support/includes/feedback-page.php\n"
+"X-Poedit-SearchPath-8: wp-live-chat-support/includes/Mobile_Detect.php\n"
+"X-Poedit-SearchPath-9: wp-live-chat-support/includes/settings_page.php\n"
+"X-Poedit-SearchPath-10: wp-live-chat-support/includes/surveys.php\n"
+"X-Poedit-SearchPath-11: wp-live-chat-support/includes/update_control.class."
+"php\n"
+"X-Poedit-SearchPath-12: wp-live-chat-support/includes/welcome_page.php\n"
+"X-Poedit-SearchPath-13: wp-live-chat-support-pro/ajax-pro.php\n"
+"X-Poedit-SearchPath-14: wp-live-chat-support-pro/ajax-pro-xmp.php\n"
+"X-Poedit-SearchPath-15: wp-live-chat-support-pro/functions-external.php\n"
+"X-Poedit-SearchPath-16: wp-live-chat-support-pro/functions-pro.php\n"
+"X-Poedit-SearchPath-17: wp-live-chat-support-pro/wp-live-chat-support-pro."
+"php\n"
+"X-Poedit-SearchPath-18: wp-live-chat-support-pro/includes/aes_fast.php\n"
+"X-Poedit-SearchPath-19: wp-live-chat-support-pro/includes/cryptoHelpers.php\n"
+"X-Poedit-SearchPath-20: wp-live-chat-support-pro/includes/settings_page_pro."
+"php\n"
+"X-Poedit-SearchPath-21: wp-live-chat-support-pro/includes/wplc_data_triggers."
+"php\n"
+"X-Poedit-SearchPath-22: wp-live-chat-support-pro/includes/wplc_roi.php\n"
+"X-Poedit-SearchPath-23: wp-live-chat-support-mobile-and-desktop-app/includes/"
+"update_control.php\n"
+"X-Poedit-SearchPath-24: wp-live-chat-support-mobile-and-desktop-app/wp-live-"
+"chat-support-mobile-and-desktop-app.php\n"
+"X-Poedit-SearchPath-25: wp-live-chat-support-cloud-server/wp-live-chat-"
+"support-cloud-server.php\n"
+"X-Poedit-SearchPath-26: wp-live-chat-support-cloud-server/includes/functions-"
+"external.php\n"
+"X-Poedit-SearchPath-27: wp-live-chat-support-cloud-server/includes/"
+"update_control.php\n"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:43
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:59
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:371
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:393
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:4002
+msgid "Cloud Server"
+msgstr "클라우드 서버"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:118
+#: wp-live-chat-support-mobile-and-desktop-app/includes/update_control.php:109
+#: wp-live-chat-support/includes/update_control.class.php:122
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"API 요청중 예상하지 못한 HTTP 에러가 발생하였습니다.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">다시 </a>"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:123
+#: wp-live-chat-support-mobile-and-desktop-app/includes/update_control.php:114
+#: wp-live-chat-support/includes/update_control.class.php:127
+msgid "An unknown error occurred"
+msgstr "알수없는 에러가 발생했습니다."
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:73
+msgid "Chat functionality has been paused."
+msgstr "채팅 기능이 중지되었습니다."
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:74
+msgid ""
+"Please enter your verified API key in the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the cloud "
+"based functionality."
+msgstr ""
+"클라우드에 기반한 기능을 활성화시키기 위해서는, <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API 키 페이지</a>안에 있는 인가된 API 키"
+"를 입력하세요."
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:90
+msgid "Are you sure you would like to delete chat history?"
+msgstr "정말로 채팅 기록을 삭제하기를 원합니까?"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:92
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:108
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:135
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:97
+#: wp-live-chat-support/wp-live-chat-support.php:3062
+msgid "Yes"
+msgstr "네"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:93
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:109
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:138
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:3062
+msgid "No"
+msgstr "아니오"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:106
+msgid "Are you sure you would like to delete all missed chats?"
+msgstr "정말로 모든 전송실패한 채팅들을 삭제하길 원합니까?"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:374
+msgid ""
+"You are currently using our <strong>cloud server</strong> to handle your "
+"chat requests and live chat sessions.<br /><br />To disable this, please "
+"deactivate the WP Live Chat Support - Cloud Server plugin."
+msgstr ""
+"당신의 채팅 요청들과 실시간 채팅 세션들을 조절하기 위해서 당신의 <strong>클라"
+"우드 서버</strong>를 사용하는 중입니다.<br /><br />이것을 원하지 않는다면, "
+"WP Live Chat Support - Cloud Server 플러그인을 비활성화 시키세요."
+
+#: wp-live-chat-support-mobile-and-desktop-app/includes/update_control.php:38
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:47
+msgid "Mobile and Desktop App"
+msgstr "모바일 & 데스크탑 앱"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:95
+msgid "Mobile and Desktop App Settings"
+msgstr "모바일 & 데스크탑 앱 셋팅"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:98
+msgid "Enable mobile and desktop app"
+msgstr "모바일 & 데스크탑 앱을 허용"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:120
+msgid "App"
+msgstr "앱"
+
+#: wp-live-chat-support-pro/ajax-pro.php:269
+msgid "Guest"
+msgstr "손님"
+
+#: wp-live-chat-support-pro/ajax-pro.php:341
+#: wp-live-chat-support/ajax_new.php:286
+msgid "Admin has closed and ended the chat"
+msgstr "관리자가 채팅을 껏거나 종료했습니다."
+
+#: wp-live-chat-support-pro/ajax-pro.php:376
+#: wp-live-chat-support/ajax_new.php:310
+msgid "There is No Answer. Please Try Again Later"
+msgstr "응답이 없습니다. 나중에 다시 시도해주세요."
+
+#: wp-live-chat-support-pro/functions-pro.php:54
+#: wp-live-chat-support-pro/functions-pro.php:173
+#: wp-live-chat-support-pro/functions-pro.php:325
+#: wp-live-chat-support/functions.php:294
+#: wp-live-chat-support/functions.php:486
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:458
+#: wp-live-chat-support/wp-live-chat-support.php:2499
+msgid "IP Address not recorded"
+msgstr "IP 주소가 기록되지 않았습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:56
+#: wp-live-chat-support-pro/functions-pro.php:175
+#: wp-live-chat-support-pro/functions-pro.php:327
+#: wp-live-chat-support/functions.php:296
+#: wp-live-chat-support/functions.php:488
+#: wp-live-chat-support/wp-live-chat-support.php:2501
+msgid "Whois for"
+msgstr "대상"
+
+#: wp-live-chat-support-pro/functions-pro.php:61
+#: wp-live-chat-support-pro/functions-pro.php:333
+#: wp-live-chat-support/functions.php:301
+#: wp-live-chat-support/functions.php:443
+#: wp-live-chat-support/functions.php:1359
+msgid "Accept Chat"
+msgstr "채팅 수용"
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303
+msgid "Incoming Chat"
+msgstr "대기중인 채팅"
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303
+msgid "You have an incoming chat."
+msgstr "대기중인 채팅을 가지고 있습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:67
+#: wp-live-chat-support/functions.php:448
+msgid "Open Chat"
+msgstr "공개 채팅"
+
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309
+msgid "Chat Active"
+msgstr "채팅 활성화"
+
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309
+msgid "This chat is active"
+msgstr "이 채팅은 활성화되었습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:74
+#: wp-live-chat-support-pro/functions-pro.php:160
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2355
+#: wp-live-chat-support/wp-live-chat-support.php:1703
+msgid "Initiate Chat"
+msgstr "채팅 초기화"
+
+#: wp-live-chat-support-pro/functions-pro.php:76
+#: wp-live-chat-support-pro/functions-pro.php:162
+msgid "You must be a chat agent to initiate chats"
+msgstr "채팅을 초기화 하려면, 당신은 채팅 에이전트여야 합니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:99
+#: wp-live-chat-support/functions.php:511
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:474
+msgid "New"
+msgstr "새"
+
+#: wp-live-chat-support-pro/functions-pro.php:101
+#: wp-live-chat-support/functions.php:513
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:476
+msgid "Returning"
+msgstr "반환중"
+
+#: wp-live-chat-support-pro/functions-pro.php:143
+msgid "Visitors on site"
+msgstr "사이트 방문자"
+
+#: wp-live-chat-support-pro/functions-pro.php:207
+#: wp-live-chat-support-pro/functions-pro.php:377
+#: wp-live-chat-support/functions.php:332
+#: wp-live-chat-support/wp-live-chat-support.php:2536
+msgid "Site Info"
+msgstr "사이트 정보"
+
+#: wp-live-chat-support-pro/functions-pro.php:209
+#: wp-live-chat-support-pro/functions-pro.php:379
+#: wp-live-chat-support/functions.php:334
+#: wp-live-chat-support/wp-live-chat-support.php:2538
+msgid "Chat initiated on:"
+msgstr "초기화 위에 있는 채팅:"
+
+#: wp-live-chat-support-pro/functions-pro.php:213
+#: wp-live-chat-support-pro/functions-pro.php:383
+#: wp-live-chat-support/functions.php:338
+#: wp-live-chat-support/wp-live-chat-support.php:2542
+msgid "Advanced Info"
+msgstr "고급 정보"
+
+#: wp-live-chat-support-pro/functions-pro.php:215
+#: wp-live-chat-support-pro/functions-pro.php:385
+#: wp-live-chat-support/functions.php:340
+#: wp-live-chat-support/wp-live-chat-support.php:2544
+msgid "Browser:"
+msgstr "브라우저:"
+
+#: wp-live-chat-support-pro/functions-pro.php:216
+#: wp-live-chat-support-pro/functions-pro.php:386
+#: wp-live-chat-support/functions.php:341
+#: wp-live-chat-support/wp-live-chat-support.php:2545
+msgid "IP Address:"
+msgstr "IP 주소:"
+
+#: wp-live-chat-support-pro/functions-pro.php:259
+msgid "No visitors on-line at the moment"
+msgstr "지금 온라인에 있는 방문자가 없습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:302
+#: wp-live-chat-support/functions.php:277
+msgid "No chat sessions available at the moment"
+msgstr "지금 가능한 채팅 세션들이 없습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:304
+#: wp-live-chat-support/functions.php:279
+msgid "Active Chats"
+msgstr "채팅 활성화"
+
+#: wp-live-chat-support-pro/functions-pro.php:339
+msgid "You must be a chat agent to answer chats"
+msgstr "채팅에 대답하기 우해서는 당신은 반드시 채팅 에이전트여야만 합니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:345
+#: wp-live-chat-support/functions.php:307
+msgid "Open Chat Window"
+msgstr "채팅창 열기"
+
+#: wp-live-chat-support-pro/functions-pro.php:349
+msgid "Chat has been answered by another agent"
+msgstr "또다른 에이전트에 의해서 채팅이 응답되어져 왔습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:350
+msgid "Chat answered by another agent"
+msgstr "또다른 에이전트에 의해서 채팅이 응답됬었습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:409
+#: wp-live-chat-support/functions.php:1205
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support - 오프라인 메세지"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:969
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:441
+#: wp-live-chat-support-pro/includes/wplc_roi.php:128
+#: wp-live-chat-support/functions.php:1206
+#: wp-live-chat-support/functions.php:1620
+#: wp-live-chat-support/includes/deprecated.php:192
+#: wp-live-chat-support/includes/deprecated.php:391
+#: wp-live-chat-support/includes/settings_page.php:256
+#: wp-live-chat-support/wp-live-chat-support.php:1384
+#: wp-live-chat-support/wp-live-chat-support.php:1542
+#: wp-live-chat-support/wp-live-chat-support.php:3086
+#: wp-live-chat-support/wp-live-chat-support.php:3197
+msgid "Name"
+msgstr "이름"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:970
+#: wp-live-chat-support/functions.php:1207
+#: wp-live-chat-support/functions.php:1621
+#: wp-live-chat-support/includes/deprecated.php:193
+#: wp-live-chat-support/includes/deprecated.php:392
+#: wp-live-chat-support/wp-live-chat-support.php:1385
+#: wp-live-chat-support/wp-live-chat-support.php:1543
+#: wp-live-chat-support/wp-live-chat-support.php:3087
+#: wp-live-chat-support/wp-live-chat-support.php:3198
+msgid "Email"
+msgstr "이메일"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:971
+#: wp-live-chat-support-pro/functions-pro.php:1546
+#: wp-live-chat-support/functions.php:1208
+#: wp-live-chat-support/wp-live-chat-support.php:1544
+#: wp-live-chat-support/wp-live-chat-support.php:3199
+#: wp-live-chat-support/wp-live-chat-support.php:4141
+#: wp-live-chat-support/wp-live-chat-support.php:4191
+msgid "Message"
+msgstr "메세지"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support/functions.php:1209
+msgid "Via WP Live Chat Support"
+msgstr "WP Live Chat Support를 통해"
+
+#: wp-live-chat-support-pro/functions-pro.php:480
+msgid "Alert: Someone wants to chat with you on "
+msgstr "알림: 누군가가 당신과 채팅하기를 원합니다"
+
+#: wp-live-chat-support-pro/functions-pro.php:481
+msgid "Someone wants to chat with you on your website"
+msgstr "누군가가 당신의 웹사이트에서 당신과 채팅하기를 원합니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:481
+msgid "Log in"
+msgstr "로그인"
+
+#: wp-live-chat-support-pro/functions-pro.php:748
+#: wp-live-chat-support-pro/functions-pro.php:764
+#: wp-live-chat-support-pro/functions-pro.php:779
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2731
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2747
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2762
+msgid "Chat Agent"
+msgstr "채팅 에이전트"
+
+#: wp-live-chat-support-pro/functions-pro.php:753
+#: wp-live-chat-support-pro/functions-pro.php:769
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2736
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2752
+msgid "Make this user a chat agent"
+msgstr "이 사용자를 채팅 에이전트로 만듭니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:783
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2766
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+"당신의 사용자 권한이 당신 스스로를 채팅 에이전트로 만드는 것을 허용하지 않습"
+"니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:784
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2767
+msgid "Please contact the administrator of this website to change this."
+msgstr "이것을 바꾸기 위해서는, 이 웹사이트의 관리자와 연락하세요."
+
+#: wp-live-chat-support-pro/functions-pro.php:869
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3151
+msgid "Chat Agent Online"
+msgstr "채팅 에이전트 (온라인)"
+
+#: wp-live-chat-support-pro/functions-pro.php:871
+#: wp-live-chat-support-pro/functions-pro.php:876
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3153
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3158
+msgid "Chat Agents Online"
+msgstr "채팅 에이전트들 (온라인)"
+
+#: wp-live-chat-support-pro/functions-pro.php:968
+#: wp-live-chat-support/functions.php:1619
+#: wp-live-chat-support/wp-live-chat-support.php:3085
+#: wp-live-chat-support/wp-live-chat-support.php:3196
+msgid "Date"
+msgstr "날짜"
+
+#: wp-live-chat-support-pro/functions-pro.php:985
+#: wp-live-chat-support/wp-live-chat-support.php:3210
+msgid "You have not received any offline messages."
+msgstr "당신은 어떠한 오프라인 메세지도 받지 못했습니다."
+
+#: wp-live-chat-support-pro/functions-pro.php:1410
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:788
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3506
+#: wp-live-chat-support/wp-live-chat-support.php:3784
+msgid "Administrator"
+msgstr "관리자"
+
+#: wp-live-chat-support-pro/functions-pro.php:1411
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:794
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3512
+#: wp-live-chat-support/wp-live-chat-support.php:3793
+msgid "Editor"
+msgstr "에디터"
+
+#: wp-live-chat-support-pro/functions-pro.php:1412
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:800
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3518
+#: wp-live-chat-support/wp-live-chat-support.php:3802
+msgid "Author"
+msgstr "글 작성자"
+
+#: wp-live-chat-support-pro/functions-pro.php:1413
+msgid "Contributor"
+msgstr "기여자"
+
+#: wp-live-chat-support-pro/functions-pro.php:1414
+msgid "Subscriber"
+msgstr "구독자"
+
+#: wp-live-chat-support-pro/functions-pro.php:1544
+#: wp-live-chat-support/wp-live-chat-support.php:4139
+#: wp-live-chat-support/wp-live-chat-support.php:4189
+msgid "Chat ID"
+msgstr "채팅 아이디"
+
+#: wp-live-chat-support-pro/functions-pro.php:1545
+#: wp-live-chat-support/wp-live-chat-support.php:4140
+#: wp-live-chat-support/wp-live-chat-support.php:4190
+msgid "From"
+msgstr "로부터"
+
+#: wp-live-chat-support-pro/functions-pro.php:1547
+#: wp-live-chat-support/wp-live-chat-support.php:4142
+#: wp-live-chat-support/wp-live-chat-support.php:4192
+msgid "Timestamp"
+msgstr "타임스탬프"
+
+#: wp-live-chat-support-pro/functions-pro.php:1548
+#: wp-live-chat-support/wp-live-chat-support.php:4143
+#: wp-live-chat-support/wp-live-chat-support.php:4193
+msgid "Origin"
+msgstr "원본"
+
+#: wp-live-chat-support-pro/functions-pro.php:1560
+#: wp-live-chat-support/wp-live-chat-support.php:4148
+#: wp-live-chat-support/wp-live-chat-support.php:4198
+msgid "user"
+msgstr "사용자"
+
+#: wp-live-chat-support-pro/functions-pro.php:1562
+#: wp-live-chat-support/wp-live-chat-support.php:4150
+#: wp-live-chat-support/wp-live-chat-support.php:4200
+msgid "agent"
+msgstr "에이전트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:48
+#: wp-live-chat-support/includes/settings_page.php:26
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Support 셋팅"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:71
+#: wp-live-chat-support/wp-live-chat-support.php:2156
+#: wp-live-chat-support/wp-live-chat-support.php:2171
+msgid "Dear Pro User"
+msgstr "친애하는 프로 사용자에게"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:72
+msgid ""
+"Please enter a valid API key on the 'Live Chat' -> 'Settings' page. Failing "
+"to do this will result in you no longer receiving updates for this plugin."
+msgstr ""
+"'Live Chat' -> '셋팅' 페이지에서의 인가된 API 키를 입력해주세요. 이것을 실패"
+"한다면, 당신은 이플러그인에 대해서 더이상 업데이트를 받을 수 없습니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "You can obtain a copy of your API key "
+msgstr "당신의 API 키의 복사본을 얻을 수 있습니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "here"
+msgstr "이곳"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid ""
+"An account has been created for you while purchasing the plugin. If you have "
+"lost your password, please reset it "
+msgstr ""
+"플러그인을 구매하는 동안, 당신에게 계정하나가 생성되었습니다. 만약 비밀번호"
+"를 잊어버렸다면, 이것을 리셋하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:74
+msgid ""
+"If you feel you are getting this message in error, please try refreshing the "
+"page."
+msgstr ""
+"만약 에러안에서 이 메세지를 받는중이라고 느낀다면, 이 페이지를 새로고침하기"
+"를 시도하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:83
+#: wp-live-chat-support/includes/settings_page.php:53
+msgid "General Settings"
+msgstr "일반 셋팅"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:84
+#: wp-live-chat-support/includes/settings_page.php:58
+msgid "Chat Box"
+msgstr "채팅 박스"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:85
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:383
+#: wp-live-chat-support/includes/settings_page.php:63
+#: wp-live-chat-support/includes/settings_page.php:400
+#: wp-live-chat-support/wp-live-chat-support.php:766
+#: wp-live-chat-support/wp-live-chat-support.php:769
+msgid "Offline Messages"
+msgstr "오프라인 메세지"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:86
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:485
+#: wp-live-chat-support/includes/settings_page.php:68
+#: wp-live-chat-support/includes/settings_page.php:541
+msgid "Styling"
+msgstr "스타일링"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:87
+msgid "Chat Agents"
+msgstr "채팅 에이전트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: wp-live-chat-support/includes/settings_page.php:78
+msgid "Blocked Visitors"
+msgstr "차단된 방문자"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:89
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:830
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid "Chat Experience Ratings"
+msgstr "채팅 경험 평점"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:90
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1863
+msgid "Encryption"
+msgstr "암호화"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:93
+#: wp-live-chat-support/includes/settings_page.php:91
+msgid "Main Settings"
+msgstr "메인 셋팅"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:96
+msgid "Find out more."
+msgstr "더 찾아보세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:103
+msgid "Use our server to host your chat server."
+msgstr "당신의 채팅 서버에 호스팅하기 위해서 우리의 서버를 사용하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:107
+#: wp-live-chat-support/wp-live-chat-support.php:3915
+msgid "API Key"
+msgstr "API 키"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:112
+msgid "This API key is "
+msgstr "이 API 키는"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:115
+msgid "valid"
+msgstr "허가됨"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:118
+msgid "invalid"
+msgstr "비허가됨"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:122
+msgid ""
+"A valid API key means that you will be able to get the latest version of the "
+"plugin as and when it is released, as well as get access to support should "
+"you require it."
+msgstr ""
+"API 키가 인가되었다는 것은, 최신 릴리즈가 올라왔을때 최신버전의 플러그인을 제"
+"공받을 수 있을것이라는 것 뿐만아니라  도움이 필요하다면 서포트에 접근할 수 있"
+"다는 것을 의미합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:130
+#: wp-live-chat-support/includes/settings_page.php:94
+msgid "Chat enabled"
+msgstr "허용된 채팅"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1699
+msgid "Choose when I want to be online"
+msgstr "내가 온라인이 되었을때 선택하기"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1699
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"이것을 체크하는것은 Live Chat 페이지에서 당신이 온라인 혹은 오프라인 상태를 "
+"바꿀수 있게 허용할 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+msgid "Hide Chat"
+msgstr "채팅 숨기기"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "유저가 X를 클릭했을때, 24시간동안 채팅을 숨김"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+msgid "Require Name And Email"
+msgstr "이름과 이메일을 요구합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr "채팅이 시작되었을때, 사용자는 이름과 이메일을 입력해야만 할 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+msgid "Input Field Replacement Text"
+msgstr "대체 문구를 넣으세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "이름과 이메일 필드 대신에 대체되어 보여질 것인 텍스트입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+msgid "Use Logged In User Details"
+msgstr "로그인된 사용자에 대한 세부사항"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"로그인 되어졌다면, 사용자의 이름과 이메일 주소는 기본적으로 사용되어질 것입니"
+"다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+msgid "Enable On Mobile Devices"
+msgstr "모바일 기기 허용"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"이것을 비허용 하는 것은, 채팅박스가 모바일 기기에서 보이지 않을 것을 의미합니"
+"다. (스마트폰과 태블릿)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+msgid "Record a visitor's IP Address"
+msgstr "방문자의 IP 주소 기록"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "당신의 방문자를 위해서 익명성을 허용하기 위해서는 이것을 비허용하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+msgid "Play a sound when a new message is received"
+msgstr "새로운 메세지가 도착했을때, 사운드를 재생합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+"새로운 메세지가 도착했을때 사운드가 재생되는것을 뮤트하기 위해서는 이것을 비"
+"허용하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2141
+msgid "Include chat window on the following pages:"
+msgstr "뒤따르는 페이지에서 채팅창을 포함:"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2141
+#: wp-live-chat-support/includes/settings_page.php:175
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"뒤따르는 페이지에서 채팅창을 보여줍니다. 전부 보여주려면 공백으로 유지하세"
+"요. (페이지 아이디들을 콤마로 구분하여 사용)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2149
+msgid "Exclude chat window on the following pages:"
+msgstr "뒤따르는 페이지에서 채팅창을 배척:"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2149
+#: wp-live-chat-support/includes/settings_page.php:190
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"뒤따르는 페이지에서 채팅창을 보여주지 않습니다. 모든 페이지에서 보여주려면 공"
+"백으로 유지하세요. (콤마로 분리된 페이지 아이디들을 사용)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2157
+msgid "Allow any user to make themselves a chat agent"
+msgstr "어떤 유저라도 그들자신을 채팅 에이전트로 만드는것을 허용"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2157
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"그들의 프로필을 수정할때, 어떤 당신의 사용자라도 그들자신을 채팅 에이전트로 "
+"만든는 것을 허용시키려면 이것을 체크하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:255
+#: wp-live-chat-support/includes/settings_page.php:213
+msgid "Chat Window Settings"
+msgstr "채팅창 설정"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:258
+#: wp-live-chat-support/includes/settings_page.php:216
+msgid "Chat box alignment"
+msgstr "채팅 박스 정렬"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:263
+#: wp-live-chat-support/includes/settings_page.php:219
+msgid "Bottom left"
+msgstr "하단 좌측"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: wp-live-chat-support/includes/settings_page.php:220
+msgid "Bottom right"
+msgstr "하단 우측"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:269
+#: wp-live-chat-support/includes/settings_page.php:221
+msgid "Left"
+msgstr "좌측"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:272
+#: wp-live-chat-support/includes/settings_page.php:222
+msgid "Right"
+msgstr "우측"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+msgid "Auto Pop-up"
+msgstr "자동 팝업"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"채팅 박스를 자동적으로 확장합니다. (사용자가 이름과 이메일 주소를 쓰도록 촉"
+"구)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:289
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:923
+msgid "Name "
+msgstr "이름"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:303
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:996
+#: wp-live-chat-support/includes/settings_page.php:272
+msgid "Picture"
+msgstr "사진"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:311
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1004
+#: wp-live-chat-support/includes/settings_page.php:275
+#: wp-live-chat-support/includes/settings_page.php:291
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:313
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1006
+msgid "Remove Image"
+msgstr "이미지 삭제"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:314
+msgid "Recomended Size 40px x 40px"
+msgstr "40px x 40px의 사이즈를 추천합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:320
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1014
+#: wp-live-chat-support/includes/settings_page.php:288
+msgid "Logo"
+msgstr "로고"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:328
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1022
+msgid "Upload Logo"
+msgstr "로고 업로드"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1024
+msgid "Remove Logo"
+msgstr "로고 삭제"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:331
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+msgid "Recomended Size 250px x 40px"
+msgstr "250px x 40px 의 사이즈를 추천합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1031
+#: wp-live-chat-support/includes/settings_page.php:304
+msgid "Chat delay (seconds)"
+msgstr "채팅 지연 ( 몇초가 지연됨 )"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1031
+msgid "How long it takes for your chat window to pop up"
+msgstr "당신의 채팅창이 팝업되는것에 대해서 얼마나 오래 걸렸는지."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1040
+#: wp-live-chat-support/includes/settings_page.php:320
+msgid "Chat notifications"
+msgstr "채팅 알림"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1040
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr ""
+"누군가가 채팅을 원하자마자 이메일을 통해서 나에게 알림 (온라인일 동안만)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+msgid "Display name and avatar in chat"
+msgstr "채팅에서 이름과 아바타를 보여줌"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "채팅창에서 각 메세지들에 사용자와 에이전트의 이름을 표시합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+msgid "Only show the chat window to users that are logged in"
+msgstr "사용자가 로그인 되어졌을때만 채팅창을 보여줍니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr "이것을 체크함에 의해서, 로그인된 사용자는 당신과 채팅하게 될 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+msgid "Do not allow users to send offline messages"
+msgstr "사용자가 오프라인 메세지를 보내는 것을 허용하지 않습니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"오프라인 일때, 채팅창이 숨겨질 것입니다. 사용자는 당신에게 오프라인 메세지를 "
+"보낼 수 없을 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"오프라인 메세지가 전달될 이메일 주소입니다. 하나의 이메일 주소보다 더 많은 이"
+"메일 주소에 보내려면, 콤마로 구분된 이메일 주소를 사용하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:412
+#: wp-live-chat-support/includes/settings_page.php:428
+msgid "Sending Method"
+msgstr "전송 방식"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:413
+#: wp-live-chat-support/includes/settings_page.php:429
+msgid "WP Mail"
+msgstr "WP 메일"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:414
+#: wp-live-chat-support/includes/settings_page.php:430
+msgid "PHP Mailer"
+msgstr "PHP 메일러"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:430
+#: wp-live-chat-support/includes/settings_page.php:446
+msgid "Host"
+msgstr "호스트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:438
+#: wp-live-chat-support/includes/settings_page.php:454
+msgid "Port"
+msgstr "포트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:446
+#: wp-live-chat-support/includes/settings_page.php:462
+msgid "Username"
+msgstr "사용자명"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:454
+#: wp-live-chat-support/includes/settings_page.php:470
+msgid "Password"
+msgstr "비밀번호"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:463
+#: wp-live-chat-support/includes/settings_page.php:479
+msgid "Offline Chat Box Title"
+msgstr "오프라인 채팅박스 제목"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:471
+#: wp-live-chat-support/includes/settings_page.php:487
+msgid "Offline Text Fields"
+msgstr "오프라인 텍스트 필드"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:504
+#: wp-live-chat-support/includes/settings_page.php:546
+msgid "Choose a theme"
+msgstr "테마를 서낵하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:512
+msgid "Theme 1"
+msgstr "테마 1"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:515
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:518
+msgid "Theme 2"
+msgstr "테마 2"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:521
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:524
+msgid "Theme 3"
+msgstr "테마 3"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:527
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:530
+msgid "Theme 4"
+msgstr "테마 4"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:533
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:536
+msgid "Theme 5"
+msgstr "테마 5"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:539
+msgid "Theme 6"
+msgstr "테마 6"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:542
+msgid "Custom. Enter Colour Values Below"
+msgstr "커스텀합니다. 아래에 색상값을 입력하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:568
+msgid "Chat box fill color"
+msgstr "채팅 박스에 컬러를 채웁니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:574
+msgid "Chat box font color"
+msgstr "채팅 박스 폰트 컬러"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:581
+#: wp-live-chat-support/includes/settings_page.php:677
+msgid "I'm using a localization plugin"
+msgstr "나는 개인적인 플러그인을 사용중입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:584
+msgid "documentation"
+msgstr "문서"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:589
+msgid ""
+"You will only be able to edit the strings shown in the chat window of the "
+"code now. <br/> This has been done to accommodate as many localization "
+"plugins as possible. <br/> For more information on how to change these "
+"strings, please consult the "
+msgstr ""
+"이제, 채팅창의 코드안에서 보여질 문자들을 수정할 수 있게 될것입니다. <br/> 이"
+"것은 가능한 많은 개인적인 플러그인들을 유지시키기 위해서 수행되어질 것입니"
+"다. <br/> 이 문자열을 변경하는 방법에 대해서는 정보를 더 참조하시고, 우리와 "
+"상담하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:594
+#: wp-live-chat-support/includes/settings_page.php:685
+msgid "First Section Text"
+msgstr "첫번째 영역 텍스트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:601
+#: wp-live-chat-support/includes/settings_page.php:692
+msgid "Intro Text"
+msgstr "인사말"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:607
+#: wp-live-chat-support/includes/settings_page.php:698
+msgid "Second Section Text"
+msgstr "두번째 영역 텍스트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:614
+#: wp-live-chat-support/includes/settings_page.php:705
+msgid "Reactivate Chat Section Text"
+msgstr "재활성화된 채팅 영역 텍스트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:622
+#: wp-live-chat-support/includes/settings_page.php:713
+msgid "User chat welcome"
+msgstr "사용자 채팅을 환영합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:628
+#: wp-live-chat-support/includes/settings_page.php:719
+msgid "Other text"
+msgstr "다른 텍스트"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:630
+#: wp-live-chat-support/includes/settings_page.php:721
+msgid "This text is shown above the user chat input field"
+msgstr "이 텍스트는 사용자의 채팅 입력 필드에 보여질 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:662
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+"당신은 구식인 WP Live Support basic을 사용하는 중입니다. 기능들에 대해서 애니"
+"메이션을 허용하기 위해서, 당신의 플러그인을 업데이트 해주세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:666
+#: wp-live-chat-support/includes/settings_page.php:749
+msgid "Choose an animation"
+msgstr "애니메이션 선택"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:674
+#: wp-live-chat-support/includes/settings_page.php:757
+msgid "Slide Up"
+msgstr "슬라이드 업"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:680
+#: wp-live-chat-support/includes/settings_page.php:763
+msgid "Slide From The Side"
+msgstr "슬라이드로부터 슬라이드"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:686
+#: wp-live-chat-support/includes/settings_page.php:769
+msgid "Fade In"
+msgstr "페이드 인"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:692
+#: wp-live-chat-support/includes/settings_page.php:775
+msgid "No Animation"
+msgstr "애니메이션 없음"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:750
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3468
+#: wp-live-chat-support/wp-live-chat-support.php:3753
+msgid "Current Users that are Chat Agents"
+msgstr "채팅 에이전트인 현재 사용자들"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:761
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3479
+#: wp-live-chat-support/wp-live-chat-support.php:3763
+msgid "Online"
+msgstr "온라인"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:771
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3489
+#: wp-live-chat-support/wp-live-chat-support.php:2137
+msgid "Remove"
+msgstr "삭제"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:780
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3498
+#: wp-live-chat-support/wp-live-chat-support.php:3813
+msgid "Add New Agent"
+msgstr "새 에이전트 추가"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:782
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:802
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3500
+#: wp-live-chat-support/wp-live-chat-support.php:2573
+#: wp-live-chat-support/wp-live-chat-support.php:3778
+msgid "Select"
+msgstr "선택"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:804
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3522
+#: wp-live-chat-support/wp-live-chat-support.php:3814
+msgid "Add Agent"
+msgstr "에이전트 추가"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:810
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3528
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"'글 작성자보다' 못한 역할을 가진 유저에게 추가하기를 원한다면, <a href='./"
+"users.php'>사용자</a> 페이지를 방문하시고, 관련된 사용자를 선택하시고, 수정"
+"을 선택하고 페이지의 하단까지 스크롤하시고 '채팅 에이전트' 체크박스를 허용하"
+"세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:811
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3529
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"온라인에 채팅 에이전트가 없다면, 채팅은 오프라인으로써 보여질 것입니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:815
+#: wp-live-chat-support/includes/settings_page.php:802
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "차단된 방문자 - IP 주소에 기반"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:816
+#: wp-live-chat-support/includes/settings_page.php:803
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "차단하기를 원하는 각각의 IP 주소를 개행과 함께 입력하세요."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:827
+#: wp-live-chat-support/includes/settings_page.php:814
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"이곳에서 사용자의 IP 주소를 차단하는 것은, 당신과 채팅하는것을 방지해야하기 "
+"때문에 그들로부터 채팅창을 숨길 것입니다. 각각의 IP 주소는 반드시 다른행에 기"
+"록되어져야만 합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid ""
+"are only available in the WP Live Chat Support Chat Experience Ratings add-on"
+msgstr "WP Live Chat Support 채팅 경험 평가 애드온에서만 사용가능합니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:840
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1827
+msgid "Chat Encryption"
+msgstr "채팅 암호화"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1830
+msgid "Enable Encryption"
+msgstr "암호화 허용"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1830
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+"유저와 에이전트로부터 메세지가 보내질때에, 모든 메세지는 암호화 되어질 것입니"
+"다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:851
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1840
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+"한번 허용한다면, 보내진 모든 메세지는 암호화 될 것입니다. 암호화된 메세지는 "
+"되돌려질 수 없습니다."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:857
+#: wp-live-chat-support/includes/settings_page.php:822
+msgid "Save Settings"
+msgstr "셋팅 저장하기"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:5
+#: wp-live-chat-support-pro/includes/wplc_roi.php:83
+msgid "Add New"
+msgstr "추가"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:8
+#: wp-live-chat-support/wp-live-chat-support.php:4432
+#: wp-live-chat-support/wp-live-chat-support.php:4462
+msgid "WP Live Chat Support Triggers"
+msgstr "WP Live Chat Support 트리거"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:16
+#: wp-live-chat-support-pro/includes/wplc_roi.php:110
+#: wp-live-chat-support/wp-live-chat-support.php:4416
+#: wp-live-chat-support/wp-live-chat-support.php:4478
+msgid "Update now"
+msgstr "지금 업데이트"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr "트리거 이름"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr "트리거 타입"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:77
+#: wp-live-chat-support/wp-live-chat-support.php:4468
+msgid "Page Trigger"
+msgstr "페이지 트리거"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:78
+#: wp-live-chat-support/wp-live-chat-support.php:4469
+msgid "Time Trigger"
+msgstr "시간 트리거"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:79
+#: wp-live-chat-support/wp-live-chat-support.php:4470
+msgid "Scroll Trigger"
+msgstr "스크롤 트리거"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:80
+#: wp-live-chat-support/wp-live-chat-support.php:4471
+msgid "Page Leave Trigger"
+msgstr "페이지 종료 트리거"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+"알림: 기본 테마와 함께 페이지 트리거를 사용할때, 어떠한 정보팝업도 기본적으"
+"로 보여지지 않습니다. 이것 대신에 시간 트리거를 사용하는것을 우리는 제안합니"
+"다."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr "페이지 아이디"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr "알림: '모든' 페이지들에 대해서 공백으로 남기세요."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr "이후에 보여주기"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr "수초"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr "스크롤되어진 이후에 보여줍니다."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr "(%) 페이지 높이의 퍼센트"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr "내용 대체"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:114
+msgid "Replace Content"
+msgstr "내용을 대체합니다."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:119
+msgid "Enable Trigger"
+msgstr "트리거 허용"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:125
+#: wp-live-chat-support-pro/includes/wplc_roi.php:237
+msgid "Close"
+msgstr "닫기"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:134
+#: wp-live-chat-support-pro/includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr "당신의 제안을 남기기를 부탁드립니다."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:275
+msgid "Trigger has been edited."
+msgstr "트리거가 수정되었습니다."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:428
+msgid "Conflict with page"
+msgstr "페이지와 함께 제한하기"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:430
+msgid "Trigger ID: "
+msgstr "트리거 아이디:"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:440
+#: wp-live-chat-support-pro/includes/wplc_roi.php:127
+#: wp-live-chat-support/functions.php:1853
+msgid "ID"
+msgstr "아이디:"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:442
+#: wp-live-chat-support/wp-live-chat-support.php:2335
+msgid "Type"
+msgstr "타입:"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:443
+#: wp-live-chat-support-pro/includes/wplc_roi.php:130
+msgid "Page"
+msgstr "페이지"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:444
+msgid "Content"
+msgstr "내용"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:445
+#: wp-live-chat-support/wp-live-chat-support.php:2338
+#: wp-live-chat-support/wp-live-chat-support.php:3089
+msgid "Status"
+msgstr "상태"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:446
+#: wp-live-chat-support-pro/includes/wplc_roi.php:132
+#: wp-live-chat-support/functions.php:1623
+#: wp-live-chat-support/wp-live-chat-support.php:2339
+#: wp-live-chat-support/wp-live-chat-support.php:3090
+msgid "Action"
+msgstr "액션"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:453
+#: wp-live-chat-support-pro/includes/wplc_roi.php:139
+msgid "Edit"
+msgstr "수정"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:454
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:585
+#: wp-live-chat-support-pro/includes/wplc_roi.php:140
+#: wp-live-chat-support-pro/includes/wplc_roi.php:545
+msgid "Delete"
+msgstr "삭제"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:462
+#: wp-live-chat-support-pro/includes/wplc_roi.php:656
+#: wp-live-chat-support/wp-live-chat-support.php:3567
+msgid "All"
+msgstr "전부"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:466
+msgid "Click to change trigger status"
+msgstr "트리거 상태를 변경하기 위해서는 클릭하세요"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:476
+msgid "No Triggers Found..."
+msgstr "어떤 트리거들도 찾을수 없습니다..."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:580
+msgid "Are you sure you would like to delete trigger"
+msgstr "트리거를 삭제하길 확신합니까?"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:586
+#: wp-live-chat-support-pro/includes/wplc_roi.php:546
+msgid "Cancel"
+msgstr "취소"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr "ROI 목표"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:86
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Support ROI 목표"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:129
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3879
+msgid "Overview"
+msgstr "요약"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:131
+#: wp-live-chat-support/modules/api/wplc-api.php:76
+msgid "Value"
+msgstr "값"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:146
+msgid "None"
+msgstr "없음"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:153
+msgid "No ROI Goals Found..."
+msgstr "어떠한 ROI 목표들도 찾을수 없습니다..."
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:212
+msgid "Goal Name"
+msgstr "목표명"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr "목표 요약"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr "목표 페이지"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr "목표값"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr "목표가 수정되었습니다."
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr "목표를 삭제하길 확신합니까?"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr "보고중인 ROI"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr "목표 통계"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr "어떠한 목표도 찾을수 없습니다."
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:657
+msgid "Last 30 Days"
+msgstr "최근 30일"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:658
+msgid "Last 15 Days"
+msgstr "최근 15일"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:659
+msgid "Last 7 Days"
+msgstr "최근 1주일"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:660
+msgid "Last 24 Hours"
+msgstr "최근 24시간"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:712
+msgid "Value Per Conversion"
+msgstr "인당 대화 수치"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:718
+msgid "Total Value"
+msgstr "전체 수치"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:723
+msgid "Total Conversions"
+msgstr "전체 대화"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:757
+msgid "Value By Date"
+msgstr "날짜에 의한 수치"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:760
+msgid "Value By Agent"
+msgstr "에이전트에 의한 수치"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:766
+msgid "No data available yet..."
+msgstr "아직 어떤 데이터도 찾지 못했습니다..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:515
+#, php-format
+msgid ""
+"WP Live Chat Support Pro <strong>requires WP Live Chat Support version 6+</"
+"strong> (basic version). Please <strong><a href=\"%1$s\">update the plugin</"
+"a></strong> in order for the plugin to continue working correctly."
+msgstr ""
+"WP Live Chat Support Pro 가 <strong>WP Live Chat Support version 6+</strong> "
+"(기본 버전) 를 요구합니다. 플러그인이 올바르게 동작하기 위해서는, <strong><a "
+"href=\"%1$s\">플러그인 업데이트</a></strong>를 부탁합니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:601
+msgid "WP Live Chat Support Pro"
+msgstr "WP Live Support 프로"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:714
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:725
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3207
+msgid "Quick Responses"
+msgstr "다수의 빠른 답장"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:715
+msgid "Quick Response"
+msgstr "빠른 답장"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:716
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:719
+msgid "New Quick Response"
+msgstr "새로운 빠른 답장"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:717
+msgid "Add New Quick Response"
+msgstr "새로운 빠른 답장 추가"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:718
+msgid "Edit Quick Response"
+msgstr "빠른 답장 수정"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:720
+msgid "All Quick Responses"
+msgstr "모든 빠른 답장"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:721
+msgid "View Quick Responses"
+msgstr "빠른 답장 보기"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:722
+msgid "Search Quick Responses"
+msgstr "빠른 답장 검색"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:723
+msgid "No Quick Responses found"
+msgstr "빠른 답장들을 찾을 수 없습니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:724
+msgid "No Quick Responses found in the Trash"
+msgstr "휴지통안에서 빠른 답장들을 찾을 수 없습니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:729
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr "WP Live Chat Support 프로를 위한 빠른 답장"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:795
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:799
+#: wp-live-chat-support/wp-live-chat-support.php:2573
+msgid "Assign Quick Response"
+msgstr "빠른 답장 배정"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:808
+msgid "What is this?"
+msgstr "이게 뭡니까?"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:845
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "대기중인 채팅 %s (%s) (안에서 %s)"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:851
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr "%s (%s)가 당신과 채팅하기를 원합니다. <br /><br /> 로그인: %s"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:899
+#: wp-live-chat-support/includes/settings_page.php:239
+msgid "Display typing indicator"
+msgstr "타이핑 지시자를 보여줍니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:899
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+"에이전트 혹은 방문자가 타이핑하자마자 \"typing...\"  애니메이션을 보여줍니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:906
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of this "
+"feature."
+msgstr ""
+"이 기능을 사용하기 위해서는, 당신의 <a href='%s'>베이직 버전</a>을 업데이트 "
+"해주세요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:914
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+"비 클라우드 서버사용자를 위해서, 필요한 서버의 자원이 증설될 것임을 알아주기"
+"를 부탁드립니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:931
+msgid "Use WordPress name instead"
+msgstr "워드프레스 이름을 대신 사용"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:934
+msgid "Note: 'Name' field will be ignored"
+msgstr "알림: \"이름\" 필드가 무시되어질 것입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:952
+msgid "Incoming chat ring tone"
+msgstr "대기중인 통화 연결음"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:957
+msgid "Default"
+msgstr "기본"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1007
+msgid "Recomended Size 60px x 60px"
+msgstr "60px x 60px 의 사이즈를 추천합니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1049
+msgid "User Experience"
+msgstr "사용자 경험"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1058
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1088
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of these "
+"features."
+msgstr ""
+"이러한 기능들을 사용하기 위해서는 <a href='%s'>기본 버전</a>을 업데이트 해주"
+"세요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1065
+msgid "Enable Text Editor"
+msgstr "텍스트 에디터 허용"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1065
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+"링크, 텍스트 스타일링 이외에도 많은 텍스트 에디터들의 특징을 추가하세요!"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1069
+msgid "Enable File Sharing"
+msgstr "파일 공유 허가"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1069
+msgid "Adds file sharing to your chat box!"
+msgstr "당신의 채팅 박스에 파일 공유를 추가합니다!"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1073
+msgid "Enable Experience Ratings"
+msgstr "경험 평가를 허용"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1073
+msgid "Allows users to rate the chat experience with an agent."
+msgstr "유저가 에이전트와의 경험을 평가하기 위해서 허용"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1079
+#: wp-live-chat-support/includes/settings_page.php:362
+msgid "Social"
+msgstr "소셜"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1096
+#: wp-live-chat-support/includes/settings_page.php:367
+msgid "Facebook URL"
+msgstr "페이스북 URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1096
+#: wp-live-chat-support/includes/settings_page.php:367
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+"당신의 페이스북 페이지를 이곳에 연결하세요. 숨기기 위해서는 블랭크를 유지하세"
+"요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1097
+#: wp-live-chat-support/includes/settings_page.php:369
+msgid "Facebook URL..."
+msgstr "페이스북 URL..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1100
+#: wp-live-chat-support/includes/settings_page.php:380
+msgid "Twitter URL"
+msgstr "트위터 URL..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1100
+#: wp-live-chat-support/includes/settings_page.php:380
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+"당신의 트위터 페이지를 이곳에 연결하세요. 숨기기 위해서는 공백으로 유지하세"
+"요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1101
+#: wp-live-chat-support/includes/settings_page.php:382
+msgid "Twitter URL..."
+msgstr "트위터 URL..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1124
+msgid "Admin"
+msgstr "관리자"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1618
+msgid "You are currently accepting chats"
+msgstr "당신은 즉각 채팅을 받는중입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1619
+msgid "You are not accepting chats"
+msgstr "당신은 채팅들을 받을수 없는 중입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1633
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+"당신은 상태를 오프라인으로 설정해왔습니다. 방문자를 보고, 채팅을 받아들이기 "
+"위해서는 위의 스위치를 사용하여 상태를 온라인으로 변경하십시오."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1839
+msgid ""
+"Please note: Chat messages will only be encrypted and decreypted if you have "
+"inserted your WP Live Chat Support Pro API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"알림: 만약 당신이 WP Live Chat Support 프로 APK 키를 <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API 키 페이지</a>에 입력해뒀다면, 채팅 "
+"메세지들은 암호화될것이며 복호화될 것입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2125
+msgid "Exclude chat from 'Home' page:"
+msgstr "'메인' 페이지로부터 채팅을 제외:  "
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2125
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+"이것을 체크되지 않는 상태로 놔두는 것은 당신의 홈페이지에서 채팅창을 보여주"
+"게 할 것입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2133
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "'Archive' 페이지로부터 채팅 제외:"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2133
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+"이것을 체크하지 않는것은 당신의 아카이브 페이지들로부터 채팅창을 보여주게 할 "
+"것입니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2464
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "채팅창 열기를 시도하는 중... 얌전히 기다리세요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2522
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"당신은 채팅 에이전트가 아닙니다. 방문자에게 채팅을 시도하는 것 이전에, 당신"
+"이 채팅 에이전트라는 것을 확인하세요."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2783
+msgid "This chat has already been answered by another agent."
+msgstr "이 채팅은 또다른 에이전트에 의해서 이미 응답되었습니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3090
+#: wp-live-chat-support/wp-live-chat-support.php:2234
+msgid "Agent(s) online"
+msgstr "에이전트(다수) 온라인"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3208
+#: wp-live-chat-support/wp-live-chat-support.php:740
+msgid "Reporting"
+msgstr "리포팅"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3209
+#: wp-live-chat-support/wp-live-chat-support.php:746
+msgid "Triggers"
+msgstr "트리거"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3685
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3693
+#: wp-live-chat-support/wp-live-chat-support.php:4312
+msgid "Experience Rating"
+msgstr "사용경험 평점"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3773
+msgid "User Experience Ratings"
+msgstr "사용자 경험 평점"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3780
+msgid "Agent Statistics"
+msgstr "에이전트 통계"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3826
+msgid "Satisfaction Rating"
+msgstr "평점 통계"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3827
+msgid "Rating Count"
+msgstr "평점수"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3827
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3841
+msgid "Good"
+msgstr "좋음"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3827
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3841
+msgid "Bad"
+msgstr "나쁨"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+msgid "No Ratings for this agent"
+msgstr "이 에이전트에게 평점이 없습니다."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3876
+#: wp-live-chat-support/wp-live-chat-support.php:4393
+#: wp-live-chat-support/wp-live-chat-support.php:4400
+msgid "WP Live Chat Support Reporting"
+msgstr "WP Live Chat Support 리포팅"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3880
+msgid "Popular Pages"
+msgstr "인기있는 페이지"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3898
+msgid "Total Agents"
+msgstr "모든 에이전트"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3898
+msgid "Total number of agents that used the live chat"
+msgstr "실시간 채팅에서 사용되어지는 모든 에이전트들의 수"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3899
+msgid "Total Chats"
+msgstr "모든 채팅"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3899
+msgid "Total number of chats received"
+msgstr "받은 모든 채팅의 수"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3900
+msgid "Total URLs"
+msgstr "모든 URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3900
+msgid "Total number of URLs a chat was initiated on"
+msgstr "채팅이 시작된 모든 URL의 수"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3901
+msgid "Chats per day"
+msgstr "일간 채팅"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3902
+msgid "Popular pages a chat was initiated on"
+msgstr "채팅이 유도된 인기있는 페이지"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3978
+#: wp-live-chat-support/functions.php:1622
+#: wp-live-chat-support/wp-live-chat-support.php:3088
+msgid "URL"
+msgstr "URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3979
+msgid "Count"
+msgstr "갯수"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3999
+msgid "Disable initiate chat feature:"
+msgstr "채팅 유도 기능을 비허용"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3999
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+"이것은 잠정적으로 퍼포먼스를 향상시킬 것입니다. 만약 당신이 퍼포먼스 이슈를 "
+"사이트에서 개선중이라면, 당신은 채팅 유도 기능을 비허용해야만 합니다. 당신이 "
+"필요할 때만 이것을 사용하세요."
+
+#: wp-live-chat-support/functions.php:451
+msgid "Only chat agents can accept chats"
+msgstr "오직 채팅 에이전트만이 채팅을 받을 수 있습니다."
+
+#: wp-live-chat-support/functions.php:654
+#: wp-live-chat-support/wp-live-chat-support.php:576
+#: wp-live-chat-support/wp-live-chat-support.php:1601
+#: wp-live-chat-support/wp-live-chat-support.php:2711
+#: wp-live-chat-support/wp-live-chat-support.php:4282
+msgid "Welcome. How may I help you?"
+msgstr "환영합니다. 도움이 필요하세요?"
+
+#: wp-live-chat-support/functions.php:1003
+msgid "complete"
+msgstr "완료됨"
+
+#: wp-live-chat-support/functions.php:1006
+msgid "pending"
+msgstr "중지됨"
+
+#: wp-live-chat-support/functions.php:1009
+msgid "active"
+msgstr "활성화"
+
+#: wp-live-chat-support/functions.php:1012
+msgid "deleted"
+msgstr "삭제됨"
+
+#: wp-live-chat-support/functions.php:1015
+msgid "browsing"
+msgstr "살펴보는 중"
+
+#: wp-live-chat-support/functions.php:1018
+msgid "requesting chat"
+msgstr "채팅을 요청하는 중"
+
+#: wp-live-chat-support/functions.php:1021
+msgid "Chat Ended - User still browsing"
+msgstr "채팅 종료 - 유저가 여전히 보고있음"
+
+#: wp-live-chat-support/functions.php:1024
+msgid "User is browsing but doesn't want to chat"
+msgstr "유저는 계속 보고있지만 채팅하기를 원하지 않습니다."
+
+#: wp-live-chat-support/functions.php:1359
+msgid "Get Pro Add-on to accept more chats"
+msgstr "더 많은 채팅을 받기 위해서는, 프로 애드온을 설치하세요."
+
+#: wp-live-chat-support/functions.php:1597
+#: wp-live-chat-support/wp-live-chat-support.php:3050
+msgid "Error: Could not delete chat"
+msgstr "에러: 채팅을 삭제할 수 없습니다."
+
+#: wp-live-chat-support/functions.php:1601
+#: wp-live-chat-support/wp-live-chat-support.php:3054
+msgid "Chat Deleted"
+msgstr "채팅 삭제됨"
+
+#: wp-live-chat-support/functions.php:1608
+#: wp-live-chat-support/wp-live-chat-support.php:3061
+msgid "Are you sure you would like to delete this chat?"
+msgstr "이 채팅을 삭제하기를 원합니까?"
+
+#: wp-live-chat-support/functions.php:1650
+msgid "You have not missed any chat requests."
+msgstr "당신은 놓친 채팅 요청이 없습니다."
+
+#: wp-live-chat-support/functions.php:1843
+msgid "Open chat window via"
+msgstr "채팅창 열기 (로부터)"
+
+#: wp-live-chat-support/functions.php:1847
+msgid "Click"
+msgstr "클릭"
+
+#: wp-live-chat-support/functions.php:1848
+msgid "Hover"
+msgstr "호버"
+
+#: wp-live-chat-support/functions.php:1850
+msgid "element with"
+msgstr "엘리먼트 폭"
+
+#: wp-live-chat-support/functions.php:1852
+msgid "Class"
+msgstr "클래스"
+
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:568
+#: wp-live-chat-support/wp-live-chat-support.php:1663
+#: wp-live-chat-support/wp-live-chat-support.php:2697
+#: wp-live-chat-support/wp-live-chat-support.php:4274
+msgid "Questions?"
+msgstr "질문?"
+
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:569
+#: wp-live-chat-support/wp-live-chat-support.php:1664
+#: wp-live-chat-support/wp-live-chat-support.php:2698
+#: wp-live-chat-support/wp-live-chat-support.php:4275
+msgid "Chat with us"
+msgstr "우리와 채팅하세요."
+
+#: wp-live-chat-support/includes/deprecated.php:158
+#: wp-live-chat-support/includes/deprecated.php:355
+msgid "Start Live Chat"
+msgstr "실시간 채팅을 시작합니다."
+
+#: wp-live-chat-support/includes/deprecated.php:210
+#: wp-live-chat-support/includes/deprecated.php:410
+#: wp-live-chat-support/wp-live-chat-support.php:571
+#: wp-live-chat-support/wp-live-chat-support.php:2700
+#: wp-live-chat-support/wp-live-chat-support.php:4277
+msgid "Start Chat"
+msgstr "채팅이 시작되었습니다."
+
+#: wp-live-chat-support/includes/deprecated.php:213
+#: wp-live-chat-support/includes/deprecated.php:413
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "당신의 요원에게 연결하는 중입니다. 얌전히 기다리세요."
+
+#: wp-live-chat-support/includes/deprecated.php:216
+#: wp-live-chat-support/includes/deprecated.php:416
+#: wp-live-chat-support/wp-live-chat-support.php:575
+#: wp-live-chat-support/wp-live-chat-support.php:1797
+#: wp-live-chat-support/wp-live-chat-support.php:1848
+#: wp-live-chat-support/wp-live-chat-support.php:2704
+#: wp-live-chat-support/wp-live-chat-support.php:4281
+msgid "Reactivating your previous chat..."
+msgstr "당신의 이전 채팅을 재활성화 하는중입니다..."
+
+#: wp-live-chat-support/includes/deprecated.php:221
+#: wp-live-chat-support/includes/deprecated.php:421
+#: wp-live-chat-support/wp-live-chat-support.php:577
+#: wp-live-chat-support/wp-live-chat-support.php:2572
+#: wp-live-chat-support/wp-live-chat-support.php:2710
+#: wp-live-chat-support/wp-live-chat-support.php:4283
+msgid "Press ENTER to send your message"
+msgstr "메세지를 보내기 위해서는 엔터를 누르세요."
+
+#: wp-live-chat-support/includes/deprecated.php:225
+#: wp-live-chat-support/includes/deprecated.php:425
+#: wp-live-chat-support/wp-live-chat-support.php:1637
+#: wp-live-chat-support/wp-live-chat-support.php:2587
+msgid "Send"
+msgstr "보내기"
+
+#: wp-live-chat-support/includes/feedback-page.php:6
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Support 피드백"
+
+#: wp-live-chat-support/includes/feedback-page.php:11
+msgid "Your Name"
+msgstr "이름"
+
+#: wp-live-chat-support/includes/feedback-page.php:19
+msgid "Your Email"
+msgstr "이메일"
+
+#: wp-live-chat-support/includes/feedback-page.php:27
+msgid "Your Website"
+msgstr "웹사이트"
+
+#: wp-live-chat-support/includes/feedback-page.php:35
+#: wp-live-chat-support/wp-live-chat-support.php:775
+msgid "Feedback"
+msgstr "피드백"
+
+#: wp-live-chat-support/includes/feedback-page.php:46
+msgid "Send Feedback"
+msgstr "피드백 보내기"
+
+#: wp-live-chat-support/includes/settings_page.php:73
+msgid "Agents"
+msgstr "에이전트"
+
+#: wp-live-chat-support/includes/settings_page.php:175
+msgid "Include chat window on the following pages"
+msgstr "따르는 페이지에서 채팅창을 포함합니다."
+
+#: wp-live-chat-support/includes/settings_page.php:181
+#: wp-live-chat-support/includes/settings_page.php:196
+#: wp-live-chat-support/includes/settings_page.php:245
+#: wp-live-chat-support/includes/settings_page.php:262
+#: wp-live-chat-support/includes/settings_page.php:278
+#: wp-live-chat-support/includes/settings_page.php:294
+#: wp-live-chat-support/includes/settings_page.php:310
+#: wp-live-chat-support/includes/settings_page.php:327
+#: wp-live-chat-support/includes/settings_page.php:372
+#: wp-live-chat-support/includes/settings_page.php:385
+msgid "available in the"
+msgstr "허가합니다 (내부)"
+
+#: wp-live-chat-support/includes/settings_page.php:182
+#: wp-live-chat-support/includes/settings_page.php:197
+#: wp-live-chat-support/includes/settings_page.php:246
+#: wp-live-chat-support/includes/settings_page.php:263
+#: wp-live-chat-support/includes/settings_page.php:279
+#: wp-live-chat-support/includes/settings_page.php:295
+#: wp-live-chat-support/includes/settings_page.php:311
+#: wp-live-chat-support/includes/settings_page.php:328
+#: wp-live-chat-support/includes/settings_page.php:373
+#: wp-live-chat-support/includes/settings_page.php:386
+#: wp-live-chat-support/wp-live-chat-support.php:3167
+#: wp-live-chat-support/wp-live-chat-support.php:3959
+#: wp-live-chat-support/wp-live-chat-support.php:4027
+msgid "Pro Add-on"
+msgstr "프로 애드온"
+
+#: wp-live-chat-support/includes/settings_page.php:183
+#: wp-live-chat-support/includes/settings_page.php:198
+#: wp-live-chat-support/includes/settings_page.php:247
+#: wp-live-chat-support/includes/settings_page.php:264
+#: wp-live-chat-support/includes/settings_page.php:280
+#: wp-live-chat-support/includes/settings_page.php:296
+#: wp-live-chat-support/includes/settings_page.php:312
+#: wp-live-chat-support/includes/settings_page.php:329
+#: wp-live-chat-support/includes/settings_page.php:374
+#: wp-live-chat-support/includes/settings_page.php:387
+msgid "only"
+msgstr "유일하게"
+
+#: wp-live-chat-support/includes/settings_page.php:190
+msgid "Exclude chat window on the following pages"
+msgstr "뒤따르는 페이지에서 채팅창을 제외합니다."
+
+#: wp-live-chat-support/includes/settings_page.php:239
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr "누군가가 타이핑을 시작하자마자 타이핑 애니메이션을 보여줍니다."
+
+#: wp-live-chat-support/includes/settings_page.php:324
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "누군가가 채팅하기를 원하자마자 나에게 이메일을 통해서 알림"
+
+#: wp-live-chat-support/includes/settings_page.php:551
+#: wp-live-chat-support/includes/settings_page.php:552
+msgid "Classic"
+msgstr "클래식"
+
+#: wp-live-chat-support/includes/settings_page.php:555
+#: wp-live-chat-support/includes/settings_page.php:556
+msgid "Modern"
+msgstr "모던"
+
+#: wp-live-chat-support/includes/settings_page.php:572
+msgid "Colour Scheme"
+msgstr "컬러 스킴"
+
+#: wp-live-chat-support/includes/settings_page.php:627
+msgid "Choose"
+msgstr "선택"
+
+#: wp-live-chat-support/includes/settings_page.php:628
+msgid "Your"
+msgstr "당신"
+
+#: wp-live-chat-support/includes/settings_page.php:629
+msgid "Colors"
+msgstr "다양한 컬러"
+
+#: wp-live-chat-support/includes/settings_page.php:630
+msgid "Below"
+msgstr "아래에"
+
+#: wp-live-chat-support/includes/settings_page.php:652
+msgid "Palette Color 1"
+msgstr "팔레트 컬러 1"
+
+#: wp-live-chat-support/includes/settings_page.php:658
+msgid "Palette Color 2"
+msgstr "팔레트 컬러 2"
+
+#: wp-live-chat-support/includes/settings_page.php:664
+msgid "Palette Color 3"
+msgstr "팔레트 컬러 3"
+
+#: wp-live-chat-support/includes/settings_page.php:670
+msgid "Palette Color 4"
+msgstr "팔레트 컬러 4"
+
+#: wp-live-chat-support/includes/surveys.php:8
+#: wp-live-chat-support/includes/surveys.php:21
+#: wp-live-chat-support/includes/surveys.php:290
+#: wp-live-chat-support/wp-live-chat-support.php:735
+msgid "Surveys"
+msgstr "설문조사"
+
+#: wp-live-chat-support/includes/surveys.php:24
+msgid "Enable Surveys"
+msgstr "설문조사 허용"
+
+#: wp-live-chat-support/includes/surveys.php:24
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+"실시간 채팅 세션 이후 혹은 이전에, 실시간 채팅박스 안에서 설문조사를 허용합니"
+"다."
+
+#: wp-live-chat-support/includes/surveys.php:33
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"생성된 설문조사가 없습니다. <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">에서 설문조사를 생성하시고 이 페이지를 새로고침하세요.</a>"
+
+#: wp-live-chat-support/includes/surveys.php:40
+msgid "Select a survey"
+msgstr "설문조사 선택"
+
+#: wp-live-chat-support/includes/surveys.php:66
+msgid "Display survey"
+msgstr "설문조사 노출"
+
+#: wp-live-chat-support/includes/surveys.php:69
+msgid "Before chat"
+msgstr "채팅전"
+
+#: wp-live-chat-support/includes/surveys.php:70
+msgid "After chat"
+msgstr "채팅후"
+
+#: wp-live-chat-support/includes/surveys.php:75
+msgid "Chat button text"
+msgstr "채팅 버튼 텍스트"
+
+#: wp-live-chat-support/includes/surveys.php:81
+msgid "Change title of chat box when chat ended to"
+msgstr "채팅이 끝났을때, 채팅 박스의 타이틀을 변경합니다."
+
+#: wp-live-chat-support/includes/surveys.php:246
+#: wp-live-chat-support/wp-live-chat-support.php:572
+#: wp-live-chat-support/wp-live-chat-support.php:2701
+#: wp-live-chat-support/wp-live-chat-support.php:4278
+msgid "Or chat to an agent now"
+msgstr "혹은 채팅 에이전트와 지금당장 채팅하세요."
+
+#: wp-live-chat-support/includes/surveys.php:251
+#: wp-live-chat-support/wp-live-chat-support.php:1438
+msgid "Leave a message"
+msgstr "메세지를 남깁니다."
+
+#: wp-live-chat-support/includes/surveys.php:285
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr "칠갑산 다람쥐와 함께하는 WP Live Chat 설문조사 "
+
+#: wp-live-chat-support/includes/surveys.php:291
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"당신의 응답을 보기위해서는, 아래의 버튼을 클릭하시고 당신의 칠갑산다람쥐 계정"
+"에 로그인하세요."
+
+#: wp-live-chat-support/includes/surveys.php:294
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+"도움이 필요하세요? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>연락하기</a> 이후에 가능한한 빨리 당신에게 답장하겠습니다!"
+
+#: wp-live-chat-support/includes/surveys.php:304
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free.)"
+msgstr ""
+"a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel\">칠갑산다람쥐</a> 에 "
+"가입 (이것은 무료입니다.)"
+
+#: wp-live-chat-support/includes/surveys.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">설문조사 생성</a>."
+
+#: wp-live-chat-support/includes/surveys.php:314
+msgid "Add a Survey to your live chat box"
+msgstr "당신의 실시간 채팅박스에 설문조사를 추가"
+
+#: wp-live-chat-support/includes/surveys.php:315
+msgid "Three simple steps:"
+msgstr "간단한 세가지 단계:"
+
+#: wp-live-chat-support/includes/surveys.php:319
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr ""
+"<a href='admin.php?page=wplivechat-menu-settings'>설정 페이지</a>. 에서 당신"
+"의 실시간 채팅 설문조사를 허용하세요."
+
+#: wp-live-chat-support/includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "환영합니다 "
+
+#: wp-live-chat-support/includes/welcome_page.php:6
+msgid "Version 6"
+msgstr "버전 6"
+
+#: wp-live-chat-support/includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr "가장 유명한 실시간 채팅 플러그인!"
+
+#: wp-live-chat-support/includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr "어떻게 우리를 찾나요?"
+
+#: wp-live-chat-support/includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org 플러그인 저장소"
+
+#: wp-live-chat-support/includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "검색 단어"
+
+#: wp-live-chat-support/includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "구글 혹은 다른 검색 엔진"
+
+#: wp-live-chat-support/includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "친구의 추천"
+
+#: wp-live-chat-support/includes/welcome_page.php:35
+msgid "Other"
+msgstr "기타"
+
+#: wp-live-chat-support/includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "설명 부탁드립니다."
+
+#: wp-live-chat-support/includes/welcome_page.php:48
+msgid "Submit"
+msgstr "전송"
+
+#: wp-live-chat-support/includes/welcome_page.php:50
+msgid "Skip"
+msgstr "건너뛰기"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:44
+msgid "Rest API"
+msgstr "Rest API"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+"REST API 를 사용하는기 위해서는, REST API가 허용된 워드프레스 버전을 사용하"
+"고 있다는 것을 보증하세요."
+
+#: wp-live-chat-support/modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+"대안적으로, 워드프레스로부터 공식적인 Rest API 플러그인을 설치해주세요."
+
+#: wp-live-chat-support/modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr "REST API"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:75
+msgid "Option"
+msgstr "옵션"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:82
+msgid "Secret Token"
+msgstr "비밀 토큰"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:85
+msgid "No secret token found"
+msgstr "비밀 토큰을 찾을 수 없습니다."
+
+#: wp-live-chat-support/modules/api/wplc-api.php:86
+msgid "Generate New"
+msgstr "새것을 생성"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:91
+msgid "Supported API Calls"
+msgstr "지원되는 API Call"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:95
+#: wp-live-chat-support/modules/api/wplc-api.php:103
+#: wp-live-chat-support/modules/api/wplc-api.php:111
+#: wp-live-chat-support/modules/api/wplc-api.php:119
+#: wp-live-chat-support/modules/api/wplc-api.php:127
+#: wp-live-chat-support/modules/api/wplc-api.php:136
+msgid "Try"
+msgstr "재시도"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:144
+msgid "API Response Codes"
+msgstr "API 응답 코드"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:288
+msgid "Rest Console "
+msgstr "Rest 콘솔"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:295
+msgid "Try it!"
+msgstr "재시도 하세요!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:563
+#: wp-live-chat-support/wp-live-chat-support.php:1680
+#: wp-live-chat-support/wp-live-chat-support.php:2705
+#: wp-live-chat-support/wp-live-chat-support.php:4269
+msgid "Chat offline. Leave a message"
+msgstr "채팅 오프라인. 메세지를 남기세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:564
+#: wp-live-chat-support/wp-live-chat-support.php:1522
+#: wp-live-chat-support/wp-live-chat-support.php:2706
+#: wp-live-chat-support/wp-live-chat-support.php:4270
+msgid "Hello. Please input your details so that I may help you."
+msgstr "안녕하세요. 도움을 원한다면 세부사항을 입력해주세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:565
+#: wp-live-chat-support/wp-live-chat-support.php:969
+#: wp-live-chat-support/wp-live-chat-support.php:1535
+#: wp-live-chat-support/wp-live-chat-support.php:2707
+#: wp-live-chat-support/wp-live-chat-support.php:4271
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"지금 우리는 오프라인입니다. 메세지를 남겨주시면 빠른시간안에 돌아올껍니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:566
+#: wp-live-chat-support/wp-live-chat-support.php:970
+#: wp-live-chat-support/wp-live-chat-support.php:2708
+#: wp-live-chat-support/wp-live-chat-support.php:4272
+msgid "Sending message..."
+msgstr "메세지 보내는중..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:567
+#: wp-live-chat-support/wp-live-chat-support.php:971
+#: wp-live-chat-support/wp-live-chat-support.php:2709
+#: wp-live-chat-support/wp-live-chat-support.php:4273
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "당신의 메세지에 감사드립니다. 우리는 금방 돌아올거에요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:570
+#: wp-live-chat-support/wp-live-chat-support.php:2699
+#: wp-live-chat-support/wp-live-chat-support.php:4276
+msgid "Start live chat"
+msgstr "실시간 채팅 시작"
+
+#: wp-live-chat-support/wp-live-chat-support.php:573
+#: wp-live-chat-support/wp-live-chat-support.php:2702
+#: wp-live-chat-support/wp-live-chat-support.php:4279
+msgid "Chat ended"
+msgstr "채팅 종료"
+
+#: wp-live-chat-support/wp-live-chat-support.php:574
+#: wp-live-chat-support/wp-live-chat-support.php:1572
+#: wp-live-chat-support/wp-live-chat-support.php:1597
+#: wp-live-chat-support/wp-live-chat-support.php:2703
+#: wp-live-chat-support/wp-live-chat-support.php:4280
+msgid "Connecting. Please be patient..."
+msgstr "연결중. 얌전히 기다리세요..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:611
+#: wp-live-chat-support/wp-live-chat-support.php:2677
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "에이전트와의 채팅을 유도하기 위해서는 \\채팅 시작\\ 을 클릭하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:733
+msgid "Live Chat"
+msgstr "실시간 채팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:734
+msgid "Settings"
+msgstr "셋팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:752
+msgid "History"
+msgstr "기록"
+
+#: wp-live-chat-support/wp-live-chat-support.php:753
+msgid "Missed Chats"
+msgstr "놓친 채팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:776
+#: wp-live-chat-support/wp-live-chat-support.php:3670
+msgid "Support"
+msgstr "서포트"
+
+#: wp-live-chat-support/wp-live-chat-support.php:777
+msgid "Extensions"
+msgstr "확장"
+
+#: wp-live-chat-support/wp-live-chat-support.php:787
+msgid "API Keys"
+msgstr "API 키"
+
+#: wp-live-chat-support/wp-live-chat-support.php:793
+msgid "Premium Extension API Keys"
+msgstr "프리미엄 확장 API 키"
+
+#: wp-live-chat-support/wp-live-chat-support.php:794
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+"당신의 프리미엄 API 키들을 찾고 관리하기 위해서는, <a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>내 계정</a>페이지를 방문하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:1277
+#: wp-live-chat-support/wp-live-chat-support.php:1287
+msgid "close"
+msgstr "닫기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:1413
+#: wp-live-chat-support/wp-live-chat-support.php:1432
+msgid "Start chat"
+msgstr "채팅 시작"
+
+#: wp-live-chat-support/wp-live-chat-support.php:1506
+msgid "Send message"
+msgstr "메세지 보내기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2091
+msgid "New chat received"
+msgstr "도착한 새로운 채팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2093
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"새로운 채팅이 도착했습니다. 채팅을 받기위해서, '실시간 채팅' 페이지로 뛰어가"
+"세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2157
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"당신은 구닥다리 <strong>WP Live Chat Support 프로</strong>를 사용하는 중입니"
+"다. 부탁하는데"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2157
+msgid "update to at least version"
+msgstr "최신 버전으로 업데이트 시키세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2157
+msgid "to ensure all functionality is in working order"
+msgstr "모든 기능을 보장하는 것이 주문을 만들어냅니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2158
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"프로 플러그인이 업데이트 되기 전까지, 웹사이트의 실시간 채팅박스가 일시적으"
+"로 비허용 되었습니다. 이것은 스무쓰하고 엄청빠른 사용자 경험을 당신자신과 당"
+"신의 방문자들을 위해서 보장할 것입니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2159
+#: wp-live-chat-support/wp-live-chat-support.php:2179
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"<a href='./update-core.php'>여기</a>에서 당신의 플러그인을 업데이트 할 수 있"
+"고, <a href='./plugins.php'>여기</a> 혹은 <a href='https://wp-livechat.com/"
+"get-updated-version/' target='_BLANK'>여기</a>.에서도 가능합니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2160
+#: wp-live-chat-support/wp-live-chat-support.php:2180
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "만약 플러그인을 업데이트하는데 어려움을 겪고있다면, 우리와 접촉하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2172
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr ""
+"당신은 구닥다리 <strong>WP Live Chat Support 프로</strong>를 사용하는 중입니"
+"다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2174
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "최신 버전의 WP Live Chat Support 프로를 사용하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2175
+msgid "Version 5.0.1"
+msgstr "버전 5.0.1"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2176
+msgid "to ensure everything is working correctly."
+msgstr "올바르게 작동하는 것이 모든것에 보장되어 있습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2208
+msgid "Congratulations"
+msgstr "축하합니다"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2209
+msgid "You are now accepting live chat requests on your site."
+msgstr "당신의 사이트에서 이제는 새로운 실시간 채팅 요청들을 받을 수 있습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2210
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "실시간 채팅 박스가 자동적으로 허용되었습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2211
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "방문자가 요청을 보낸 이후에, 채팅 알림이 나타나기 시작할 겁니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2212
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"채팅 박스 셋팅을 수정하기 위해서 당신은 <a href='?page=wplivechat-menu-"
+"settings' target='_BLANK'>로 가야합니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2213
+msgid "Experiencing issues?"
+msgstr "경험 이슈가 있습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2213
+msgid "Visit our troubleshooting section."
+msgstr "우리의 트러블 슈팅 섹션을 방문하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2215
+msgid "Hide"
+msgstr "숨기기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2250
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+#: wp-live-chat-support/wp-live-chat-support.php:3691
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "프로 애드온 그리고 WP Live Chat Support 와 함깨라면, 당신은 "
+
+#: wp-live-chat-support/wp-live-chat-support.php:2251
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+msgid "see who's online and initiate chats"
+msgstr "누가 온라인인지 채팅을 시작하려 하는지를 볼 수 있습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2252
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+msgid "initiate chats"
+msgstr "채팅을 유도하세요"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2253
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+msgid "with your online visitors with the click of a button."
+msgstr "버튼을 클릭함에 의해서 당신의 온라인 방문자에게"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2254
+#: wp-live-chat-support/wp-live-chat-support.php:2256
+msgid "Buy the Pro add-on now."
+msgstr "프로 애드온을 즉시 구매"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2310
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr "알림: 이 창은 새로운 채팅 알림을 받기위해서 열려져야만 합니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2321
+msgid "Visitors online"
+msgstr "온라인인 방문자들"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2333
+msgid "Visitor"
+msgstr "방문자"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2334
+msgid "Time"
+msgstr "시간"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2336
+msgid "Device"
+msgstr "기기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2337
+msgid "Data"
+msgstr "데이터"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2375
+msgid "Chat Dashboard"
+msgstr "채팅 대쉬보드"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2378
+msgid "Oh no!"
+msgstr "망할!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2381
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+"<strong>당신은 채팅 에이전트가 아닙니다.</strong> 때문에 이 페이지에 접근할 "
+"수 없습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2493
+msgid "Previous"
+msgstr "이전"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2495
+msgid "Active"
+msgstr "활성화"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2504
+msgid "Chat with"
+msgstr "채팅 대상"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2507
+msgid "End chat"
+msgstr "채팅 종료"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2553
+#: wp-live-chat-support/wp-live-chat-support.php:3505
+msgid "Add-ons"
+msgstr "애드온"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2555
+msgid "Get more add-ons"
+msgstr "더많은 애드온을 얻으세요"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2573
+msgid "Add Quick Responses to your Live Chat"
+msgstr "당신의 실시간 채팅에 빠른 답장을 추가하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2573
+msgid "Pro version only"
+msgstr "프로버전 전용"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2581
+msgid "type here..."
+msgstr "이곳에 입력하세요..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2659
+msgid "User has opened the chat window"
+msgstr "사용자가 채팅창을 열었습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2660
+msgid "User has minimized the chat window"
+msgstr "사용자가 채팅창을 최소화했습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2661
+msgid "User has maximized the chat window"
+msgstr "사용자가 채팅창을 최대화했습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2662
+msgid "The chat has been ended"
+msgstr "해당 채팅이 종료되었습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3079
+msgid "Delete History"
+msgstr "기록 삭제"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3096
+msgid "No chats available at the moment"
+msgstr "지금 가능한 채팅이 없습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3107
+msgid "View Chat History"
+msgstr "채팅 기록 보기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3107
+msgid "Download Chat History"
+msgstr "채팅 기록 다운로드"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3129
+msgid "WP Live Chat History"
+msgstr "WP Live Chat 기록"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3149
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat 이 채팅을 놓쳤습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3164
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"어떤 오프라인 메세지들을 기록하는것을 시작하기 위해서 WP Live Chat Support 프"
+"로의 최신버전으로 업데이트하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3167
+msgid "This option is only available in the "
+msgstr "이 옵션은 유일하게 가능합니다. (타겟"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3179
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat 오프라인 메세지"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3200
+msgid "Actions"
+msgstr "액션"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3218
+msgid "Delete Message"
+msgstr "메세지 삭제"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3312
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "채팅 에이전트의 주의를 끌기 위해서 '채팅 시작'을 클릭하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3408
+msgid "Your settings have been saved."
+msgstr "당신의 셋팅이 저장되었습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3423
+msgid "Thank You for your feedback!"
+msgstr "당신의 피드백에 감사드립니다!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3427
+#: wp-live-chat-support/wp-live-chat-support.php:3440
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "당신의 피드백에 감사드립니다. 조만간 연락하겟습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3443
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+"당신의 피드백을 보내는것에 문제가 있습니다. 우리의 피드백에 대한 로그를 보세"
+"요"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3477
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit() 는 이 서버에서 허용되지 않습니다. 당신은 이것때문에 "
+"WP Live Chat Support 를 사용하는 동안 이 이슈를 경험했습니다. 당신의 웹사이"
+"트 관리자에게 이 기능을 허용하기를 요청하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3483
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: 안전모드가 이 서버에서 허용되었습니다. 당신은 이것때문에 WP Live Chat "
+"Support를 사용하는 동안 이슈를 경험했습니다. 당신의 웹사이트 관리자에게 안전"
+"모드를 해제하기를 요청하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3505
+msgid "Suggested Plugins"
+msgstr "제안된 플러그인"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3516
+#: wp-live-chat-support/wp-live-chat-support.php:3517
+#: wp-live-chat-support/wp-live-chat-support.php:3518
+#: wp-live-chat-support/wp-live-chat-support.php:3523
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3521
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+"가장 쉬운방법은 Help Desk & Support Ticket 플러그인을 사용하는 것입니다. "
+"support help desk를 Sola Support Tickets과 함께 빠르고 쉽게설정하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3523
+#: wp-live-chat-support/wp-live-chat-support.php:3534
+msgid "Get this Plugin"
+msgstr "이 플러그인 얻기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3527
+#: wp-live-chat-support/wp-live-chat-support.php:3528
+#: wp-live-chat-support/wp-live-chat-support.php:3529
+#: wp-live-chat-support/wp-live-chat-support.php:3534
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3532
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+"뉴스레터, 자동적인 포스트 알림, 자동 응답자를 생성하고 보내세요. 이것은 아름"
+"답고 현대적인 Nifty Newsletters와 함께합니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3566
+msgid "Price:"
+msgstr "가격:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3568
+msgid "Free"
+msgstr "무료"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3569
+msgid "Paid"
+msgstr "지불됨"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3572
+msgid "For:"
+msgstr "대상:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3573
+msgid "Both"
+msgstr "둘다"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3574
+msgid "Free version"
+msgstr "무료 버전"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3575
+msgid "Pro version"
+msgstr "프로 버전"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3611
+msgid "Already installed"
+msgstr "이미 설치됨"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3638
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3641
+msgid "Documentation"
+msgstr "문서"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3643
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr "시작하려 합니까? 당신의 하려는 것을 위해서, 이 글을 읽고 얻으세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3644
+msgid "Documentation:"
+msgstr "문서:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3646
+msgid "Minimum System Requirements"
+msgstr "최소 시스템 요구사항"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3647
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "방문자와 함께 채팅하기 위해서, 내가 대쉬보드로 로그인되어져야 합니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3648
+msgid "What are Quick Responses?"
+msgstr "빠른 답장이 무엇일까요?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3649
+msgid "Can I use this plugin on my multi-site?"
+msgstr "이 플러그인을 내 멀티사이트에서 사용할 수 있습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3650
+msgid "How do I disable APC Object Cache?"
+msgstr "APC Object Cache 를 내가 어떻게 비허용 할수 있습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3651
+msgid "Do you have a mobile app?"
+msgstr "당신은 어떻게 모바일 앱을 얻습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3652
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "나의 사이트에서 내가 어떻게 자바스크립트 에러를 체크할 수 있습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3656
+msgid "Troubleshooting"
+msgstr "트러블슈팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3658
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support 는 다양하고 넓은 특징들을 가지고 있습니다. 이것은 때때"
+"로, 마켓안에있는 다른 플러그인들 그리고 수천개의 테마들과 함께 충돌할 지도 모"
+"릅니다.."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3659
+msgid "Common issues:"
+msgstr "최근의 이슈:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3661
+msgid "The chat box doesnt show up"
+msgstr "채팅 박스가 떠오르지 않았습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3662
+msgid "The chat window disappears when I logout or go offline"
+msgstr "로그아웃하거나 오프라인으로 갈때, 채팅박스가 사라집니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3663
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "이 채팅은 이미 답장되었습니다. 채팅창을 닫아주세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3664
+msgid "Messages only show when I refresh the chat window"
+msgstr "채팅창을 새로고침 할 때, 메세지들이 유일하게 보입니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3665
+msgid "I'm not getting any notifications of a new chat"
+msgstr "나는 새로운 채팅의 어떤 알림도 받지 못하고 있습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3666
+msgid "The chat window never goes offline"
+msgstr "채팅창이 오프라인으로 절대 가지 않습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3672
+msgid "Still need help? Use one of these links below."
+msgstr "도움이 여전히 필요하세요? 아래의 이러한 링크들중 하나를 사용하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3674
+msgid "Support desk"
+msgstr "Support desk"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3675
+msgid "Contact us"
+msgstr "접촉하기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+msgid "Initiate Chats"
+msgstr "채팅 유도하기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3690
+#: wp-live-chat-support/wp-live-chat-support.php:3691
+msgid "Buy the Pro add-on now (once off payment)."
+msgstr "당장 프로 애드온 구매하기 (한번만 지불)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3691
+msgid "Multiple Chats"
+msgstr "다수의 채팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3691
+msgid "accept and handle multiple chats."
+msgstr "다수의 채팅을 조작하고 받아들입니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3692
+msgid "Add unlimited agents"
+msgstr "무제한으로 에이전트를 추가하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3692
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "WP Live Chat Support 프로 애드온과 함께"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3692
+msgid "(once off payment)."
+msgstr "(한번만 지불)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3706
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"<a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</a>를 사용해주시는 것"
+"에 대해서 감사드립니다! <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> "
+"에서 <a href=\"%2$s\" target=\"_blank\">평가하기</a>를 부탁드립니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3711
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat Support 는 이런 상품입니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3815
+msgid "Add as many agents as you need with the "
+msgstr "당신이 필요한 만큼의 많은 에이전트들을 추가하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3815
+msgid "Pro version."
+msgstr "프로 버전."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3819
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr "당신의 기본 채팅 에이전트를 <strong>%1$s</strong> 로부터 변경하세요"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3918
+msgid "Verify"
+msgstr "인증됨"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3921
+msgid "Status: "
+msgstr "상태:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3924
+msgid "Valid"
+msgstr "허가됨"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3925
+#: wp-live-chat-support/wp-live-chat-support.php:3929
+msgid "Manage this extension"
+msgstr "이 익스텐션을 관리하기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3928
+msgid "Invalid"
+msgstr "비허가됨"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3934
+msgid "Linked Domains"
+msgstr "연결된 도메인들"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3968
+#: wp-live-chat-support/wp-live-chat-support.php:4036
+msgid ""
+"Get unlimited agents, initiate chats, advanced chat box control, encryption "
+"and more with the Pro add-on."
+msgstr ""
+"무제한의 에이전트들을 얻고, 채팅을 유도하며, 고급적인 채팅 박스를 제어하고 암"
+"호화하며 더많은 것을 애드온과 함께하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3970
+#: wp-live-chat-support/wp-live-chat-support.php:3992
+#: wp-live-chat-support/wp-live-chat-support.php:4013
+#: wp-live-chat-support/wp-live-chat-support.php:4038
+msgid "Get this extension"
+msgstr "이 익스텐션 얻기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3981
+msgid "Mobile & Desktop App"
+msgstr "모바일 & 데스크탑 앱"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3990
+msgid ""
+"Answer chats directly from your mobile phone or desktop with our mobile app "
+"and desktop client"
+msgstr ""
+"우리의 모바일 앱과 데스크탑 클라이언트와 함께 당신의 모바일 혹은 데스크탑으로"
+"부터 곧바로 채팅응답을 하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4011
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+"당신의 서버에 의해서 요구된 리소스들을 줄입니다 - 당신의 채팅을 호스트하기 위"
+"해서 우리의 클라우드 서버를 사용하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4059
+#: wp-live-chat-support/wp-live-chat-support.php:4080
+msgid "Relevant Extensions"
+msgstr "관련된 익스텐션"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4099
+msgid "Powered By WP Live Chat Support"
+msgstr "WP Live Chat Support의 지원을 받습니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4245
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"당신의 API 키는 비허가되었습니다. 당신은 미래에 있을 업데이트들을 받을 수 없"
+"습니다. <a href=\"admin.php?page=wplivechat-menu-api-keys-page\">이곳</a>에"
+"서 당신의 API 키를 입력해주세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4331
+msgid "Advanced settings"
+msgstr "고급 셋팅"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4340
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr "만약 퍼포먼스 이슈를 경험하고 있다면, 오직 이러한 셋팅들을 변경하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4350
+msgid "What type of environment are you on?"
+msgstr "당신은 어떤 타입의 환경에 있습니까?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4354
+msgid "Shared hosting - low level plan"
+msgstr "공유된 호스팅 - low level plan"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4355
+msgid "Shared hosting - normal plan"
+msgstr "공유된 호스팅 - normal plan"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4356
+msgid "VPS"
+msgstr "VPS"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4357
+msgid "Dedicated server"
+msgstr "독립된 서버"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4363
+msgid "Long poll setup"
+msgstr "장기 설치형"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4363
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the Code Cabin Support team."
+msgstr ""
+"당신이 경험있는 개발자이거나, Code Cabin Support team으로부터 이러한 특징들"
+"을 전달받았다면, 이러한 옵션들을 변경하세요."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4371
+msgid "Iterations"
+msgstr "반복"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4375
+msgid "Sleep between iterations"
+msgstr "반복들 사이에서의 대기"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4378
+msgid "microseconds"
+msgstr "마이크로초"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4401
+msgid "View comprehensive reports regarding your chat and agent activity."
+msgstr "당신의 채팅과 에이전트 활동에 대해서 포괄적인 리포트를 봅니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4404
+msgid "Reports"
+msgstr "리포트"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4406
+msgid "Chat statistics"
+msgstr "채팅 통계"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4407
+msgid "Popular pages"
+msgstr "인기있는 페이지들"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4408
+msgid ""
+"ROI reporting and tracking (identify which agents produce the most sales)"
+msgstr ""
+"ROI 리포팅과 추적 (어떤 에이전트가 가장 많은 실적을 냈는지를 증명합니다.)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4409
+msgid ""
+"User experience ratings (identify which agents produce the happiest "
+"customers)"
+msgstr ""
+"유저 사용 경험  (어떤 에이전트가 기분좋은 손님들을 만들어냈는지를 증명합니"
+"다.)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4419
+#: wp-live-chat-support/wp-live-chat-support.php:4481
+msgid "Get all this and more in the "
+msgstr "이것의 모든것과 더 많은 것을 얻어내세요"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4419
+#: wp-live-chat-support/wp-live-chat-support.php:4481
+msgid "Pro add-on"
+msgstr "프로 애드온 안에서"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4420
+#: wp-live-chat-support/wp-live-chat-support.php:4482
+msgid "Upgrade Now"
+msgstr "당장 업그레이드"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4463
+msgid ""
+"Create custom data triggers when users view a certain page, spend a certain "
+"amount of time on a page, scroll past a certain point or when their mouse "
+"leaves the window."
+msgstr ""
+"유저가 특정 페이지를 볼때, 커스텀 데이터 트리거들을 생성하세요. 이것은 한 페"
+"이지에서 특정한 시간을 보내며, 이전 특정 포인트들을 스크롤 하거나 손님들의 마"
+"우스가 창을 벗어날 때 작동합니다."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4466
+msgid "Trigger Types"
+msgstr "트리거 타입"

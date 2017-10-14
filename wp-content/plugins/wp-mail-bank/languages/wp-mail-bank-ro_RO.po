@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-01 16:25+0530\n"
+"PO-Revision-Date: 2017-04-24 15:01+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Romanian (Romania)\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18545\n"
+"X-Loco-Api-Version: 1.0.15 20161010-2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/translations.php:32
+msgid "Basic Info"
+msgstr "Informaţii de bază"
+
+#: includes/translations.php:33
+msgid "Account Setup"
+msgstr "Setarea contului"
+
+#: includes/translations.php:34
+msgid "Confirm"
+msgstr "Confirmă"
+
+#: includes/translations.php:37
+msgid "Mail Bank"
+msgstr "Mail Bank"
+
+#: includes/translations.php:38
+msgid "Email Setup"
+msgstr "Setări email"
+
+#: includes/translations.php:39
+msgid "Email Logs"
+msgstr "Jurnale de email"
+
+#: includes/translations.php:40
+msgid "Email Log Details"
+msgstr "Detaliile jurnalelor de email"
+
+#: includes/translations.php:41 includes/translations.php:92
+msgid "Test Email"
+msgstr "Email de test"
+
+#: includes/translations.php:42
+msgid "Plugin Settings"
+msgstr "Setările modulului"
+
+#: includes/translations.php:43
+msgid "Feedbacks"
+msgstr "Feedback"
+
+#: includes/translations.php:44
+msgid "Roles & Capabilities"
+msgstr "Roluri şi Capabilităţi"
+
+#: includes/translations.php:45
+msgid "System Information"
+msgstr "Informaţii de sistem"
+
+#: includes/translations.php:48
+msgid "Success!"
+msgstr "Succes!"
+
+#: includes/translations.php:49
+msgid "Email Setup has been updated Successfully"
+msgstr "Setările de email au fost actualizate"
+
+#: includes/translations.php:50
+msgid "Your Feedback has been sent Successfully"
+msgstr "Feedback-ul tău a fost trimis"
+
+#: includes/translations.php:51
+msgid "Your request email has been sent Successfully"
+msgstr "Mesajul cu cererea ta a fost transmis"
+
+#: includes/translations.php:52
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Rolurile şi Capabilităţile au fost actualizate"
+
+#: includes/translations.php:53
+msgid "Test Email was sent Successfully!"
+msgstr "Email-ul de test a fost trimis!"
+
+#: includes/translations.php:54
+msgid "Test Email was not sent!"
+msgstr "Email-ul de test NU a fost trimis!"
+
+#: includes/translations.php:55
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Setările modulului au fost actualizate"
+
+#: includes/translations.php:56
+msgid "Please choose an Action from Dropdown!"
+msgstr "Te rugăm să alegi o acţiune din listă!"
+
+#: includes/translations.php:57
+msgid "Please choose at least 1 record to delete!"
+msgstr "Alege cel puţin o înregistrare pentru a fi ştearsă!"
+
+#: includes/translations.php:58
+msgid "Are you sure you want to delete Email Logs?"
+msgstr "Eşti sigur că vrei să ştergi jurnalele de email?"
+
+#: includes/translations.php:59
+msgid "Selected Logs have been deleted Successfully"
+msgstr "Jurnalele selectate au fost şterse"
+
+#: includes/translations.php:60
+msgid "Are you sure you want to delete Email Log?"
+msgstr "Eşti sigur că vrei să ştergi jurnalele de email?"
+
+#: includes/translations.php:61
+msgid "Email Log has been deleted Successfully"
+msgstr "Jurnalele selectate au fost şterse"
+
+#: includes/translations.php:62
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"Sistemul OAuth nu suportă Host SMTP, te rugăm să introduci numele de "
+"utilizator şi parola"
+
+#: includes/translations.php:63
+msgid "Invalid Secret Key. Please rectify and try again!"
+msgstr "Cheie secretă invalidă. Rectifică şi încearcă din nou!"
+
+#: includes/translations.php:64
+msgid "Licensing"
+msgstr "Licenţiere"
+
+#: includes/translations.php:67
+msgid "Your License has been activated Successfully"
+msgstr "Licenţa a fost activată"
+
+#: includes/translations.php:68
+msgid "Sent"
+msgstr "Trimis"
+
+#: includes/translations.php:69
+msgid "Not Sent"
+msgstr "Ne-trimis"
+
+#: includes/translations.php:70
+msgid "Important Disclaimer!"
+msgstr "Disclaimer important!"
+
+#: includes/translations.php:71
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Nu ai acces la această pagină. Contactează administratorul pentru privilegii."
+
+#: includes/translations.php:72
+msgid "Enable"
+msgstr "Activează"
+
+#: includes/translations.php:73
+msgid "Disable"
+msgstr "Dezactivează"
+
+#: includes/translations.php:74
+msgid "Override"
+msgstr "Suprascrie"
+
+#: includes/translations.php:75
+msgid "Don't Override"
+msgstr "Nu suprascrie"
+
+#: includes/translations.php:76
+msgid "Save Settings"
+msgstr "Salvează setările"
+
+#: includes/translations.php:77
+msgid "Subject"
+msgstr "Subiect"
+
+#: includes/translations.php:78
+msgid "Next Step"
+msgstr "Pasul următor"
+
+#: includes/translations.php:79
+msgid "Previous Step"
+msgstr "Pasul anterior"
+
+#: includes/translations.php:80
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/translations.php:81
+msgid "Not available"
+msgstr "Indisponibil"
+
+#: includes/translations.php:82
+msgid ""
+"The following php extensions are not found on your server or are currently "
+"disabled. These might create few problems in configuring Mail Bank. Please "
+"contact your WebHost to setup these extensions on your server."
+msgstr ""
+"Următoarele extensii php nu se găsesc pe server sau sunt dezactivate. "
+"Acestea pot crea probleme de configurare în modulul Mail Bank. Te rugăm să "
+"contactezi administratorul serverului de găzduire pentru remediere."
+
+#: includes/translations.php:85
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/translations.php:86
+msgid "Bcc"
+msgstr "Bcc"
+
+#: includes/translations.php:87
+msgid "Please provide valid Cc Email Address"
+msgstr "Scrie o adresă de email validă pentru câmpul Cc"
+
+#: includes/translations.php:88
+msgid "Please provide valid Bcc Email Address"
+msgstr "Scrie o adresă de email validă pentru câmpul BCc"
+
+#: includes/translations.php:89
+msgid "Please provide Cc Email"
+msgstr "Scrie adresa de email în câmpul Cc"
+
+#: includes/translations.php:90
+msgid "Please provide Bcc Email"
+msgstr "Scrie adresa de email în câmpul BCc"
+
+#: includes/translations.php:91
+msgid "Mailer Settings"
+msgstr "Setări Mailer"
+
+#: includes/translations.php:93
+msgid "From Name"
+msgstr "De la (nume)"
+
+#: includes/translations.php:94
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"De la (nume) este câmpul care îi spune recipientului cine i-a trimis "
+"mesajul. Dacă doreşti să suprascrii valorile implicite, atunci va trebui să "
+"introduci un nume în câmpul respectiv."
+
+#: includes/translations.php:95
+msgid "Please provide From Name"
+msgstr "Te rugăm să introduci numele"
+
+#: includes/translations.php:96
+msgid "From Email"
+msgstr "De la (email)"
+
+#: includes/translations.php:97
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"De la (email) este câmpul care îi spune recipientului de la ce adresă de "
+"email a primit mesajul. Dacă doreşti să suprascrii valorile implicite, "
+"atunci va trebui să introduci o adresă de email în câmpul respectiv."
+
+#: includes/translations.php:98
+msgid "Please provide From Email Address"
+msgstr "Te rugăm să introduci adresa de email"
+
+#: includes/translations.php:99
+msgid "Mailer Type"
+msgstr "Tipul Mailer-ului"
+
+#: includes/translations.php:100
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"Aici poţi alege o opţiune specifică pentru tipul mailer-ului. Dacă vrei să "
+"trimiţi email-uri prin intermediul SMTP, atunci selectează opţiunea "
+"corespunzătoare din listă, sau poţi alege să trimiţi mesaje cu ajutorul "
+"funcţiei php mail."
+
+#: includes/translations.php:101
+msgid "Send Email via SMTP"
+msgstr "Trimite email prin SMTP"
+
+#: includes/translations.php:102
+msgid "Use The PHP mail() Function"
+msgstr "Foloseşte funcţia PHP mail"
+
+#: includes/translations.php:103
+msgid "SMTP Host"
+msgstr "Gazda SMTP"
+
+#: includes/translations.php:104
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"Dacă vei trimite email-uri folosind altă gazdă, trebuie să introduci numele "
+"specific al gazdei în câmpul Inbox, ca de exemplu smtp.gmail.com"
+
+#: includes/translations.php:105
+msgid "Please provide SMTP Host"
+msgstr "Introdu Gazda SMTP"
+
+#: includes/translations.php:106
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+#: includes/translations.php:107
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr ""
+"Acest câmp de inbox este folosit pentru a furniza o autentificare validă SMTP"
+
+#: includes/translations.php:108
+msgid "Please provide SMTP Port"
+msgstr "Introdu Portul SMTP"
+
+#: includes/translations.php:109
+msgid "Encryption"
+msgstr "Criptare"
+
+#: includes/translations.php:110
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr ""
+"Aici poţi alege o opţiune specifică pentru criptare. Din listă ai "
+"următoarele opţiuni: Criptare TLS sau Criptare SSL, sau poţi selecta "
+"opţiunea Fără criptare ca să trimiţi email-uri necriptate."
+
+#: includes/translations.php:111
+msgid "No Encryption"
+msgstr "Fără criptare"
+
+#: includes/translations.php:112
+msgid "Use SSL Encryption"
+msgstr "Criptare SSL"
+
+#: includes/translations.php:113
+msgid "Use TLS Encryption"
+msgstr "Criptare TLS"
+
+#: includes/translations.php:114
+msgid "Authentication"
+msgstr "Autentificare"
+
+#: includes/translations.php:115
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr ""
+"Acest câmp este folosit pentru a alege o opţiune corespunzătoare de "
+"autentificare. Poţi alege autentificarea Two-way şi atunci va fi necesară "
+"introducerea de nume de utilizator şi parolă. Te poţi de asemenea "
+"autentifica prin protocolul OAuth 2.0, care necesită Client ID şi Secret "
+"Key, pe care le poţi obţine uşor de la Serverul SMTP, în secţiunea pentru "
+"dezvoltatori."
+
+#: includes/translations.php:116
+msgid "Use SMTP Authentication"
+msgstr "Autentificare SMTP"
+
+#: includes/translations.php:117
+msgid "Don't Use SMTP Authentication"
+msgstr "Fără autentificare"
+
+#: includes/translations.php:118
+msgid "Test Email Address"
+msgstr "Adresa de email pentru test"
+
+#: includes/translations.php:119
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr ""
+"În acest câmp trebuie să furnizezi o adresă de email validă pe care doreşti "
+"să primeşti mesajul de test"
+
+#: includes/translations.php:120
+msgid "Please provide Test Email Address"
+msgstr "Te rugăm să introduci adresa de email pentru test"
+
+#: includes/translations.php:121
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "Aici trebuie să scrii subiectul email-ului de test"
+
+#: includes/translations.php:122
+msgid "Please provide Subject"
+msgstr "Te rugăm să introduci subiectul"
+
+#: includes/translations.php:123
+msgid "Email Content"
+msgstr "Conţinutul email-ului"
+
+#: includes/translations.php:124
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "Aici trebuie să scrii conţinutul email-ului de test"
+
+#: includes/translations.php:125
+msgid "Send Test Email"
+msgstr "Trimite email-ul de test"
+
+#: includes/translations.php:126
+msgid "SMTP Debugging Output"
+msgstr "Depanare SMTP"
+
+#: includes/translations.php:127
+msgid "Checking your settings"
+msgstr "Se verifică setările"
+
+#: includes/translations.php:128
+msgid "Result"
+msgstr "Rezultat"
+
+#: includes/translations.php:129
+msgid "Send Another Test Email"
+msgstr "Trimite alt email de test"
+
+#: includes/translations.php:130
+msgid "From Name Configuration"
+msgstr "Se trimite email de la (nume)"
+
+#: includes/translations.php:131
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"Dacă se doreşte introducerea altui nume decât cel preconfigurat atunci când "
+"se trimit email-uri, atunci se alege opţiunea specifică din listă."
+
+#: includes/translations.php:132
+msgid "From Email Configuration"
+msgstr "Se trimite email de la (email)"
+
+#: includes/translations.php:133
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"Dacă se doreşte introducerea altei adrese de email decât cea preconfigurată "
+"atunci când se trimit email-uri, atunci se alege opţiunea specifică din "
+"listă."
+
+#: includes/translations.php:134
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: includes/translations.php:135
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr ""
+"Aici trebuie să introduci un nume de utilizator pentru autentificarea SMTP"
+
+#: includes/translations.php:136
+msgid "Please provide username"
+msgstr "Te rugăm să introduci numele de utilizator"
+
+#: includes/translations.php:137
+msgid "Password"
+msgstr "Parola"
+
+#: includes/translations.php:138
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr "Aici trebuie să introduci parola pentru autentificarea SMTP"
+
+#: includes/translations.php:139
+msgid "Please provide password"
+msgstr "Te rugăm să introduci parola"
+
+#: includes/translations.php:140
+msgid "Redirect URI"
+msgstr "Adresa URI pentru redirijare"
+
+#: includes/translations.php:141
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Copiază adresa de redirijare URI în caseta de redirijare atunci când creezi "
+"o aplicaţie"
+
+#: includes/translations.php:142
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "Foloseşte OAuth (Client ID şi Secret Key sunt necesare)"
+
+#: includes/translations.php:143
+msgid "Plain Authentication"
+msgstr "Autentificare simplă"
+
+#: includes/translations.php:144
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:145
+msgid "Login"
+msgstr "Login"
+
+#: includes/translations.php:146
+msgid "Client Id"
+msgstr "Client ID"
+
+#: includes/translations.php:147
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: includes/translations.php:148
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "Te rugăm să introduci un id client valid furnizat de gazda ta SMTP"
+
+#: includes/translations.php:149
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr ""
+"Te rugăm să introduci o cheie secretă validă furnizată de gazda ta SMTP"
+
+#: includes/translations.php:150
+msgid "Please provide Client Id"
+msgstr "Te rugăm să introduci ID-ul de Client"
+
+#: includes/translations.php:151
+msgid "Please provide Secret Key"
+msgstr "Te rugăm să introduci cheia secretă"
+
+#: includes/translations.php:152
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Da, trimite automat un email de test atunci când mergi la pasul următor "
+"pentru verificarea setărilor"
+
+#: includes/translations.php:153
+msgid "Email Address"
+msgstr "Adresa de email"
+
+#: includes/translations.php:154
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr ""
+"Aici trebuie să introduci o adresă de email validă de la care doreşti să "
+"trimiţi email-urile"
+
+#: includes/translations.php:155
+msgid "Please provide valid Email Address"
+msgstr "Te rugăm să introduci o adresă de email validă"
+
+#: includes/translations.php:156
+msgid "Reply To"
+msgstr "Răspunde la"
+
+#: includes/translations.php:157
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"Aici trebuie să adaugi o adresă de email validă care va fi automat inserată "
+"în câmpul \"Răspunde la\" atunci când un utilizator doreşte să răspundă la "
+"mesajul tău"
+
+#: includes/translations.php:158
+msgid "Please provide Reply To Email Address"
+msgstr "Te rugăm să introduci adresa de email la care să se răspundă"
+
+#: includes/translations.php:159
+msgid "Get Google Client Id and Secret Key"
+msgstr "Primeşte Client ID şi Secret Key de la Google"
+
+#: includes/translations.php:160
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "Primeşte Client ID şi Secret Key de la Microsoft"
+
+#: includes/translations.php:161
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "Primeşte Client ID şi Secret Key de la Yahoo"
+
+#: includes/translations.php:164
+msgid "Start Date"
+msgstr "Data de start"
+
+#: includes/translations.php:165
+msgid "Please provide Start Date"
+msgstr "Te rugăm să introduci data de start"
+
+#: includes/translations.php:166
+msgid "This field shows starting date of Email Logs"
+msgstr "Aici se afişează data de start a jurnalelor de email"
+
+#: includes/translations.php:167
+msgid "End Date"
+msgstr "Data de stop"
+
+#: includes/translations.php:168
+msgid "Please provide End Date"
+msgstr "Te rugăm să introduci data de stop"
+
+#: includes/translations.php:169
+msgid "This field shows ending date of Email Logs"
+msgstr "Aici se afişează data de stop a jurnalelor de email"
+
+#: includes/translations.php:170
+msgid "Submit"
+msgstr "Trimite"
+
+#: includes/translations.php:171
+msgid "Bulk Action"
+msgstr "Acţiunea de bulk"
+
+#: includes/translations.php:172
+msgid "Delete"
+msgstr "Şterge"
+
+#: includes/translations.php:173
+msgid "Apply"
+msgstr "Aplică"
+
+#: includes/translations.php:174
+msgid "Email To"
+msgstr "Email către"
+
+#: includes/translations.php:175
+msgid "Action"
+msgstr "Acţiune"
+
+#: includes/translations.php:176
+msgid "Show Details"
+msgstr "Arată detaliile"
+
+#: includes/translations.php:177
+msgid "Email Details"
+msgstr "Detaliile email-ului"
+
+#: includes/translations.php:178
+msgid "Email Debugging output"
+msgstr "Depanarea email-urilor"
+
+#: includes/translations.php:179
+msgid "Close"
+msgstr "Închide"
+
+#: includes/translations.php:180
+msgid "Debugging Output"
+msgstr "Depanare"
+
+#: includes/translations.php:181
+msgid "Show Debugging Output"
+msgstr "Arată datele depanării"
+
+#: includes/translations.php:182
+msgid "Email Sent To"
+msgstr "Email trimis către"
+
+#: includes/translations.php:183
+msgid "Date/Time"
+msgstr "Data/Ora"
+
+#: includes/translations.php:184
+msgid "Status"
+msgstr "Stare"
+
+#: includes/translations.php:185
+msgid "From"
+msgstr "De la"
+
+#: includes/translations.php:186
+msgid "Back to Email Logs"
+msgstr "Înapoi la jurnalele de email"
+
+#: includes/translations.php:189
+msgid "Automatic Plugin Updates"
+msgstr "Actualizare automată a modulului"
+
+#: includes/translations.php:190
+msgid ""
+"Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr "Te rugăm să alegi dacă modulul se va actualiza automat sau nu"
+
+#: includes/translations.php:191
+msgid "Debug Mode"
+msgstr "Modul Depanare"
+
+#: includes/translations.php:192
+msgid "Please choose a specific option for Debug Mode"
+msgstr "Alege o opţiune specifică depanării"
+
+#: includes/translations.php:193
+msgid "Remove Tables at Uninstall"
+msgstr "Şterge tabelele la dezinstalarea modulului"
+
+#: includes/translations.php:194
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr "Alege opţiunea dorită cu privire la păstrarea sau ştergerea tabelelor"
+
+#: includes/translations.php:195
+msgid "Monitoring Email Logs"
+msgstr "Monitorizează jurnalele de email"
+
+#: includes/translations.php:196
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr ""
+"Acest câmp este folosit pentru a permite monitorizarea jurnalelor de email"
+
+#: includes/translations.php:199
+msgid "Show Mail Bank Menu"
+msgstr "Arată Mail Bank în meniul lateral"
+
+#: includes/translations.php:200
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr ""
+"Alege rolurile specifice care pot vedea meniul Mail Bank în bara laterală"
+
+#: includes/translations.php:201
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:202
+msgid "Author"
+msgstr "Autor"
+
+#: includes/translations.php:203
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/translations.php:204
+msgid "Contributor"
+msgstr "Contribuitor"
+
+#: includes/translations.php:205
+msgid "Subscriber"
+msgstr "Abonat"
+
+#: includes/translations.php:206
+msgid "Others"
+msgstr "Altele"
+
+#: includes/translations.php:207
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Arată Mail Bank în meniul de sus"
+
+#: includes/translations.php:208
+msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+msgstr "Alege o opţiune specifică din meniul Mail Bank de sus"
+
+#: includes/translations.php:209
+msgid "An Administrator Role can do the following "
+msgstr "Un rol de Administrator are următoarele permisiuni"
+
+#: includes/translations.php:210
+msgid "Please choose specific page available for the Administrator Access"
+msgstr "Alege o pagină dedicată accesului pentru Administrator"
+
+#: includes/translations.php:211
+msgid "Full Control"
+msgstr "Control complet"
+
+#: includes/translations.php:212
+msgid "An Author Role can do the following "
+msgstr "Un rol de Autor are următoarele permisiuni"
+
+#: includes/translations.php:213
+msgid "Please choose specific page available for Author Access"
+msgstr "Alege o pagină dedicată accesului pentru Autor"
+
+#: includes/translations.php:214
+msgid "An Editor Role can do the following "
+msgstr "Un rol de Editor are următoarele permisiuni"
+
+#: includes/translations.php:215
+msgid "Please choose specific page available for Editor Access"
+msgstr "Alege o pagină dedicată accesului pentru Editor"
+
+#: includes/translations.php:216
+msgid "A Contributor Role can do the following "
+msgstr "Un rol de Contribuitor are următoarele permisiuni"
+
+#: includes/translations.php:217
+msgid "Please choose specific page available for Contributor Access"
+msgstr "Alege o pagină dedicată accesului pentru Contribuitor"
+
+#: includes/translations.php:218
+msgid "Other Roles can do the following "
+msgstr "Un alt rol are următoarele permisiuni"
+
+#: includes/translations.php:219
+msgid "Please choose specific page available for Others Role Access"
+msgstr "Alege o pagină dedicată accesului pentru Alte roluri"
+
+#: includes/translations.php:220
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Bifează capabilităţile potrivite, din motive de securitate"
+
+#: includes/translations.php:221
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "Doar utilizatorii cu aceste capabilităţi pot accesa Mail Bank"
+
+#: includes/translations.php:222
+msgid "A Subscriber Role can do the following"
+msgstr "Un rol de Abonat are următoarele permisiuni"
+
+#: includes/translations.php:223
+msgid "Please choose specific page available for Subscriber Access"
+msgstr "Alege o pagină dedicată accesului pentru Abonat"
+
+#: includes/translations.php:226
+msgid "Thank You!"
+msgstr "Îţi mulţumim!"
+
+#: includes/translations.php:227
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Te rugăm să completezi formularul de mai jos, dacă vrei să sugerezi "
+"îmbunătăţiri ale modulului nostru"
+
+#: includes/translations.php:228
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Dacă ai probleme sau nemulţumiri, poţi folosi acelaşi formular de mai jos"
+
+#: includes/translations.php:229
+msgid "You can also write us on"
+msgstr "Poţi să ne scrii la"
+
+#: includes/translations.php:230
+msgid "Your Name"
+msgstr "Numele tău"
+
+#: includes/translations.php:231
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr ""
+"Te rugăm să scrii numele tău, care va fi transmis împreună cu mesajul tău"
+
+#: includes/translations.php:232
+msgid "Please provide your Name"
+msgstr "Te rugăm să introduci numele"
+
+#: includes/translations.php:233
+msgid "Your Email"
+msgstr "Adresa ta de email"
+
+#: includes/translations.php:234
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr ""
+"Te rugăm să scrii adresa ta de email, care va fi transmisă împreună cu "
+"mesajul tău"
+
+#: includes/translations.php:235
+msgid "Please provide your Email Address"
+msgstr "Te rugăm să introduci adresa ta de email"
+
+#: includes/translations.php:236
+msgid "Please provide your Feedback which will be sent along"
+msgstr "Scrie aici mesajul tău"
+
+#: includes/translations.php:237
+msgid "Please provide your Feedback"
+msgstr "Te rugăm să introduci mesajul"
+
+#: includes/translations.php:238
+msgid "Send Feedback"
+msgstr "Trimite feedback"
+
+#: includes/translations.php:241
+msgid "Sending Test Email to"
+msgstr "Se trimite email-ul de test către"
+
+#: includes/translations.php:242
+msgid "Email Status"
+msgstr "Stare email"
+
+#: includes/translations.php:245
+msgid "Important Notice!"
+msgstr "Notificare importantă!"
+
+#: includes/translations.php:246
+msgid ""
+"Congratulations! You have recently purchased Mail Bank Business Edition and "
+"now you would need to activate the license in order to unlock it!"
+msgstr ""
+"Felicitări! Ai achiziţionat Ediţia Business a modulului Mail Bank, iar acum "
+"trebuie să activezi licenţa pentru a debloca modulul."
+
+#: includes/translations.php:247
+msgid ""
+"Kindly fill in the required details and click on Validate License to unlock "
+"it"
+msgstr ""
+"Completează detaliile necesare şi apoi fă clic pe Validare Licenţă pentru "
+"deblocare"
+
+#: includes/translations.php:248
+msgid "If you face any issues activating the license, you may contact us at "
+msgstr "Dacă întâmpini probleme, ne poţi contacta la"
+
+#: includes/translations.php:250
+msgid "Product Name"
+msgstr "Numele Produsului"
+
+#: includes/translations.php:251
+msgid "Current Version"
+msgstr "Versiunea Curentă"
+
+#: includes/translations.php:252
+msgid "Website URL"
+msgstr "URL Website"
+
+#: includes/translations.php:253
+msgid "Order ID"
+msgstr "ID comandă"
+
+#: includes/translations.php:254
+msgid "API KEY"
+msgstr "Cheia API"
+
+#: includes/translations.php:255
+msgid "Validate License"
+msgstr "Validare Licenţă"
+
+#: includes/translations.php:257
+msgid "This field shows your Installed Product"
+msgstr "Aici se afişează Produsul instalat"
+
+#: includes/translations.php:258
+msgid "This field shows your Installed Product Version"
+msgstr "Aici se afişează versiunea Produsului instalat"
+
+#: includes/translations.php:259
+msgid "This field shows your Website URL"
+msgstr "Aici este adresa website-ului tău"
+
+#: includes/translations.php:260
+msgid ""
+"Please provide your Order ID  which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr ""
+"Te rugăm să furnizezi Order ID pe care l-ai primit după ce ai achiziţionat "
+"produsul. Acesta este folosit pentru a valida licenţa"
+
+#: includes/translations.php:261
+msgid ""
+"Please provide your API Key which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr ""
+"Te rugăm să furnizezi API Key pe care ai primit-o după ce ai achiziţionat "
+"produsul. Aceasta este folosită pentru a valida licenţa"
+
+#: includes/translations.php:262
+msgid "Please provide Order ID received after making the purchase"
+msgstr ""
+"Te rugăm să furnizezi Order ID pe care l-ai primit după ce ai achiziţionat "
+"produsul"
+
+#: includes/translations.php:263
+msgid "Please provide API Key received after making the purchase"
+msgstr ""
+"Te rugăm să furnizezi API Key pe care ai primit-o după ce ai achiziţionat "
+"produsul"
+
+#~ msgid "* Openssl extension not found or disabled"
+#~ msgstr "* Extensia openssl este inexistentă sau dezactivată"
+
+#~ msgid "Use Username And Password"
+#~ msgstr "Foloseşte nume de utilizator şi parolă"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Dacă doreşti să traduci în limba"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Mail Bank. If Interested, Kindly click "
+#~ msgstr ""
+#~ "& poţi ajuta, noi te vom răsplăti cu o licenţă Personală gratuită a "
+#~ "modulului Mail Bank. Dacă eşti interesat, click"
+
+#~ msgid "here"
+#~ msgstr "aici"
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr "Eşti sigur că vrei să închizi fără să trimiţi cererea de traducere?"
+
+#~ msgid "Translation Request"
+#~ msgstr "Cerere de traducere"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Limba în care eşti interesat să traduci"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Te rugăm să alegi o limbă"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Alege limba"
+
+#~ msgid "Query"
+#~ msgstr "Cerere"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Introdu cererea"
+
+#~ msgid "Please provide your Email"
+#~ msgstr "Introdu adresa de Email"
+
+#~ msgid "Send Request"
+#~ msgstr "Trimite cererea"
+
+#~ msgid "* Click "
+#~ msgstr "* Click"
+
+#~ msgid "here "
+#~ msgstr "aici"
+
+#~ msgid " to see Premium Edition Features in detail"
+#~ msgstr "pentru a vedea detaliile Ediţiei Premium"
+
+#~ msgid "* For Mail Bank Demos, click "
+#~ msgstr "* Pentru demonstraţii ale modulului Mail Bank, click"
+
+#~ msgid "* For Mail Bank User Guide for this page, click "
+#~ msgstr "* Pentru ghidul utilizatorului, click"
+
+#~ msgid "* Filters "
+#~ msgstr "* Filtre"
+
+#~ msgid "* Reply to, Cc and Bcc Fields "
+#~ msgstr "* Câmpurile Răspunde la, Cc şi Bcc"
+
+#~ msgid "* Deleting Email Logs "
+#~ msgstr "* Ştergerea jurnalelor de email"
+
+#~ msgid "* Debugging Output"
+#~ msgstr "* Mesajele depanării"
+
+#~ msgid "* Email Logs Details "
+#~ msgstr "* Detalii ale jurnalelor de email"
+
+#~ msgid "* Saving Roles & Capabilities "
+#~ msgstr "* Salvare Roluri & Capabilităţi"
+
+#~ msgid " Premium Edition Features :"
+#~ msgstr "Facilităţi ale Ediţiei Premium :"
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr "Facilităţi disponibile în Ediţiile Business şi Dezvoltator :"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr ""
+#~ "Această facilitate este disponibilă doar în Ediţiile Business şi "
+#~ "Dezvoltator! <br> Te rugăm să le achiziţionezi."
+
+#~ msgid "* Bulk Delete "
+#~ msgstr "* Ştergere Bulk"
+
+#~ msgid "* Debugging Output "
+#~ msgstr "* Mesajele depanării"

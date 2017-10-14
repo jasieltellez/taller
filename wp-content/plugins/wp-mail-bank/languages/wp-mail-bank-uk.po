@@ -1,0 +1,994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-26 13:44+0530\n"
+"PO-Revision-Date: 2017-04-21 09:55+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Ukrainian (Ukraine)\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18545\n"
+"X-Loco-Api-Version: 1.0.15 20161010-2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/translations.php:32
+msgid "Basic Info"
+msgstr "Основна інформація"
+
+#: includes/translations.php:33
+msgid "Account Setup"
+msgstr "Налаштування облікового запису"
+
+#: includes/translations.php:34
+msgid "Confirm"
+msgstr "Підтвердження"
+
+#: includes/translations.php:37
+msgid "Mail Bank"
+msgstr "Mail Bank"
+
+#: includes/translations.php:38
+msgid "Email Setup"
+msgstr "Налаштування повідомлень"
+
+#: includes/translations.php:39
+msgid "Email Logs"
+msgstr "Журнал вихідних повідомлень"
+
+#: includes/translations.php:40
+msgid "Email Log Details"
+msgstr "Деталі вихідного повідомлення"
+
+#: includes/translations.php:41 includes/translations.php:92
+msgid "Test Email"
+msgstr "Пробне повідомлення"
+
+#: includes/translations.php:42
+msgid "Plugin Settings"
+msgstr "Налаштування"
+
+#: includes/translations.php:43
+msgid "Feedbacks"
+msgstr "Відгуки"
+
+#: includes/translations.php:44
+msgid "Roles & Capabilities"
+msgstr "Ролі та можливості"
+
+#: includes/translations.php:45
+msgid "System Information"
+msgstr "Системна інформація"
+
+#: includes/translations.php:48
+msgid "Success!"
+msgstr "Успішно!"
+
+#: includes/translations.php:49
+msgid "Email Setup has been updated Successfully"
+msgstr "Налаштування повідомлень були успішно оновлені"
+
+#: includes/translations.php:50
+msgid "Your Feedback has been sent Successfully"
+msgstr "Ваш відгук було успішно надіслано"
+
+#: includes/translations.php:51
+msgid "Your request email has been sent Successfully"
+msgstr "Ваш запит було успішно надіслано"
+
+#: includes/translations.php:52
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Налаштування ролей і можливостей були успішно оновлені"
+
+#: includes/translations.php:53
+msgid "Test Email was sent Successfully!"
+msgstr "Пробне повідомлення було успішно надіслане!"
+
+#: includes/translations.php:54
+msgid "Test Email was not sent!"
+msgstr "Пробне повідомлення не було надіслане!"
+
+#: includes/translations.php:55
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Налаштування плаґіна були успішно оновлені"
+
+#: includes/translations.php:56
+msgid "Please choose an Action from Dropdown!"
+msgstr "Будь ласка, виберіть дію з випадного списку"
+
+#: includes/translations.php:57
+msgid "Please choose at least 1 record to delete!"
+msgstr "Будь ласка, виберіть для видалення хоча б один запис!"
+
+#: includes/translations.php:58
+msgid "Are you sure you want to delete Email Logs?"
+msgstr "Ви впевнені, що хочете видалити записи журналу вихідних повідомлень?"
+
+#: includes/translations.php:59
+msgid "Selected Logs have been deleted Successfully"
+msgstr "Вибрані записи журналу були успішно видалені"
+
+#: includes/translations.php:60
+msgid "Are you sure you want to delete Email Log?"
+msgstr "Ви впевнені, що хочете видалити запис журналу вихідних повідомлень?"
+
+#: includes/translations.php:61
+msgid "Email Log has been deleted Successfully"
+msgstr "Вибраний запис журналу був успішно видалений"
+
+#: includes/translations.php:62
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"Для використання OAuth не достатньо лише адреси SMTP сервера, будь ласка, "
+"введіть ім'я користувача і пароль"
+
+#: includes/translations.php:63
+msgid "Invalid Secret Key. Please rectify and try again!"
+msgstr "Хибний секретний ключ. Будь ласка, виправіть і спробуйте ще раз!"
+
+#: includes/translations.php:64
+msgid "Licensing"
+msgstr "Ліцензування"
+
+#: includes/translations.php:67
+msgid "Your License has been activated Successfully"
+msgstr "Ваша ліцензія була успішно активована"
+
+#: includes/translations.php:68
+msgid "Sent"
+msgstr "Надіслано"
+
+#: includes/translations.php:69
+msgid "Not Sent"
+msgstr "Не надіслано"
+
+#: includes/translations.php:70
+msgid "Important Disclaimer!"
+msgstr "Відмова від відповідальності!"
+
+#: includes/translations.php:71
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"У вас немає прав доступу до цієї сторінки. Будь ласка, зверніться до "
+"адміністратора за додатковими привілеями"
+
+#: includes/translations.php:72
+msgid "Enable"
+msgstr "Увімкнено"
+
+#: includes/translations.php:73
+msgid "Disable"
+msgstr "Вимкнено"
+
+#: includes/translations.php:74
+msgid "Override"
+msgstr "Змінити"
+
+#: includes/translations.php:75
+msgid "Don't Override"
+msgstr "Не змінювати"
+
+#: includes/translations.php:76
+msgid "Save Settings"
+msgstr "Зберегти налаштування"
+
+#: includes/translations.php:77
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/translations.php:78
+msgid "Next Step"
+msgstr "Наступний крок"
+
+#: includes/translations.php:79
+msgid "Previous Step"
+msgstr "Попередній крок"
+
+#: includes/translations.php:80
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/translations.php:81
+msgid "Not available"
+msgstr "Недоступно"
+
+#: includes/translations.php:82
+msgid ""
+"The following php extensions are not found on your server or are currently "
+"disabled. These might create few problems in configuring Mail Bank. Please "
+"contact your WebHost to setup these extensions on your server."
+msgstr ""
+"Наступні розширення PHP не знайдений на сервері або в даний час відключені. "
+"Це може створити деякі проблеми в налаштуванні поштового банку. Будь ласка, "
+"зверніться до вашого WebHost встановити ці розширення на вашому сервері."
+
+#: includes/translations.php:85
+msgid "Cc"
+msgstr "Копія"
+
+#: includes/translations.php:86
+msgid "Bcc"
+msgstr "Прихована копія"
+
+#: includes/translations.php:87
+msgid "Please provide valid Cc Email Address"
+msgstr "Будь ласка, введіть правильну адресу електронної пошти"
+
+#: includes/translations.php:88
+msgid "Please provide valid Bcc Email Address"
+msgstr "Будь ласка, введіть правильну адресу електронної пошти"
+
+#: includes/translations.php:89
+msgid "Please provide Cc Email"
+msgstr "Введіть адресу електронної пошти"
+
+#: includes/translations.php:90
+msgid "Please provide Bcc Email"
+msgstr "Введіть адресу електронної пошти"
+
+#: includes/translations.php:91
+msgid "Mailer Settings"
+msgstr "Налаштування відправника повідомлень"
+
+#: includes/translations.php:93
+msgid "From Name"
+msgstr "Від імені"
+
+#: includes/translations.php:94
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"Поле \"Від імені\" показує одержувачу від кого надійшло повідомлення. Якщо "
+"ви бажаєте змінити ім’я за замовчуванням, вам потрібно ввести інше ім’я у це "
+"поле"
+
+#: includes/translations.php:95
+msgid "Please provide From Name"
+msgstr "Будь ласка, введіть ім’я"
+
+#: includes/translations.php:96
+msgid "From Email"
+msgstr "Адреса відправника"
+
+#: includes/translations.php:97
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"Якщо ви хочете змінити адресу відправника по замовчуванню, введіть бажану "
+"адресу електронної пошти у це поле"
+
+#: includes/translations.php:98
+msgid "Please provide From Email Address"
+msgstr "Будь ласка, введіть адресу електронної пошти"
+
+#: includes/translations.php:99
+msgid "Mailer Type"
+msgstr "Тип відправника"
+
+#: includes/translations.php:100
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"Ця опція дає вам можливість вибрати конкретний тип відправника. Якщо ви "
+"хочете надсилати електронну пошту через SMTP, виберіть зі списку \"Надсилати "
+"повідомлення через SMTP\" або ж ви можете використовувати PHP-функцію mail()"
+
+#: includes/translations.php:101
+msgid "Send Email via SMTP"
+msgstr "Надсилати повідомлення через SMTP"
+
+#: includes/translations.php:102
+msgid "Use The PHP mail() Function"
+msgstr "Використовувати PHP-функцію mail()"
+
+#: includes/translations.php:103
+msgid "SMTP Host"
+msgstr "SMTP сервер"
+
+#: includes/translations.php:104
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"Якщо ви хочете надсилати повідомлення через інший сервер, вам потрібно "
+"задати у це поле його адресу (наприклад smtp.gmail.com)"
+
+#: includes/translations.php:105
+msgid "Please provide SMTP Host"
+msgstr "Будь ласка, введіть адресу SMTP сервера"
+
+#: includes/translations.php:106
+msgid "SMTP Port"
+msgstr "SMTP порт"
+
+#: includes/translations.php:107
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr "Введіть у це поле SMTP порт"
+
+#: includes/translations.php:108
+msgid "Please provide SMTP Port"
+msgstr "Будь ласка, введіть SMTP порт"
+
+#: includes/translations.php:109
+msgid "Encryption"
+msgstr "Шифрування"
+
+#: includes/translations.php:110
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr "Виберіть спосіб шифрування"
+
+#: includes/translations.php:111
+msgid "No Encryption"
+msgstr "Без шифрування"
+
+#: includes/translations.php:112
+msgid "Use SSL Encryption"
+msgstr "Використовувати протокол SSL"
+
+#: includes/translations.php:113
+msgid "Use TLS Encryption"
+msgstr "Використовувати протокол TLS"
+
+#: includes/translations.php:114
+msgid "Authentication"
+msgstr "Автентифікація"
+
+#: includes/translations.php:115
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr "Виберіть спосіб автентифікації"
+
+#: includes/translations.php:116
+msgid "Use SMTP Authentication"
+msgstr "Використовувати SMTP-автентифікацію"
+
+#: includes/translations.php:117
+msgid "Don't Use SMTP Authentication"
+msgstr "Не використовувати SMTP-автентифікацію"
+
+#: includes/translations.php:118
+msgid "Test Email Address"
+msgstr "Адреса для відправлення пробного повідомлення"
+
+#: includes/translations.php:119
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr ""
+"У це поле потрібно ввести дійсну адресу електронної пошти, на яку ви хотіли "
+"б отримати пробне повідомлення"
+
+#: includes/translations.php:120
+msgid "Please provide Test Email Address"
+msgstr "Будь ласка, введіть адресу"
+
+#: includes/translations.php:121
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "У це поле потрібно ввести тему пробного повідомлення"
+
+#: includes/translations.php:122
+msgid "Please provide Subject"
+msgstr "Будь ласка, введіть тему повідомлення"
+
+#: includes/translations.php:123
+msgid "Email Content"
+msgstr "Текст повідомлення"
+
+#: includes/translations.php:124
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "У це поле потрібно ввести текст пробного повідомлення"
+
+#: includes/translations.php:125
+msgid "Send Test Email"
+msgstr "Надіслати пробне повідомлення"
+
+#: includes/translations.php:126
+msgid "SMTP Debugging Output"
+msgstr "SMTP-дані для відлагодження"
+
+#: includes/translations.php:127
+msgid "Checking your settings"
+msgstr "Перевірка ваших налаштувань"
+
+#: includes/translations.php:128
+msgid "Result"
+msgstr "Результат"
+
+#: includes/translations.php:129
+msgid "Send Another Test Email"
+msgstr "Відправити ще одне пробне повідомлення"
+
+#: includes/translations.php:130
+msgid "From Name Configuration"
+msgstr "Налаштування імені відправника"
+
+#: includes/translations.php:131
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"Якщо ви хочете змінити ім’я відправника по замовчуванню, виберіть у "
+"випадному меню \"Змінити\""
+
+#: includes/translations.php:132
+msgid "From Email Configuration"
+msgstr "Налаштування адреси відправника"
+
+#: includes/translations.php:133
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"Якщо ви хочете змінити адресу відправника по замовчуванню, виберіть у "
+"випадному меню \"Змінити\""
+
+#: includes/translations.php:134
+msgid "Username"
+msgstr "Ім’я користувача"
+
+#: includes/translations.php:135
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr "Будь ласка, введіть ім’я SMTP-користувача на вашому поштовому сервері"
+
+#: includes/translations.php:136
+msgid "Please provide username"
+msgstr "Будь ласка, введіть ім’я користувача"
+
+#: includes/translations.php:137
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/translations.php:138
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr ""
+"Будь ласка, введіть пароль SMTP-користувача на вашому поштовому сервері"
+
+#: includes/translations.php:139
+msgid "Please provide password"
+msgstr "Будь ласка, введіть пароль"
+
+#: includes/translations.php:140
+msgid "Redirect URI"
+msgstr "Адреса переадресації"
+
+#: includes/translations.php:141
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Під час створення додатка скопіюйте цю адресу переадресації і вставте у "
+"відповідне поле"
+
+#: includes/translations.php:142
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "Використовувати OAuth (необхідні ID клієнта і секретний ключ)"
+
+#: includes/translations.php:143
+msgid "Plain Authentication"
+msgstr "Звичайна автентифікація"
+
+#: includes/translations.php:144
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:145
+msgid "Login"
+msgstr "Логін"
+
+#: includes/translations.php:146
+msgid "Client Id"
+msgstr "ID клієнта"
+
+#: includes/translations.php:147
+msgid "Secret Key"
+msgstr "Секретний ключ"
+
+#: includes/translations.php:148
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "Будь ласка, введіть дійсний ID клієнта, виданий вашим SMTP сервером"
+
+#: includes/translations.php:149
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr ""
+"Будь ласка, введіть дійсний секретний ключ, виданий вашим SMTP сервером"
+
+#: includes/translations.php:150
+msgid "Please provide Client Id"
+msgstr "Будь ласка, введіть ID клієнта"
+
+#: includes/translations.php:151
+msgid "Please provide Secret Key"
+msgstr "Будь ласка, введіть секретний ключ"
+
+#: includes/translations.php:152
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Так, автоматично надіслати пробне повідомлення після натискання на кнопку "
+"\"Наступний крок\" (для перевірки налаштувань)"
+
+#: includes/translations.php:153
+msgid "Email Address"
+msgstr "Адреса електронної пошти"
+
+#: includes/translations.php:154
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr ""
+"У це поле потрібно ввести адресу електронної пошти, на яку будуть надходити "
+"повідомлення від вашого веб-сайту"
+
+#: includes/translations.php:155
+msgid "Please provide valid Email Address"
+msgstr "Будь ласка, введіть правильну адресу електронної пошти"
+
+#: includes/translations.php:156
+msgid "Reply To"
+msgstr "Зворотна адреса"
+
+#: includes/translations.php:157
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"У це поле потрібно ввести адресу електронної пошти, яка буде автоматично "
+"вставлятися у поле одержувача, коли користувач відповідатиме на повідомлення"
+
+#: includes/translations.php:158
+msgid "Please provide Reply To Email Address"
+msgstr "Будь ласка, введіть зворотну адресу електронної пошти"
+
+#: includes/translations.php:159
+msgid "Get Google Client Id and Secret Key"
+msgstr "Отримати ID клієнта Google і секретний ключ"
+
+#: includes/translations.php:160
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "Отримати ID клієнта Microsoft і секретний ключ"
+
+#: includes/translations.php:161
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "Отримати ID клієнта Yahoo і секретний ключ"
+
+#: includes/translations.php:164
+msgid "Start Date"
+msgstr "Початкова дата"
+
+#: includes/translations.php:165
+msgid "Please provide Start Date"
+msgstr "Будь ласка, введіть початкову дату"
+
+#: includes/translations.php:166
+msgid "This field shows starting date of Email Logs"
+msgstr "Початкова дата для фільтрування журналу вихідних повідомлень"
+
+#: includes/translations.php:167
+msgid "End Date"
+msgstr "Кінцева дата"
+
+#: includes/translations.php:168
+msgid "Please provide End Date"
+msgstr "Будь ласка, введіть кінцеву дату"
+
+#: includes/translations.php:169
+msgid "This field shows ending date of Email Logs"
+msgstr "Кінцева дата для фільтрування журналу вихідних повідомлень"
+
+#: includes/translations.php:170
+msgid "Submit"
+msgstr "Надіслати"
+
+#: includes/translations.php:171
+msgid "Bulk Action"
+msgstr "Групові дії"
+
+#: includes/translations.php:172
+msgid "Delete"
+msgstr "Видалити"
+
+#: includes/translations.php:173
+msgid "Apply"
+msgstr "Застосувати"
+
+#: includes/translations.php:174
+msgid "Email To"
+msgstr "Кому"
+
+#: includes/translations.php:175
+msgid "Action"
+msgstr "Дія"
+
+#: includes/translations.php:176
+msgid "Show Details"
+msgstr "Показати деталі"
+
+#: includes/translations.php:177
+msgid "Email Details"
+msgstr "Надіслати деталі"
+
+#: includes/translations.php:178
+msgid "Email Debugging output"
+msgstr "Надіслати дані для відлагодження електронною поштою"
+
+#: includes/translations.php:179
+msgid "Close"
+msgstr "Закрити"
+
+#: includes/translations.php:180
+msgid "Debugging Output"
+msgstr "Дані для відлагодження"
+
+#: includes/translations.php:181
+msgid "Show Debugging Output"
+msgstr "Показати дані для відлагодження"
+
+#: includes/translations.php:182
+msgid "Email Sent To"
+msgstr "Кому"
+
+#: includes/translations.php:183
+msgid "Date/Time"
+msgstr "Дата/час"
+
+#: includes/translations.php:184
+msgid "Status"
+msgstr "Статус"
+
+#: includes/translations.php:185
+msgid "From"
+msgstr "Від"
+
+#: includes/translations.php:186
+msgid "Back to Email Logs"
+msgstr "Повернутися до журналу вихідних повідомлень"
+
+#: includes/translations.php:189
+msgid "Automatic Plugin Updates"
+msgstr "Автоматичне оновлення"
+
+#: includes/translations.php:190
+msgid ""
+"Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr "Ця опція дозволить автоматично оновлювати плаґін"
+
+#: includes/translations.php:191
+msgid "Debug Mode"
+msgstr "Режим відлагодження"
+
+#: includes/translations.php:192
+msgid "Please choose a specific option for Debug Mode"
+msgstr "Ця опція вмикає режим відлагодження"
+
+#: includes/translations.php:193
+msgid "Remove Tables at Uninstall"
+msgstr "Видалити таблиці під час деінсталяції"
+
+#: includes/translations.php:194
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr ""
+"Виберіть цю опцію для видалення всіх даних плаґіна під час деінсталяції"
+
+#: includes/translations.php:195
+msgid "Monitoring Email Logs"
+msgstr "Журнал вихідних повідомлень"
+
+#: includes/translations.php:196
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr "Ця опція дозволяє відстежувати всі вихідні повідомлення вашого сайту"
+
+#: includes/translations.php:199
+msgid "Show Mail Bank Menu"
+msgstr "Показувати опції плаґіна у бічному меню"
+
+#: includes/translations.php:200
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr ""
+"Будь ласка, виберіть ролі користувачів, які бачитимуть опції плаґіна у "
+"бічному меню"
+
+#: includes/translations.php:201
+msgid "Administrator"
+msgstr "Адміністратор"
+
+#: includes/translations.php:202
+msgid "Author"
+msgstr "Автор"
+
+#: includes/translations.php:203
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/translations.php:204
+msgid "Contributor"
+msgstr "Помічник"
+
+#: includes/translations.php:205
+msgid "Subscriber"
+msgstr "Учасник"
+
+#: includes/translations.php:206
+msgid "Others"
+msgstr "Інші ролі"
+
+#: includes/translations.php:207
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Відображати меню плаґіна на панелі інструментів"
+
+#: includes/translations.php:208
+msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+msgstr "Будь ласка, вкажіть чи відображати меню плаґіна на панелі інструментів"
+
+#: includes/translations.php:209
+msgid "An Administrator Role can do the following "
+msgstr "Адміністратори можуть робити наступне"
+
+#: includes/translations.php:210
+msgid "Please choose specific page available for the Administrator Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам із роллю "
+"\"Адміністратор\""
+
+#: includes/translations.php:211
+msgid "Full Control"
+msgstr "Повний контроль"
+
+#: includes/translations.php:212
+msgid "An Author Role can do the following "
+msgstr "Автори можуть робити наступне"
+
+#: includes/translations.php:213
+msgid "Please choose specific page available for Author Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам із роллю "
+"\"Автор\""
+
+#: includes/translations.php:214
+msgid "An Editor Role can do the following "
+msgstr "Редактори можуть робити наступне"
+
+#: includes/translations.php:215
+msgid "Please choose specific page available for Editor Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам із роллю "
+"\"Редактор\""
+
+#: includes/translations.php:216
+msgid "A Contributor Role can do the following "
+msgstr "Помічники можуть робити наступне"
+
+#: includes/translations.php:217
+msgid "Please choose specific page available for Contributor Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам із роллю "
+"\"Помічник\""
+
+#: includes/translations.php:218
+msgid "Other Roles can do the following "
+msgstr "Інші ролі можуть робити наступне"
+
+#: includes/translations.php:219
+msgid "Please choose specific page available for Others Role Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам з іншими "
+"ролями"
+
+#: includes/translations.php:220
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Будь ласка, відзначте відповідні можливості в цілях безпеки"
+
+#: includes/translations.php:221
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "Тільки користувачі із цими можливостями матимуть доступ до Mail Bank"
+
+#: includes/translations.php:222
+msgid "A Subscriber Role can do the following"
+msgstr "Учасники можуть робити наступне"
+
+#: includes/translations.php:223
+msgid "Please choose specific page available for Subscriber Access"
+msgstr ""
+"Будь ласка, виберіть сторінки, які будуть доступні користувачам із роллю "
+"\"Учасник\""
+
+#: includes/translations.php:226
+msgid "Thank You!"
+msgstr "Дякуємо!"
+
+#: includes/translations.php:227
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Якщо ви бажаєте запропонувати опції, яких немає у цьому плаґіні, будь ласка, "
+"заповніть подану нижче форму"
+
+#: includes/translations.php:228
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Якщо у вас є будь-які пропозиції або зауваження, ви також можете "
+"використовувати подану нижче форму"
+
+#: includes/translations.php:229
+msgid "You can also write us on"
+msgstr "Або ж ви можете написати нам на адресу"
+
+#: includes/translations.php:230
+msgid "Your Name"
+msgstr "Ваше ім’я"
+
+#: includes/translations.php:231
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr "Будь ласка, введіть ваше ім’я, яке буде надіслане разом із відгуком"
+
+#: includes/translations.php:232
+msgid "Please provide your Name"
+msgstr "Введіть ваше ім’я"
+
+#: includes/translations.php:233
+msgid "Your Email"
+msgstr "Ваша електронна пошта"
+
+#: includes/translations.php:234
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr ""
+"Будь ласка, введіть адресу вашої електронної пошти, яка буде надіслана разом "
+"із відгуком"
+
+#: includes/translations.php:235
+msgid "Please provide your Email Address"
+msgstr "Введіть вашу адресу електронної пошти"
+
+#: includes/translations.php:236
+msgid "Please provide your Feedback which will be sent along"
+msgstr "Будь ласка, напишіть відгук, який ви бажаєте надіслати"
+
+#: includes/translations.php:237
+msgid "Please provide your Feedback"
+msgstr "Напишіть ваш відгук"
+
+#: includes/translations.php:238
+msgid "Send Feedback"
+msgstr "Надіслати відгук"
+
+#: includes/translations.php:241
+msgid "Sending Test Email to"
+msgstr "Надсилаємо пробне повідомлення на адресу"
+
+#: includes/translations.php:242
+msgid "Email Status"
+msgstr "Статус повідомлення"
+
+#: includes/translations.php:245
+msgid "Important Notice!"
+msgstr "Важливе зауваження!"
+
+#: includes/translations.php:246
+msgid ""
+"Congratulations! You have recently purchased Mail Bank Business Edition and "
+"now you would need to activate the license in order to unlock it!"
+msgstr ""
+"Вітаємо! Ви нещодавно придбали бізнес версію плаґіна і тепер вам потрібно "
+"буде активувати ліцензію!"
+
+#: includes/translations.php:247
+msgid ""
+"Kindly fill in the required details and click on Validate License to unlock "
+"it"
+msgstr ""
+"Будь ласка, заповніть необхідні поля і натисніть Підтвердити ліцензію, щоб "
+"її активувати"
+
+#: includes/translations.php:248
+msgid "If you face any issues activating the license, you may contact us at "
+msgstr ""
+"Якщо у вас виникнуть проблеми з активацією ліцензії, ви можете зв’язатися з "
+"нами за адресою"
+
+#: includes/translations.php:250
+msgid "Product Name"
+msgstr "Назва продукту"
+
+#: includes/translations.php:251
+msgid "Current Version"
+msgstr "Поточна версія"
+
+#: includes/translations.php:252
+msgid "Website URL"
+msgstr "Адреса веб-сайту"
+
+#: includes/translations.php:253
+msgid "Order ID"
+msgstr "ID замовлення"
+
+#: includes/translations.php:254
+msgid "API KEY"
+msgstr "Ключ API"
+
+#: includes/translations.php:255
+msgid "Validate License"
+msgstr "Підтвердити ліцензію"
+
+#: includes/translations.php:257
+msgid "This field shows your Installed Product"
+msgstr "Це поле показує ваш встановлений продукт"
+
+#: includes/translations.php:258
+msgid "This field shows your Installed Product Version"
+msgstr "Це поле показує встановлену версію продукту"
+
+#: includes/translations.php:259
+msgid "This field shows your Website URL"
+msgstr "Це поле показує адресу вашого веб-сайту"
+
+#: includes/translations.php:260
+msgid ""
+"Please provide your Order ID  which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr ""
+"Вкажіть свій ID замовлення, який Ви отримали після покупки продукту. Це "
+"необхідно для перевірки ліцензії"
+
+#: includes/translations.php:261
+msgid ""
+"Please provide your API Key which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr ""
+"Вкажіть свій ключ API, який Ви отримали після покупки продукту. Це необхідно "
+"для перевірки ліцензії"
+
+#: includes/translations.php:262
+msgid "Please provide Order ID received after making the purchase"
+msgstr "Вкажіть ID замовлення, який Ви отримали після покупки продукту"
+
+#: includes/translations.php:263
+msgid "Please provide API Key received after making the purchase"
+msgstr "Вкажіть ключ API, який Ви отримали після покупки продукту"
+
+#~ msgid "* Openssl extension not found or disabled"
+#~ msgstr "* розширення OpenSSL не знайдене або відключене"

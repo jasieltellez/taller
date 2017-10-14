@@ -1,0 +1,3324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat\n"
+"POT-Creation-Date: 2016-10-18 14:15+0200\n"
+"PO-Revision-Date: 2016-10-18 14:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support\n"
+"X-Poedit-SearchPath-1: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-pro\n"
+"X-Poedit-SearchPath-2: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-advanced-chat-box-control\n"
+"X-Poedit-SearchPath-3: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-choose-when-online\n"
+"X-Poedit-SearchPath-4: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-cloud-server\n"
+"X-Poedit-SearchPath-5: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-encryption\n"
+"X-Poedit-SearchPath-6: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-include-exclude-pages\n"
+"X-Poedit-SearchPath-7: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-initiate-chats\n"
+"X-Poedit-SearchPath-8: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-mobile-and-desktop-app\n"
+"X-Poedit-SearchPath-9: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-"
+"chat-support-multiple-agents\n"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/includes/update_control.php:43
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:59
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:371
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:393
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:98
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3988
+msgid "Cloud Server"
+msgstr "Pilve server"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/includes/update_control.php:118
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/update_control.class.php:122
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Ootamatu HTTP tõrge API päringu ajal. </p> <p><a href=\"?\" onclick="
+"\"document.location.reload(); return false;\">Proovi uuesti</a>"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/includes/update_control.php:123
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/update_control.class.php:127
+msgid "An unknown error occurred"
+msgstr "Tekkis teadmata viga"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:73
+msgid "Chat functionality has been paused."
+msgstr "Vestluse funktsionaalsus on hetkel peatatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:74
+msgid ""
+"Please enter your verified API key in the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the cloud "
+"based functionality."
+msgstr ""
+"Palun sisestage verifitseeritud API võti, <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys lehele</a>, et aktiveerida "
+"pilveserveri põhine funktsionaalsus."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:90
+msgid "Are you sure you would like to delete chat history?"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:92
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:108
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:135
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1609
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:97
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3048
+msgid "Yes"
+msgstr "Jah"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:93
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:109
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:138
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1609
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:98
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3048
+msgid "No"
+msgstr "Ei"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:106
+msgid "Are you sure you would like to delete all missed chats?"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:374
+msgid ""
+"You are currently using our <strong>cloud server</strong> to handle your "
+"chat requests and live chat sessions.<br /><br />To disable this, please "
+"deactivate the WP Live Chat Support - Cloud Server plugin."
+msgstr ""
+"Hetkel Te kasutate meie <strong>pilve serverit</strong> enda vestluse "
+"sessioonideks.<br /><br />Selleks, et seda deaktiveerida, palun lülitage "
+"välja WP Live Chat Support - Cloud Server plugin."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:47
+msgid "Mobile and Desktop App"
+msgstr "Mobiilne ja Desktop programm"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:99
+msgid "Mobile and Desktop App Settings"
+msgstr "Mobiilne ja Desktop programmi seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:102
+msgid "Enable mobile and desktop app"
+msgstr "Lülitage sisse Mobiilne ja Desktop programm"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:124
+msgid "App"
+msgstr "Programm"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/ajax-pro.php:269
+msgid "Guest"
+msgstr "Külaline"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/ajax-pro.php:341
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/ajax_new.php:286
+msgid "Admin has closed and ended the chat"
+msgstr "Administraator sulges ja lõpetas selle vestluse"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/ajax-pro.php:376
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/ajax_new.php:310
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Vastust ei tulnud. Palun proovige hiljem uuesti."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:54
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:173
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:325
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:294
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:486
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api-functions.php:458
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2485
+msgid "IP Address not recorded"
+msgstr "IP aadressi ei salvestatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:56
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:175
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:327
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:296
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:488
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2487
+msgid "Whois for"
+msgstr "Whois päring"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:61
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:333
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:301
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:443
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1359
+msgid "Accept Chat"
+msgstr "Nõustu vestlusega"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:63
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:335
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:303
+msgid "Incoming Chat"
+msgstr "Sissetulev vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:63
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:335
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:303
+msgid "You have an incoming chat."
+msgstr "Teil on sissetulev vestlus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:67
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:448
+msgid "Open Chat"
+msgstr "Ava veslus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:69
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:347
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:309
+msgid "Chat Active"
+msgstr "Vestlus aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:69
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:347
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:309
+msgid "This chat is active"
+msgstr "See vestlus on aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:74
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:160
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2349
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1690
+msgid "Initiate Chat"
+msgstr "Alustage vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:76
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:162
+msgid "You must be a chat agent to initiate chats"
+msgstr "Te peate olema vestluse agent, et vestlusi algatada"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:99
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:511
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api-functions.php:474
+msgid "New"
+msgstr "Uus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:101
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:513
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api-functions.php:476
+msgid "Returning"
+msgstr "Naasev"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:143
+msgid "Visitors on site"
+msgstr "Külastajaid lehel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:207
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:377
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:332
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2522
+msgid "Site Info"
+msgstr "Lehekülje info"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:209
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:379
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:334
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2524
+msgid "Chat initiated on:"
+msgstr "Vestlus alustati:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:213
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:383
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:338
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2528
+msgid "Advanced Info"
+msgstr "Täpsem info"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:215
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:385
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:340
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2530
+msgid "Browser:"
+msgstr "Brauser:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:216
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:386
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:341
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2531
+msgid "IP Address:"
+msgstr "IP Aadress:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:259
+msgid "No visitors on-line at the moment"
+msgstr "Hetkel ei ole ühtegi külastajat lehel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:302
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:277
+msgid "No chat sessions available at the moment"
+msgstr "Hetkel ei ole vestlusi saadaval"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:304
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:279
+msgid "Active Chats"
+msgstr "Aktiivsed vestlused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:339
+msgid "You must be a chat agent to answer chats"
+msgstr "Sa pead olema vestluse agen, et vestlustele vastata"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:345
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:307
+msgid "Open Chat Window"
+msgstr "Ava vestluse aken"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:349
+msgid "Chat has been answered by another agent"
+msgstr "Sellele vestlusele on juba teise agendi poolt vastatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:350
+msgid "Chat answered by another agent"
+msgstr "Sellele vestlusele on juba teise agendi poolt vastatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:409
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1205
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Tugi - Offline sõnum: "
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:969
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:441
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:128
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1206
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1620
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:192
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:391
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:256
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1371
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1529
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3072
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3183
+msgid "Name"
+msgstr "Nimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:970
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1207
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1621
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:193
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:392
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1372
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1530
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3073
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3184
+msgid "Email"
+msgstr "E-post"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:971
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1546
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1208
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1531
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3185
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4127
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4177
+msgid "Message"
+msgstr "Sõnum"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1209
+msgid "Via WP Live Chat Support"
+msgstr "Läbi WP Live Chat Support-i"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:480
+msgid "Alert: Someone wants to chat with you on "
+msgstr "Teavitus: Keegi soovib Sinuga vestelda"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:481
+msgid "Someone wants to chat with you on your website"
+msgstr "Keegi soovib Sinuga vestelda läbi sinu kodulehe"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:481
+msgid "Log in"
+msgstr "Logi sisse"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:748
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:764
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:779
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2725
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2741
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2756
+msgid "Chat Agent"
+msgstr "Vestluse Agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:753
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:769
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2730
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2746
+msgid "Make this user a chat agent"
+msgstr "Tee sellest kasutajat vestluse agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:783
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2760
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr "Teie kasutajaroll ei luba Teil teha ennast vestluse agendiks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:784
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2761
+msgid "Please contact the administrator of this website to change this."
+msgstr "Palun kontakteeruga lehe administraatoriga, et seda muudatust teha."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:869
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3145
+msgid "Chat Agent Online"
+msgstr "Vestluse Agent on võrgus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:871
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:876
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3147
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3152
+msgid "Chat Agents Online"
+msgstr "Agente võrgus:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:968
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1619
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3071
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3182
+msgid "Date"
+msgstr "Kuupäev"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:985
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3196
+msgid "You have not received any offline messages."
+msgstr "Sul ei ole offline-is jäetud sõnumeid."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:788
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3500
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3770
+msgid "Administrator"
+msgstr "Administraator"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1411
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:794
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3506
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3779
+msgid "Editor"
+msgstr "Toimetaja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1412
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:800
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3512
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3788
+msgid "Author"
+msgstr "Autor"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1413
+msgid "Contributor"
+msgstr "Kaasautor"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1414
+msgid "Subscriber"
+msgstr "Liituja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1544
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4125
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4175
+msgid "Chat ID"
+msgstr "Vestluse ID"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1545
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4126
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4176
+msgid "From"
+msgstr "Kellelt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1547
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4128
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4178
+msgid "Timestamp"
+msgstr "Ajatempel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1548
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4129
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4179
+msgid "Origin"
+msgstr "Päritolu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1560
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4134
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4184
+msgid "user"
+msgstr "kasutaja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/functions-pro.php:1562
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4136
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4186
+msgid "agent"
+msgstr "agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:48
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:26
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Support Seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:71
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2142
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2157
+msgid "Dear Pro User"
+msgstr "Hea Pro versiooni kasutaja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:72
+msgid ""
+"Please enter a valid API key on the 'Live Chat' -> 'Settings' page. Failing "
+"to do this will result in you no longer receiving updates for this plugin."
+msgstr ""
+"Palun sisestage kehtiv API võti 'Live Chat' -> 'Seadistused' lehel. Kui see "
+"ei õnnestu, ei uuendata enam Teie plugina versiooni."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "You can obtain a copy of your API key "
+msgstr "Te saate oma API võtme koopia"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "here"
+msgstr "siit"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid ""
+"An account has been created for you while purchasing the plugin. If you have "
+"lost your password, please reset it "
+msgstr ""
+"Ostuprotsessi ajal loodi Teie jaoks konto. Kui olete oma parooli kaotanud, "
+"palun lähtestage see."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:74
+msgid ""
+"If you feel you are getting this message in error, please try refreshing the "
+"page."
+msgstr ""
+"Kui Teil on tunne, et saate selle sõnumi veateatena, siis palun taaslaadige "
+"leht."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:83
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:53
+msgid "General Settings"
+msgstr "Üldised seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:84
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:58
+msgid "Chat Box"
+msgstr "Vestluse aken"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:85
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:383
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:63
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:400
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:757
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:760
+msgid "Offline Messages"
+msgstr "Offline sõnumid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:86
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:485
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:68
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:541
+msgid "Styling"
+msgstr "Väljanägemine"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:87
+msgid "Chat Agents"
+msgstr "Vestluse agendid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:78
+msgid "Blocked Visitors"
+msgstr "Blokeeritud kasutajad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:89
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:830
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid "Chat Experience Ratings"
+msgstr "Vestluse rahulolu reiting"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:90
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1857
+msgid "Encryption"
+msgstr "Krüpteering"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:93
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:91
+msgid "Main Settings"
+msgstr "Peamised seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:96
+msgid "Find out more."
+msgstr "Loe rohkem."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:103
+msgid "Use our server to host your chat server."
+msgstr "Kasutage meie serverit, et host-ida enda vestlusi."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:107
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3901
+msgid "API Key"
+msgstr "API võti"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:112
+msgid "This API key is "
+msgstr "See API võti on"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:115
+msgid "valid"
+msgstr "kehtiv"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:118
+msgid "invalid"
+msgstr "kehtetu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:122
+msgid ""
+"A valid API key means that you will be able to get the latest version of the "
+"plugin as and when it is released, as well as get access to support should "
+"you require it."
+msgstr ""
+"Kehtiv API võti tähendab, et saate viimase versiooni sellest pluginast kui "
+"see on väljastatud ning teile võimaldatakse ka kasutajatugi."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:130
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:94
+msgid "Chat enabled"
+msgstr "Vestlus on aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+msgid "Choose when I want to be online"
+msgstr "Valik, millal ma tahan olla võrgus."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"Tehes selle valiku aktiivseks, saate muuta Online ja Offline staatust Live-"
+"Chat lehel."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:116
+msgid "Hide Chat"
+msgstr "Peida vestlus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:116
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "Peidab vestluse 24 tunniks kui kasutaja vajutab X"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:125
+msgid "Require Name And Email"
+msgstr "Nimi ja E-post on nõutavad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:125
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"Kasutajad peavad sisestama enda Nime ja E-posti aadressi kui soovivad "
+"alustada vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:133
+msgid "Input Field Replacement Text"
+msgstr "Sisestusvälja asendustekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:133
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "Seda teksti näidetakse Nime ja E-posti väljade asendustekstina"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:141
+msgid "Use Logged In User Details"
+msgstr "Kasuta sisse logitud kasutaja andmeid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:141
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"Kasutaja Nime ja E-posti aadressi kasutatakse vaikimisi kui nad on sisse "
+"loginud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:149
+msgid "Enable On Mobile Devices"
+msgstr "Aktiveeri mobiilsed seadmed"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:149
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Selle valiku välja lülitamisel ei kuvata Vestluse akent mobiilsetel "
+"seadmetel. (Nutitelefonid ja tahvelarvutid)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:157
+msgid "Record a visitor's IP Address"
+msgstr "Salvesta külastaja IP aadress."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:157
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "Lülitage see välja, et teha kõik külastajad anonüümseteks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:165
+msgid "Play a sound when a new message is received"
+msgstr "Mängi heli kui uus sõnum on kättesaadud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:165
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+"Lülitage see välja, et vaigistada heli, mis mängitakse uue sõnumi saabumisel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+msgid "Include chat window on the following pages:"
+msgstr "Lisage vestluse aken järgmistele lehtedele:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:175
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"Näidake vestluse aken järgnevatel lehtedel. Jätke tühjaks, et näidata "
+"kõigil. (Kasutage ID'de eraldamiseks koma)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+msgid "Exclude chat window on the following pages:"
+msgstr "Ärge kuvage vestluse akent järgmistel lehtedel:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:190
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Ärge kuvage vestluse akent järgmistel lehtedel. Jätke tühjaks, et näidata "
+"kõigil. (Kasutage ID'de eraldamiseks koma)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+msgid "Allow any user to make themselves a chat agent"
+msgstr "Lubage igal kasutajal ennast vestluse agendiks teha"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"Selle sisselülitamisel on võimalik igal kasutajal ennast vestluse agendiks "
+"teha kui nad oma profiili muudavad."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:255
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:213
+msgid "Chat Window Settings"
+msgstr "Vestluse akna seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:258
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:216
+msgid "Chat box alignment"
+msgstr "Vestluse akna joondus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:263
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:219
+msgid "Bottom left"
+msgstr "Vasakul all"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:220
+msgid "Bottom right"
+msgstr "Paremal all"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:269
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:221
+msgid "Left"
+msgstr "Vasakul"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:272
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:222
+msgid "Right"
+msgstr "Paremal"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:228
+msgid "Auto Pop-up"
+msgstr "Automaatne avamine"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:228
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Laienda vestluse akent automaatselt(palub kasutajal sisestada nimi ja e-"
+"posti aadress)."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:289
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:919
+msgid "Name "
+msgstr "Nimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:303
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:990
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:272
+msgid "Picture"
+msgstr "Pilt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:311
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:998
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:275
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:291
+msgid "Upload Image"
+msgstr "Laadige üles pilt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:313
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1000
+msgid "Remove Image"
+msgstr "Eemalda pilt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:314
+msgid "Recomended Size 40px x 40px"
+msgstr "Soovitatud Suurus 40px x 40px"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:320
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1008
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:288
+msgid "Logo"
+msgstr "Logo"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:328
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1016
+msgid "Upload Logo"
+msgstr "Lae üles logo"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1018
+msgid "Remove Logo"
+msgstr "Eemalda Logo"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:331
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1019
+msgid "Recomended Size 250px x 40px"
+msgstr "Soovitatud Suurus 250px x 40px"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:304
+msgid "Chat delay (seconds)"
+msgstr "Vestluse viivitus (sekundites)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+msgid "How long it takes for your chat window to pop up"
+msgstr "Kui kaua võtab aega, et vestluse aken nähtavale ilmub"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:320
+msgid "Chat notifications"
+msgstr "Vestluse teavitused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr "Teavitage mind kui keegi soovib minuga vestelda (Online-i ajal)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:338
+msgid "Display name and avatar in chat"
+msgstr "Kuvage nimi ja avatar vestluses"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:338
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "Kuvage agent ja kasutaja andmed pärast iga sõnumit."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:348
+msgid "Only show the chat window to users that are logged in"
+msgstr "Näita vestluse akend ainult kasutajatele, kes on sisse logitud "
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:348
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Selle valiku aktiivseks tegemisel saavad ainult sisselogitud kasutajad "
+"sinuga vestelda."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:404
+msgid "Do not allow users to send offline messages"
+msgstr "Ära luba kasutajatel offline sõnumeid saata"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:404
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Vestluse aken on peidetud kui see on Offline-is. Kasutajad ei saa sulle "
+"offline sõnumeid jätta."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:416
+msgid "Email Address"
+msgstr "E-posti aadress"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:416
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"E-posti aadress, kuhu offline sõnumid toimetatakse. Kasuta aadresside "
+"eraldamiseks koma, et saata rohkem kui ühele aadressile"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:412
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:428
+msgid "Sending Method"
+msgstr "Saatmise meetod"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:413
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:429
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:414
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:430
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:430
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:446
+msgid "Host"
+msgstr "Hosti server"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:438
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:454
+msgid "Port"
+msgstr "Port"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:446
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:462
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:454
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:470
+msgid "Password"
+msgstr "Parool"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:463
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:479
+msgid "Offline Chat Box Title"
+msgstr "Offline vestluse akna pealkiri"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:471
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:487
+msgid "Offline Text Fields"
+msgstr "Offline tekstide väljad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:504
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:546
+msgid "Choose a theme"
+msgstr "Valige teema"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:512
+msgid "Theme 1"
+msgstr "Teema 1"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:515
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:518
+msgid "Theme 2"
+msgstr "Teema 2"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:521
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:524
+msgid "Theme 3"
+msgstr "Teema 3"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:527
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:530
+msgid "Theme 4"
+msgstr "Teema 4"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:533
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:536
+msgid "Theme 5"
+msgstr "Teema 5"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:539
+msgid "Theme 6"
+msgstr "Teema 6"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:542
+msgid "Custom. Enter Colour Values Below"
+msgstr "Erilahendus. Sisesta värvivalikud allpool"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:568
+msgid "Chat box fill color"
+msgstr "Vestluse akna värv"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:574
+msgid "Chat box font color"
+msgstr "Vestluse akna tekstide värv"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:581
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:677
+msgid "I'm using a localization plugin"
+msgstr "Ma kasutan lokaliseeritud plugin-at"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:584
+msgid "documentation"
+msgstr "Dokumentatsioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:589
+msgid ""
+"You will only be able to edit the strings shown in the chat window of the "
+"code now. <br/> This has been done to accommodate as many localization "
+"plugins as possible. <br/> For more information on how to change these "
+"strings, please consult the "
+msgstr ""
+"Sa saad ainult muuta neid välju, mis on näidatud vestluse aknas allpool.<br/"
+">See on tehtud põhjusel, et liidestada võimalikul palju lokaliseerimise "
+"pluginaid.<br/>Rohkemaks informatsiooniks, palun konsulteerige"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:594
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:685
+msgid "First Section Text"
+msgstr "Esimese sektsiooni tekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:601
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:692
+msgid "Intro Text"
+msgstr "Sissejuhatav tekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:607
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:698
+msgid "Second Section Text"
+msgstr "Teise sektsiooni tekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:614
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:705
+msgid "Reactivate Chat Section Text"
+msgstr "Aktiveeri Vestluse sektsiooni tekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:622
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:713
+msgid "User chat welcome"
+msgstr "Kasutaja vestluse tervitustekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:628
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:719
+msgid "Other text"
+msgstr "Teine tekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:630
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:721
+msgid "This text is shown above the user chat input field"
+msgstr "Seda teksti kuvatakse kasutaja sisestusvälja kohal"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:662
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+"Sa kasutad vananenud WP Live Chat Basic versiooni. Palun uuenda enda plugin, "
+"et animatsioonid hakkaksid tööle"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:666
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:749
+msgid "Choose an animation"
+msgstr "Vali animatsioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:674
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:757
+msgid "Slide Up"
+msgstr "Slaid üles"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:680
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:763
+msgid "Slide From The Side"
+msgstr "Slaid küljelt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:686
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:769
+msgid "Fade In"
+msgstr "Fade In(tuhmuv animatsioon)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:692
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:775
+msgid "No Animation"
+msgstr "Animatsioon puudub"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:750
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3462
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3739
+msgid "Current Users that are Chat Agents"
+msgstr "Praegused kasutajad, kes on Vestluse Agendid."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:761
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3473
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3749
+msgid "Online"
+msgstr "Võrgus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:771
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3331
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3483
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2123
+msgid "Remove"
+msgstr "Eemalda"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:780
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3492
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3799
+msgid "Add New Agent"
+msgstr "Lisa uus Agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:782
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:798
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3494
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2559
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3764
+msgid "Select"
+msgstr "Vali"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:804
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3516
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3800
+msgid "Add Agent"
+msgstr "Lisa agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:810
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3522
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"Kui te soovite lisada kasutajat, kelle kasutajaõigused on väiksemad kui "
+"Toimetaja omad, minge <a href='./users.php'>Kasutajad</a> lehel ja tehke "
+"aktiivseks kõnealune kasutaja, seejärel vajutage Muuda ja minge lehekülje "
+"lõppu ning tehke \"Vestluse agent\" kast aktiivseks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:811
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3523
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"Kui vestluse agente ei ole võrgus, siis vestlus näitab ennast võrgust väljas "
+"olevana."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:815
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:802
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Blokeeritud külastajad - IP aadressi põhiselt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:816
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:803
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Sisesta blokeerida soovitav IP aadress eraldi uuele reale"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:827
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:814
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Kasutaja IP aadressi blokeerimine peidab nendel Vestluse akna, mis ei "
+"võimalda nendel sinuga vestlust alustada. Iga IP aadress peab olema uuel real"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid ""
+"are only available in the WP Live Chat Support Chat Experience Ratings add-on"
+msgstr "ainult saadaval WP Live Chat Support Vestluse Rahulolu reitingu lisas"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:840
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1821
+msgid "Chat Encryption"
+msgstr "Vestluse krüpteering"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+msgid "Enable Encryption"
+msgstr "Lülita krüpteering sisse"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr "Kõik Teie ja agendi vahelised sõnumid krüpteeritakse."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:851
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1834
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr "Sisselülitatuna kõik sõnumid krüpteeritakse. Seda ei saa hiljem muuta."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/settings_page_pro.php:857
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:822
+msgid "Save Settings"
+msgstr "Salvesta seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:5
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:83
+msgid "Add New"
+msgstr "Lisa uus Agent"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:8
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4418
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4448
+msgid "WP Live Chat Support Triggers"
+msgstr "WP Live Chat Support Seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:16
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:110
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4402
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4464
+msgid "Update now"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:77
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4454
+msgid "Page Trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:78
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4455
+msgid "Time Trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:79
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4456
+msgid "Scroll Trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:80
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4457
+msgid "Page Leave Trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr "Sisestusvälja asendustekst"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:114
+msgid "Replace Content"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:119
+msgid "Enable Trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:125
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:237
+msgid "Close"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:134
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:275
+msgid "Trigger has been edited."
+msgstr "Vestlus on lõppenud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:428
+msgid "Conflict with page"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:430
+msgid "Trigger ID: "
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:440
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:127
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1853
+msgid "ID"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:442
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2321
+msgid "Type"
+msgstr "Tüüp"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:443
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:130
+msgid "Page"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:444
+msgid "Content"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:445
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2324
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3075
+msgid "Status"
+msgstr "Olek"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:446
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:132
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1623
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2325
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3076
+msgid "Action"
+msgstr "Tegevus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:453
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:139
+msgid "Edit"
+msgstr "Toimetaja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:454
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:585
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:140
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:545
+msgid "Delete"
+msgstr "Kustutatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:462
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:656
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3553
+msgid "All"
+msgstr "Kõik"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:466
+msgid "Click to change trigger status"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:476
+msgid "No Triggers Found..."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:580
+msgid "Are you sure you would like to delete trigger"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_data_triggers.php:586
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:546
+msgid "Cancel"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:86
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:129
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3873
+msgid "Overview"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:131
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:76
+msgid "Value"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:146
+msgid "None"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:153
+msgid "No ROI Goals Found..."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:212
+msgid "Goal Name"
+msgstr "Teie Nimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr "Vestlus on lõppenud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr "Statistika"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:657
+msgid "Last 30 Days"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:658
+msgid "Last 15 Days"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:659
+msgid "Last 7 Days"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:660
+msgid "Last 24 Hours"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:712
+msgid "Value Per Conversion"
+msgstr "Pro versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:718
+msgid "Total Value"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:723
+msgid "Total Conversions"
+msgstr "Pro versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:757
+msgid "Value By Date"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:760
+msgid "Value By Agent"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/includes/wplc_roi.php:766
+msgid "No data available yet..."
+msgstr "Hetkel ei ole vestlusi saadaval"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:511
+#, php-format
+msgid ""
+"WP Live Chat Support Pro <strong>requires WP Live Chat Support version 6+</"
+"strong> (basic version). Please <strong><a href=\"%1$s\">update the plugin</"
+"a></strong> in order for the plugin to continue working correctly."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:597
+msgid "WP Live Chat Support Pro"
+msgstr "WP Live Chat Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:710
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:721
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3201
+msgid "Quick Responses"
+msgstr "Kiirvastused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:711
+msgid "Quick Response"
+msgstr "Kiirvastus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:712
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:715
+msgid "New Quick Response"
+msgstr "Uus kiirvastus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:713
+msgid "Add New Quick Response"
+msgstr "Lisa uus kiirvastus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:714
+msgid "Edit Quick Response"
+msgstr "Muuda kiirvastust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:716
+msgid "All Quick Responses"
+msgstr "Kõik kiirvastused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:717
+msgid "View Quick Responses"
+msgstr "Vaata kiirvastuseid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:718
+msgid "Search Quick Responses"
+msgstr "Otsi kiirvastuseid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:719
+msgid "No Quick Responses found"
+msgstr "Kiirvastuseid ei leitud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:720
+msgid "No Quick Responses found in the Trash"
+msgstr "Prügikastist kiirvastuseid ei leitud "
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:725
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr "Kiirvastused WP Live Chat Support Pro jaoks"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:791
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:795
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2559
+msgid "Assign Quick Response"
+msgstr "Seadista kiirvastus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:804
+msgid "What is this?"
+msgstr "Mis see on?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:841
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "Sissetulev vestlus %s (%s) %s"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:847
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr "%s (%s) tahab vestelda. <br /><br /> Logi sisse:%s"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:239
+msgid "Display typing indicator"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:902
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of this "
+"feature."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:910
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:927
+msgid "Use WordPress name instead"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:930
+msgid "Note: 'Name' field will be ignored"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:948
+msgid "Incoming chat ring tone"
+msgstr "Sissetulev vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:952
+msgid "Default"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1001
+msgid "Recomended Size 60px x 60px"
+msgstr "Soovitatud Suurus 40px x 40px"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1043
+msgid "User Experience"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1052
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1082
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of these "
+"features."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid "Enable Text Editor"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Enable File Sharing"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Adds file sharing to your chat box!"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+msgid "Enable Experience Ratings"
+msgstr "Vestluse rahulolu reiting"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+msgid "Allows users to rate the chat experience with an agent."
+msgstr "Lubage igal kasutajal ennast vestluse agendiks teha"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1073
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:362
+msgid "Social"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:367
+msgid "Facebook URL"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:367
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1091
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:369
+msgid "Facebook URL..."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:380
+msgid "Twitter URL"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:380
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1095
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:382
+msgid "Twitter URL..."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1118
+msgid "Admin"
+msgstr "Admin"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1612
+msgid "You are currently accepting chats"
+msgstr "Hetkel on kõik vestlused sisselülitatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1613
+msgid "You are not accepting chats"
+msgstr "Hetkel on vestlused väljalülitatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1627
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:1833
+msgid ""
+"Please note: Chat messages will only be encrypted and decreypted if you have "
+"inserted your WP Live Chat Support Pro API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"Teavitus: Vestluste sõnumid krüpteeritakse ja dekrüpteeritakse juhul kui "
+"olete sisestanud WP Live Chat Support- krüpteerimise API võtme <a href="
+"\"admin.php?page=wplivechat-menu-api-keys-page\">API Keys lehel</a>."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+msgid "Exclude chat from 'Home' page:"
+msgstr "Ärge kuvage vestluse akent järgmistel lehtedel:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "Ärge kuvage vestluse akent järgmistel lehtedel:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2458
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "Proovin avada vestluse aken... Varuge kannatust."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2516
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"Te ei ole vestluse agent. Palun tehke ennast enne vestluse agendiks ja siis "
+"on võimalik teile külastajatega vestelda."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:2777
+msgid "This chat has already been answered by another agent."
+msgstr "Sellele vestlusele on juba teise agendi poolt vastatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3084
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2220
+msgid "Agent(s) online"
+msgstr "Agente võrgus:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3202
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:731
+msgid "Reporting"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3203
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:737
+msgid "Triggers"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3679
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3687
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4298
+msgid "Experience Rating"
+msgstr "Vestluse rahulolu reiting"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3767
+msgid "User Experience Ratings"
+msgstr "Vestluse rahulolu reiting"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3774
+msgid "Agent Statistics"
+msgstr "Statistika"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3820
+msgid "Satisfaction Rating"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+msgid "Rating Count"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+msgid "Good"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+msgid "Bad"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3829
+msgid "No Ratings for this agent"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3870
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4379
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4386
+msgid "WP Live Chat Support Reporting"
+msgstr "WP Live Chat Support Seadistused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3874
+msgid "Popular Pages"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+msgid "Total Agents"
+msgstr "Vestluse agendid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+msgid "Total number of agents that used the live chat"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+msgid "Total Chats"
+msgstr "Alusta vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+msgid "Total number of chats received"
+msgstr "Uus vestlus vastu võetud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+msgid "Total URLs"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+msgid "Total number of URLs a chat was initiated on"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3895
+msgid "Chats per day"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3896
+msgid "Popular pages a chat was initiated on"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3972
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1622
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3074
+msgid "URL"
+msgstr "URL"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3973
+msgid "Count"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+msgid "Disable initiate chat feature:"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:451
+msgid "Only chat agents can accept chats"
+msgstr "Hetkel on vestlused väljalülitatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:654
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:567
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1588
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2697
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4268
+msgid "Welcome. How may I help you?"
+msgstr "Tere! Kuidas saan Teid aidata?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1003
+msgid "complete"
+msgstr "Täidetud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1006
+msgid "pending"
+msgstr "Ootel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1009
+msgid "active"
+msgstr "Aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1012
+msgid "deleted"
+msgstr "Kustutatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1015
+msgid "browsing"
+msgstr "sirvib"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1018
+msgid "requesting chat"
+msgstr "ootab vestluse alustamist"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1021
+msgid "Chat Ended - User still browsing"
+msgstr "Vestlus lõpetatud - kasutaja sirvib endiselt veebilehte"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1024
+msgid "User is browsing but doesn't want to chat"
+msgstr "Kasutaja sirvib veebilehte aga ei soovi vestelda"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1359
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Lae alla Pro laiendus et võtta vastu rohkem vestlusi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1597
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3036
+msgid "Error: Could not delete chat"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1601
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3040
+msgid "Chat Deleted"
+msgstr "Vestlus on aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1608
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3047
+msgid "Are you sure you would like to delete this chat?"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1650
+msgid "You have not missed any chat requests."
+msgstr "Sul ei ole vastamata vestluste päringuid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1843
+msgid "Open chat window via"
+msgstr "Ava vestluse aken"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1847
+msgid "Click"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1848
+msgid "Hover"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1850
+msgid "element with"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/functions.php:1852
+msgid "Class"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:151
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:348
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:559
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1650
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2683
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4260
+msgid "Questions?"
+msgstr "Küsimusi?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:151
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:348
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:560
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1651
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2684
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4261
+msgid "Chat with us"
+msgstr "Vestelge meiega"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:158
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:355
+msgid "Start Live Chat"
+msgstr "Alusta Live vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:210
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:410
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:562
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2686
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4263
+msgid "Start Chat"
+msgstr "Alusta vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:213
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:413
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "Teid ühendatakse müügiagendiga. Palun olge kannatlik."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:216
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:416
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:566
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1784
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1835
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2690
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4267
+msgid "Reactivating your previous chat..."
+msgstr "Taastame Teie viimatist vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:221
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:421
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:568
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2558
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2696
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4269
+msgid "Press ENTER to send your message"
+msgstr "Vajutage klaviatuuril \"Enter\", et saata sõnumit"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:225
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/deprecated.php:425
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1624
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2573
+msgid "Send"
+msgstr "Saada"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:6
+msgid "WP Live Chat Support Feedback"
+msgstr "Läbi WP Live Chat Tagasiside"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:11
+msgid "Your Name"
+msgstr "Teie Nimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:19
+msgid "Your Email"
+msgstr "Teie Email"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:27
+msgid "Your Website"
+msgstr "Teie veebileht"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:35
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:766
+msgid "Feedback"
+msgstr "Tagasiside"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/feedback-page.php:46
+msgid "Send Feedback"
+msgstr "Saada Tagasiside"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:73
+msgid "Agents"
+msgstr "Agente"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:175
+msgid "Include chat window on the following pages"
+msgstr "Lisage vestluse aken järgmistele lehtedele:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:181
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:196
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:245
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:262
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:278
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:294
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:310
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:327
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:372
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:385
+msgid "available in the"
+msgstr "See valik on saadaval ainult"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:182
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:197
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:246
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:263
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:279
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:295
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:311
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:328
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:373
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:386
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3153
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3945
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4013
+msgid "Pro Add-on"
+msgstr "Pro lisas"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:183
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:198
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:247
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:264
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:280
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:296
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:312
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:329
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:374
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:387
+msgid "only"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:190
+msgid "Exclude chat window on the following pages"
+msgstr "Ärge kuvage vestluse akent järgmistel lehtedel:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:239
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:324
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "Teavitage mind kui keegi soovib minuga vestelda (Online-i ajal)"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:551
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:552
+msgid "Classic"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:555
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:556
+msgid "Modern"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:572
+msgid "Colour Scheme"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:627
+msgid "Choose"
+msgstr "Valige teema"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:628
+msgid "Your"
+msgstr "Teie Nimi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:629
+msgid "Colors"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:630
+msgid "Below"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:652
+msgid "Palette Color 1"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:658
+msgid "Palette Color 2"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:664
+msgid "Palette Color 3"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/settings_page.php:670
+msgid "Palette Color 4"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:8
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:21
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:290
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:726
+msgid "Surveys"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:24
+msgid "Enable Surveys"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:24
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:33
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:40
+msgid "Select a survey"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:66
+msgid "Display survey"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:69
+msgid "Before chat"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:70
+msgid "After chat"
+msgstr "Alusta vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:75
+msgid "Chat button text"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:81
+msgid "Change title of chat box when chat ended to"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:246
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:563
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2687
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4264
+msgid "Or chat to an agent now"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:251
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1425
+msgid "Leave a message"
+msgstr "Vestlus toimub offline'is. Jätke palun oma sõnum"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:285
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:291
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:294
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:304
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free.)"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:314
+msgid "Add a Survey to your live chat box"
+msgstr "Lisa Kiirvastuseid Live vestlusele"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:315
+msgid "Three simple steps:"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/surveys.php:319
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "Tere tulemast"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:6
+msgid "Version 6"
+msgstr "Versioon 6"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr "Kõige populaarsem live chat plugin!"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr "Kuidas Sa meid leidsid?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org plugin repositoorium"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "Otsingutermin"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "Google või mõni teine otsingumootor"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "Sõbra soovitusel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:35
+msgid "Other"
+msgstr "Muu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "Palun selgita lähemalt"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:48
+msgid "Submit"
+msgstr "Saada"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/includes/welcome_page.php:50
+msgid "Skip"
+msgstr "Jäta vahele"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:44
+msgid "Rest API"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:75
+msgid "Option"
+msgstr "Tegevus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:82
+msgid "Secret Token"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:85
+msgid "No secret token found"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:86
+msgid "Generate New"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:91
+msgid "Supported API Calls"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:95
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:103
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:111
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:119
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:127
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:136
+msgid "Try"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:144
+msgid "API Response Codes"
+msgstr "Kiirvastused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:288
+msgid "Rest Console "
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/modules/api/wplc-api.php:295
+msgid "Try it!"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:554
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1667
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2691
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4255
+msgid "Chat offline. Leave a message"
+msgstr "Vestlus toimub offline'is. Jätke palun oma sõnum"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:555
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1509
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2692
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4256
+msgid "Hello. Please input your details so that I may help you."
+msgstr "Tere! Palun sisestage enda kontaktandmed, et saaksime Teid aidata."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:556
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:956
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1522
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2693
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4257
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"Oleme hetkel võrgust väljas. Palun jätke sõnum ja võtame Teiega peatselt "
+"ühendust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:557
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:957
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2694
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4258
+msgid "Sending message..."
+msgstr "Saadan sõnumit..."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:558
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:958
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2695
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4259
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "Täname sõnumi eest. Kontakteerume Teiega peatselt."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:561
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2685
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4262
+msgid "Start live chat"
+msgstr "Alusta reaalaja vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:564
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2688
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4265
+msgid "Chat ended"
+msgstr "Vestlus on aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:565
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1559
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1584
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2689
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4266
+msgid "Connecting. Please be patient..."
+msgstr "Ühendame. Palume kannatust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:602
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2663
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "Palun vajutage \\'Alusta vestlust\\' et alustada vestlust agendiga"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:724
+msgid "Live Chat"
+msgstr "Live vestlus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:725
+msgid "Settings"
+msgstr "Seaded"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:743
+msgid "History"
+msgstr "Ajalugu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:744
+msgid "Missed Chats"
+msgstr "Vastamata vestlused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:767
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3656
+msgid "Support"
+msgstr "Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:768
+msgid "Extensions"
+msgstr "Laiendused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:778
+msgid "API Keys"
+msgstr "API võtmed"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:784
+msgid "Premium Extension API Keys"
+msgstr "Preemium laiendus API võtmed"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:785
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+"Selleks, et leida ja seadistada enda preemium API võtmeid, palun külastage "
+"<a target='_BLANK' href='http://wp-livechat.com/my-account/'>minu konto</a> "
+"lehte."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1264
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1274
+msgid "close"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1400
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1419
+msgid "Start chat"
+msgstr "Alusta vestlust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:1493
+msgid "Send message"
+msgstr "Saada sõnum"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2078
+msgid "New chat received"
+msgstr "Uus vestlus vastu võetud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2080
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"Uus vestlus vastu võetud. Palun minge lehele 'Live Chat' ja kinnitage selle "
+"vastuvõtt."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2143
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"Kasutate aegunud strong>WP Live Chat Support Pro</strong> versiooni. Palume"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2143
+msgid "update to at least version"
+msgstr "uuendage versiooni"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2143
+msgid "to ensure all functionality is in working order"
+msgstr ", et kindlustada kõikide versioonide toimimine"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2144
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"Teie live vestluse aken on Teie veebisaidil ajutiselt peatatud. Palun "
+"uuendage PRO-pluginat. See on vajalik selleks, et sujuv ja tõrgetevaba "
+"kasutajakogemus oleks tagatud nii Teile, kui ka Teie kasutajatele."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2145
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2165
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"Pluginat saate uuendada <a href='./update-core.php'>here</a> <a href='./"
+"plugins.php'>here</a> or <a href='http://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>siin</a>."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2146
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2166
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "Kui Teil esineb tõrkeid plugina uuendamisega, palun kontakteeruge"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2158
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr "Kasutate aegunud strong>WP Live Chat Support Pro</strong> versiooni."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2160
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "Palun uuendage enda WP Chat Support Pro versiooni"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2161
+msgid "Version 5.0.1"
+msgstr "Versioon 5.0.1"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2162
+msgid "to ensure everything is working correctly."
+msgstr ", et kindlustada kõikide funktsionaalsuste toimimine"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2194
+msgid "Congratulations"
+msgstr "Palju õnne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2195
+msgid "You are now accepting live chat requests on your site."
+msgstr "Te nüüdsest võtate vastu Live vestlusi."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2196
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "Live vestlus on automaatselt Teie lehel aktiveeritud. "
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2197
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr ""
+"Vestluse teavitused hakkavad ilmuma hetkest kui külastajad saadavad päringu."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2198
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"Oma <a href='?page=wplivechat-menu-settings' target='_BLANK'> vestluse akna "
+"seadistusi saate muuda siin."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2199
+msgid "Experiencing issues?"
+msgstr "Esineb tõrkeid?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2199
+msgid "Visit our troubleshooting section."
+msgstr "Külastage meie veahalduse sektsiooni"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2201
+msgid "Hide"
+msgstr "Peida"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2236
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "Koos WP Live Chat Support Pro lisaga, sa saad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2237
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+msgid "see who's online and initiate chats"
+msgstr "näha kes on online-is ja alustada vestlusi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2238
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+msgid "initiate chats"
+msgstr "alustage vestlusi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2239
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+msgid "with your online visitors with the click of a button."
+msgstr "oma külastajatega nupuvajutusega"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2240
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2242
+msgid "Buy the Pro add-on now."
+msgstr "Pro lisa"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2296
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"Tähelepanu: See aken peab olema avatud, et võtta vastu uusi vestluse "
+"teavitusi."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2307
+msgid "Visitors online"
+msgstr "Külastajaid lehel"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2319
+msgid "Visitor"
+msgstr "Külastaja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2320
+msgid "Time"
+msgstr "Aeg"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2322
+msgid "Device"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2323
+msgid "Data"
+msgstr "Andmed"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2361
+msgid "Chat Dashboard"
+msgstr "Vestluse töölaud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2364
+msgid "Oh no!"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2367
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2479
+msgid "Previous"
+msgstr "Eelmine"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2481
+msgid "Active"
+msgstr "Aktiivne"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2490
+msgid "Chat with"
+msgstr "Ava veslus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2493
+msgid "End chat"
+msgstr "Peata vestlus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2539
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3491
+msgid "Add-ons"
+msgstr "Lisad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2541
+msgid "Get more add-ons"
+msgstr "Lae alla rohkem lisasid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2559
+msgid "Add Quick Responses to your Live Chat"
+msgstr "Lisa Kiirvastuseid Live vestlusele"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2559
+msgid "Pro version only"
+msgstr "Ainult Pro versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2567
+msgid "type here..."
+msgstr "sisesta siia..."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2645
+msgid "User has opened the chat window"
+msgstr "Kasutaja on avanud vestluse akna"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2646
+msgid "User has minimized the chat window"
+msgstr "Kasutaja on minimiseerinud vestluse akna"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2647
+msgid "User has maximized the chat window"
+msgstr "Kasutaja on teinud aktiivseks vestluse akna"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:2648
+msgid "The chat has been ended"
+msgstr "Vestlus on lõppenud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3065
+msgid "Delete History"
+msgstr "Kustuta ajalugu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3082
+msgid "No chats available at the moment"
+msgstr "Hetkel ei ole vestlusi saadaval"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3093
+msgid "View Chat History"
+msgstr "Vaata vestluste ajalugu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3093
+msgid "Download Chat History"
+msgstr "Lae alla vestluste ajalugu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3115
+msgid "WP Live Chat History"
+msgstr "WP Live Chat ajalugu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3135
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat vastamata vestlused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3150
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"Palun uuenda WP Live Chat Support Pro versiooni, ühenduseta sõnumite "
+"salvestamiseks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3153
+msgid "This option is only available in the "
+msgstr "See valik on saadaval ainult"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3165
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat Offline sõnumid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3186
+msgid "Actions"
+msgstr "Tegevus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3204
+msgid "Delete Message"
+msgstr "Offline sõnumid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3298
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "Palun vajutage \"Alusta vestlust\", et meiega vestelda."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3394
+msgid "Your settings have been saved."
+msgstr "Teie seadistused on salvestatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3409
+msgid "Thank You for your feedback!"
+msgstr "Aitäh tagasiside eest!"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3413
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3426
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "Aitäh tagasiside eest! Me võtame Teiega ühendust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3429
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr "Ilmnes probleem teie tagasiside saatmisel. Palun logige oma tagasiside"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3463
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit() pole selles serveris lubatud. Kasutades WP Live Chat "
+"Support, võivad ilmneda probleemid. Palun võta meiega ühendust teie Host-"
+"võõrustajada, et saada see funktsioon aktiivseks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3469
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: Safe mode on selles serveris lubatud. Kasutades WP Live Chat Support "
+"kasutamisest tulenevalt võivad ilmneda probleemid. Võtke ühendust oma host-"
+"võõrustajada, et saada turvarežiim välja lülitatud."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3491
+msgid "Suggested Plugins"
+msgstr "Soovitatavad Pluginad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3502
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3503
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3504
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3509
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3507
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+"Kiireim viis kasutada Help Desk & Support Ticket pluginat. Loo Support help "
+"desk kiirelt ja hõlpsalt koos Sola Support Ticketsi-ga."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3509
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3520
+msgid "Get this Plugin"
+msgstr "Lae alla see Plugin"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3513
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3514
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3515
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3520
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3518
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+"Loo ja saada uudiskirja, automaatseid postitusteavitusi ja automaatseid "
+"teavitusi, mis on modernsed ja ilusad. Kõike seda Nifty Newsletter pluginaga."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3552
+msgid "Price:"
+msgstr "Hind:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3554
+msgid "Free"
+msgstr "Tasuta!"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3555
+msgid "Paid"
+msgstr "Tasuline"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3558
+msgid "For:"
+msgstr "Mille jaoks:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3559
+msgid "Both"
+msgstr "Mõlemad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3560
+msgid "Free version"
+msgstr "Tasuta versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3561
+msgid "Pro version"
+msgstr "Pro versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3597
+msgid "Already installed"
+msgstr "Juba paigaldatud"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3624
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3627
+msgid "Documentation"
+msgstr "Dokumentatsioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3629
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr ""
+"Alles alustate? Tutvu mõne meie artikliga, mis aitab sul järje peale saada."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3630
+msgid "Documentation:"
+msgstr "Dokumentatsioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3632
+msgid "Minimum System Requirements"
+msgstr "Minimaalsed süsteemi nõuded"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3633
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "Kas ma pean olema sisse logitud, et vestelda külalistega?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3634
+msgid "What are Quick Responses?"
+msgstr "Mis asjad on kiirvastused?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3635
+msgid "Can I use this plugin on my multi-site?"
+msgstr "Kas ma saan kasutada seda pluginat multi-site tüüpi lehel?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3636
+msgid "How do I disable APC Object Cache?"
+msgstr "Kuidas ma lülitan välja APC Object Cache-i?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3637
+msgid "Do you have a mobile app?"
+msgstr "Kas Teil on mobiilirakendus?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3638
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "Kuidas ma kontrollin Javascripti erroreid oma saidil?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3642
+msgid "Troubleshooting"
+msgstr "Veahaldus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3644
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support-il on mitmekülgne ja laialdane valik funktsioone, mis "
+"võivad aeg-ajalt konfliktidesse sattuda tuhandete teemadega, mis turul "
+"pakutakse."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3645
+msgid "Common issues:"
+msgstr "Sagedasti esinevad tõrked:"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3647
+msgid "The chat box doesnt show up"
+msgstr "Vestluse aken on peidus."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3648
+msgid "The chat window disappears when I logout or go offline"
+msgstr "Vestluse aken kaob ära kui ma login välja või lähen võrgust välja."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3649
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "Sellele vestlusele on juba vastatud. Palun sulgege vestluse aken"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3650
+msgid "Messages only show when I refresh the chat window"
+msgstr "Sõnumid on näha ainult siis kui ma värskendan brauseri akent."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3651
+msgid "I'm not getting any notifications of a new chat"
+msgstr "Ma ei saa kätte teavitusi, et mul on uus vestlus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3652
+msgid "The chat window never goes offline"
+msgstr "Vestluse aken ei lähe kunagi võrgust välja"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3658
+msgid "Still need help? Use one of these links below."
+msgstr "Ikka vajad abi? Kasuta selleks mõnda linki allpool."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3660
+msgid "Support desk"
+msgstr "Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3661
+msgid "Contact us"
+msgstr "Võta meiega ühendust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+msgid "Initiate Chats"
+msgstr "Alustage vestlusi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3676
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "Buy the Pro add-on now (once off payment)."
+msgstr "Osta Initiate Chats Extension kohe(ühekordne tasu)."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "Multiple Chats"
+msgstr "Mitmed vestlused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "accept and handle multiple chats."
+msgstr "aktsepteerida ja hallata mitut erinevat vestlust."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3678
+msgid "Add unlimited agents"
+msgstr "Lisada lõpmatult uusi agente"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3678
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "Koos WP Live Chat Support Pro lisaga, sa saad"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3678
+msgid "(once off payment)."
+msgstr "(ühekordne tasu)."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3692
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"Aitäh, et kasutasite <a href=\"%1$s\" target=\"_blank\">WP Live Chat "
+"Support</a> pluginat. Palun andke meile <a href=\"%2$s\" target=\"_blank"
+"\">oma hinnang </a><a href=\"%2$s\" target=\"_blank\">WordPress.org</a> "
+"lehel."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3697
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat Support on toode "
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3801
+msgid "Add as many agents as you need with the "
+msgstr "Lisa niipalju agente kui sul vaja on koos"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3801
+msgid "Pro version."
+msgstr "Pro versioon"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3805
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3904
+msgid "Verify"
+msgstr "Verifitseeri"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3907
+msgid "Status: "
+msgstr "Olek"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3910
+msgid "Valid"
+msgstr "Kehtiv"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3911
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3915
+msgid "Manage this extension"
+msgstr "Halda seda laiendust"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3914
+msgid "Invalid"
+msgstr "Kehtetu"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3920
+msgid "Linked Domains"
+msgstr "Seotud domeenid"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3954
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4022
+msgid ""
+"Get unlimited agents, initiate chats, advanced chat box control, encryption "
+"and more with the Pro add-on."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3956
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3978
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3999
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4024
+msgid "Get this extension"
+msgstr "Lae alla see laiendus"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3967
+msgid "Mobile & Desktop App"
+msgstr "Mobiilne ja Desktop programm"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3976
+msgid ""
+"Answer chats directly from your mobile phone or desktop with our mobile app "
+"and desktop client"
+msgstr ""
+"Vasta vestlustele otse enda mobiilist või arvutist koos Mobiilse ja Desktop "
+"programmiga"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:3997
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+"Vähenda oma serveri ressursse - kasuta meie pilvepõhist hostimis teenust "
+"kõikide oma vestluste jaoks."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4045
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4066
+msgid "Relevant Extensions"
+msgstr "Olulised laiendused"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4085
+msgid "Powered By WP Live Chat Support"
+msgstr "WP Live Chat Tugi"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4231
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"Sinu API võti ei ole õige. Järelikult ei ole Sul õigust tuleviku "
+"uuendusteks. Palun sisestage API võti uuesti <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">siin</a>."
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4317
+msgid "Advanced settings"
+msgstr "Täpsem info"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4326
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4336
+msgid "What type of environment are you on?"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4340
+msgid "Shared hosting - low level plan"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4341
+msgid "Shared hosting - normal plan"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4342
+msgid "VPS"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4343
+msgid "Dedicated server"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4349
+msgid "Long poll setup"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4349
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the Code Cabin Support team."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4357
+msgid "Iterations"
+msgstr "Küsimusi?"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4361
+msgid "Sleep between iterations"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4364
+msgid "microseconds"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4387
+msgid "View comprehensive reports regarding your chat and agent activity."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4390
+msgid "Reports"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4392
+msgid "Chat statistics"
+msgstr "Statistika"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4393
+msgid "Popular pages"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4394
+msgid ""
+"ROI reporting and tracking (identify which agents produce the most sales)"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4395
+msgid ""
+"User experience ratings (identify which agents produce the happiest "
+"customers)"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4405
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4467
+msgid "Get all this and more in the "
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4405
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4467
+msgid "Pro add-on"
+msgstr "Pro lisa"
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4406
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4468
+msgid "Upgrade Now"
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4449
+msgid ""
+"Create custom data triggers when users view a certain page, spend a certain "
+"amount of time on a page, scroll past a certain point or when their mouse "
+"leaves the window."
+msgstr ""
+
+#: C:/wamp/www/wordpress38/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php:4452
+msgid "Trigger Types"
+msgstr ""
+
+#~ msgid "Advanced Chat Box Control"
+#~ msgstr "Täpsustatud vestluse seadistused"
+
+#~ msgid ""
+#~ "The <strong>%s</strong> extension is not compatibile with the <strong>Pro "
+#~ "version</strong> of WP Live Chat Support. <a href='%s' title='%s' "
+#~ "target='_BLANK'>Click here for important information about this change.</"
+#~ "a>"
+#~ msgstr ""
+#~ "Laiendus <strong>%s</strong> ei ole WP Live Chat Support<strong>Pro "
+#~ "version-iga</strong> ühendatav. <a href='%s' title='%s' "
+#~ "target='_BLANK'>Vajutage siia, et saada rohkem infot.</a>"
+
+#~ msgid "Choose When Online"
+#~ msgstr "Valige, millal võrgus sees"
+
+#~ msgid "Include Exclude Pages"
+#~ msgstr "Välistage ja lisage lehti"
+
+#~ msgid "Multiple Agents"
+#~ msgstr "Mitmed Agendid"
+
+#~ msgid "Dear User"
+#~ msgstr "Hea kasutaja"
+
+#~ msgid ""
+#~ "You are using an outdated version of WP Live Chat Support Basic. Please"
+#~ msgstr "Te kasutate vananenud WP Live Chat Basic versiooni. Palun "
+
+#~ msgid ""
+#~ "You're live chat box on your website has been temporarily disabled until "
+#~ "the basic plugin has been updated. This is to ensure a smooth and hassle-"
+#~ "free user experience for both yourself and your visitors."
+#~ msgstr ""
+#~ "Teie live vestluse aken on Teie veebisaidil ajutiselt peatatud. Palun "
+#~ "uuendage baas-pluginat. See on vajalik selleks, et sujuv ja tõrgetevaba "
+#~ "kasutajakogemus oleks tagatud nii Teile, kui ka Teie kasutajatele."
+
+#~ msgid ""
+#~ "You can update your plugin <a href='./update-core.php'>here</a> or <a "
+#~ "href='./plugins.php'>here</a>."
+#~ msgstr ""
+#~ "Pluginat saate uuendada <a href='./update-core.php'>siin</a> või <a "
+#~ "href='./plugins.php'>siin</a>.."
+
+#~ msgid ""
+#~ "WP Live Chat Support Pro requires WP Live Chat Support to function. You "
+#~ "can download the latest copy from"
+#~ msgstr ""
+#~ "WP Live Vestlus Tugi Pro vajab WP Live Chat tuge et töötada. Selle saate "
+#~ "allalaadida"
+
+#~ msgid "Rating Unavailable"
+#~ msgstr "Reiting ei ole kättesaadav"
+
+#~ msgid "Minimize Chat Window"
+#~ msgstr "Minimiseeri vestluse aken"
+
+#~ msgid "Close Chat Window"
+#~ msgstr "Sulge vestluse aken"
+
+#~ msgid "Chat sessions"
+#~ msgstr "Vestluste sessioonid"
+
+#~ msgid "Unknown"
+#~ msgstr "Teadmata"
+
+#~ msgid "User has closed and ended the chat"
+#~ msgstr "Kasutaja sulges ja lõpetas selle vestluse"
+
+#~ msgid "Supplimentary Plugins"
+#~ msgstr "Aktiivsed moodulid"
+
+#~ msgid "Error Log"
+#~ msgstr "Veateadete logi"
+
+#~ msgid "We'd love to hear your comments and/or suggestions"
+#~ msgstr "Palun jätke oma kommentaarid ja soovitused"
+
+#~ msgid "Connecting. Please be patient."
+#~ msgstr "Ühendame. Palume kannatust"
+
+#~ msgid ""
+#~ "With the <strong>Initiate Chats</strong> Extension for WP Live Chat "
+#~ "Support, you can"
+#~ msgstr "Alusta vestlust laiendusega WP Chat Support-ile, saate"
+
+#~ msgid "Buy the Initiate Chats Extension now."
+#~ msgstr "Ostke 'Vestluse alustamise' laiendus nüüd."
+
+#~ msgid "Support forum"
+#~ msgstr "Kasutajatoe foorum"
+
+#~ msgid ""
+#~ "With the <strong>Initiate Chats Extension</strong> of WP Live Chat "
+#~ "Support, you can"
+#~ msgstr ""
+#~ "WP Live Chat Support plugina,<strong>Initiate Chats Extension</strong> sa "
+#~ "saad"
+
+#~ msgid ""
+#~ " with the <strong>Mutliple Agents Extension</strong> of WP Live Chat "
+#~ "Support"
+#~ msgstr ""
+#~ "WP Live Chat Support plugina,<strong>Mutliple Agents Extensio</strong> sa "
+#~ "saad"
+
+#~ msgid "Multiple Agents Extension."
+#~ msgstr "Multiple Agents Extension plugin-ga"
+
+#~ msgid "Initiate a chat with any visitor at any time."
+#~ msgstr "Alusta vestlust iga külastajaga, igal ajal."
+
+#~ msgid ""
+#~ "Add your company logo, avatar and name to the chat box and add more "
+#~ "advanced features."
+#~ msgstr ""
+#~ "Lisa oma firma logo, avatar ja nimi vestluse kastile ning lisa veelgi "
+#~ "enam omadusi."
+
+#~ msgid "Include and Exclude Pages"
+#~ msgstr "Välistage/lisage lehti"
+
+#~ msgid ""
+#~ "Control where the chat box is displayed on your website. Choose which "
+#~ "pages to include and/or exclude."
+#~ msgstr ""
+#~ "Kontrollige, kus asetub vestluse aken Teie veebilehel. Valige millistel "
+#~ "lehtedel see kuvatakse ja millistel mitte"

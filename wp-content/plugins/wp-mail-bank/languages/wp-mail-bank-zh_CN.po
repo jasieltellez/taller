@@ -1,0 +1,1047 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-01 11:18+0530\n"
+"PO-Revision-Date: 2017-04-24 15:03+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18545\n"
+"X-Loco-Api-Version: 1.0.15 20161010-2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/translations.php:32
+msgid "Basic Info"
+msgstr "基本信息"
+
+#: includes/translations.php:33
+msgid "Account Setup"
+msgstr "账户设定"
+
+#: includes/translations.php:34
+msgid "Confirm"
+msgstr "确认"
+
+#: includes/translations.php:37
+msgid "Mail Bank"
+msgstr "Mail Bank"
+
+#: includes/translations.php:38
+msgid "Email Setup"
+msgstr "邮箱向导"
+
+#: includes/translations.php:39
+msgid "Email Logs"
+msgstr "邮箱日志"
+
+#: includes/translations.php:40
+msgid "Email Log Details"
+msgstr "详细邮箱日志"
+
+#: includes/translations.php:41 includes/translations.php:92
+msgid "Test Email"
+msgstr "测试邮箱"
+
+#: includes/translations.php:42
+msgid "Plugin Settings"
+msgstr "插件设置"
+
+#: includes/translations.php:43
+msgid "Feedbacks"
+msgstr "反馈"
+
+#: includes/translations.php:44
+msgid "Roles & Capabilities"
+msgstr "角色和权限"
+
+#: includes/translations.php:45
+msgid "System Information"
+msgstr "系统信息"
+
+#: includes/translations.php:48
+msgid "Success!"
+msgstr "成功！"
+
+#: includes/translations.php:49
+msgid "Email Setup has been updated Successfully"
+msgstr "更新邮箱设置成功"
+
+#: includes/translations.php:50
+msgid "Your Feedback has been sent Successfully"
+msgstr "您的反馈已经发送成功"
+
+#: includes/translations.php:51
+msgid "Your request email has been sent Successfully"
+msgstr "您的请求邮件已经发送成功"
+
+#: includes/translations.php:52
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "更新角色和权限成功"
+
+#: includes/translations.php:53
+msgid "Test Email was sent Successfully!"
+msgstr "测试邮件发送成功"
+
+#: includes/translations.php:54
+msgid "Test Email was not sent!"
+msgstr "测试邮件为发送"
+
+#: includes/translations.php:55
+msgid "Plugin Settings have been updated Successfully"
+msgstr "插件设置已经更新成功"
+
+#: includes/translations.php:56
+msgid "Please choose an Action from Dropdown!"
+msgstr "请从下拉列表中选择操作"
+
+#: includes/translations.php:57
+msgid "Please choose at least 1 record to delete!"
+msgstr "请至少选择1条记录进行删除!"
+
+#: includes/translations.php:58
+msgid "Are you sure you want to delete Email Logs?"
+msgstr "您确定要删除电子邮件日志?"
+
+#: includes/translations.php:59
+msgid "Selected Logs have been deleted Successfully"
+msgstr "选择的日志已经删除成功。"
+
+#: includes/translations.php:60
+msgid "Are you sure you want to delete Email Log?"
+msgstr "您确定要删除全部电子邮件日志?"
+
+#: includes/translations.php:61
+msgid "Email Log has been deleted Successfully"
+msgstr "电子邮箱日志已经删除成功。"
+
+#: includes/translations.php:62
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr "提供的SMTP主机不支持OAuth验证，请提供用户名和密码"
+
+#: includes/translations.php:63
+msgid "Invalid Secret Key. Please rectify and try again!"
+msgstr "密钥无效，请纠正后重试。"
+
+#: includes/translations.php:64
+msgid "Licensing"
+msgstr "许可"
+
+#: includes/translations.php:67
+msgid "Your License has been activated Successfully"
+msgstr "您的许可证已成功激活"
+
+#: includes/translations.php:68
+msgid "Sent"
+msgstr "发送"
+
+#: includes/translations.php:69
+msgid "Not Sent"
+msgstr "未发送"
+
+#: includes/translations.php:70
+msgid "Important Disclaimer!"
+msgstr "重要免责声明"
+
+#: includes/translations.php:71
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr "你没有足够权限访问此页面，请联系管理员获取更多权限。"
+
+#: includes/translations.php:72
+msgid "Enable"
+msgstr "启用"
+
+#: includes/translations.php:73
+msgid "Disable"
+msgstr "禁用"
+
+#: includes/translations.php:74
+msgid "Override"
+msgstr "覆盖"
+
+#: includes/translations.php:75
+msgid "Don't Override"
+msgstr "不覆盖"
+
+#: includes/translations.php:76
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: includes/translations.php:77
+msgid "Subject"
+msgstr "主题"
+
+#: includes/translations.php:78
+msgid "Next Step"
+msgstr "下一步"
+
+#: includes/translations.php:79
+msgid "Previous Step"
+msgstr "上一步"
+
+#: includes/translations.php:80
+msgid "Settings"
+msgstr "设置"
+
+#: includes/translations.php:81
+msgid "Not available"
+msgstr "不可用"
+
+#: includes/translations.php:82
+msgid ""
+"The following php extensions are not found on your server or are currently "
+"disabled. These might create few problems in configuring Mail Bank. Please "
+"contact your WebHost to setup these extensions on your server."
+msgstr ""
+"在您的服务器找不到以下PHP扩展或扩展被禁用，这将会导致MailBank配置过程中出现一"
+"些问题，请联系您的空间提供商安装相关扩展。"
+
+#: includes/translations.php:85
+msgid "Cc"
+msgstr "抄送"
+
+#: includes/translations.php:86
+msgid "Bcc"
+msgstr "秘密抄送"
+
+#: includes/translations.php:87
+msgid "Please provide valid Cc Email Address"
+msgstr "请提供有效的抄送邮箱"
+
+#: includes/translations.php:88
+msgid "Please provide valid Bcc Email Address"
+msgstr "请提供有效的秘密抄送邮箱"
+
+#: includes/translations.php:89
+msgid "Please provide Cc Email"
+msgstr "请提供抄送邮箱"
+
+#: includes/translations.php:90
+msgid "Please provide Bcc Email"
+msgstr "请提供秘密抄送邮箱"
+
+#: includes/translations.php:91
+msgid "Mailer Settings"
+msgstr "邮件设置"
+
+#: includes/translations.php:93
+msgid "From Name"
+msgstr "发件人名称"
+
+#: includes/translations.php:94
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"发件人名称是告知收件人谁给你发送了邮件。如果要覆盖预先配置的名称，则需要在字"
+"段中插入名称。"
+
+#: includes/translations.php:95
+msgid "Please provide From Name"
+msgstr "请提供发件人名称"
+
+#: includes/translations.php:96
+msgid "From Email"
+msgstr "发件人地址"
+
+#: includes/translations.php:97
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"发件人地址是告知接收人邮件来自哪个邮箱地址发送的。如果要覆盖预先配置的名称，"
+"则需要在字段中插入邮箱地址。"
+
+#: includes/translations.php:98
+msgid "Please provide From Email Address"
+msgstr "请提供发件人地址"
+
+#: includes/translations.php:99
+msgid "Mailer Type"
+msgstr "邮件类型"
+
+#: includes/translations.php:100
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"这个字段给您提供邮件类型进行选择，如果您想通过SMTP方式发送电子邮件，您需要从"
+"下拉列表中选择通过SMTP发送电子邮件，或者您也可以使用PHP mail()方法发送电子邮"
+"件。"
+
+#: includes/translations.php:101
+msgid "Send Email via SMTP"
+msgstr "通过SMTP发送邮件"
+
+#: includes/translations.php:102
+msgid "Use The PHP mail() Function"
+msgstr "使用PHP mail()方法"
+
+#: includes/translations.php:103
+msgid "SMTP Host"
+msgstr "SMTP主机"
+
+#: includes/translations.php:104
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"如果您想通过不同的主机发送电子邮件，则需要在字段中插入特定的主机名（如smtp."
+"gamil.com）"
+
+#: includes/translations.php:105
+msgid "Please provide SMTP Host"
+msgstr "请提供SMTP主机"
+
+#: includes/translations.php:106
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: includes/translations.php:107
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr "此字段提供用于认证的有效SMTP端口"
+
+#: includes/translations.php:108
+msgid "Please provide SMTP Port"
+msgstr "请填写SMTP端口"
+
+#: includes/translations.php:109
+msgid "Encryption"
+msgstr "加密"
+
+#: includes/translations.php:110
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr ""
+"它为您提供了选择一个特定的选项用于加密的能力。如果您想发送TLS加密的电子邮件，"
+"则需要从下拉列表中选择使用TLS加密，或者您想使用SSL加密。 请从下拉列表中选择使"
+"用SSL加密。如果您想要发送没有加密的电子邮件，则需要从下拉列表中选择不加密。"
+
+#: includes/translations.php:111
+msgid "No Encryption"
+msgstr "不加密"
+
+#: includes/translations.php:112
+msgid "Use SSL Encryption"
+msgstr "使用SSL加密"
+
+#: includes/translations.php:113
+msgid "Use TLS Encryption"
+msgstr "使用TLS加密"
+
+#: includes/translations.php:114
+msgid "Authentication"
+msgstr "认证"
+
+#: includes/translations.php:115
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr ""
+"这个字段允许您选择一个适当的选项进行身份验证。它提供双向身份验证因素; 如果您"
+"想通过用户名和密码验证，您需要从下拉列表中选择使用用户名和密码。您也可以通过"
+"OAuth 2.0验证，这需要Client ID和Secret Key，您需要请从下拉列表中选择使用"
+"OAuth(Client ID和Secret Key)，您可以从相应的SMTP服务商中轻松获取到Client ID和"
+"Secret Key。"
+
+#: includes/translations.php:116
+msgid "Use SMTP Authentication"
+msgstr "使用SMTP认证"
+
+#: includes/translations.php:117
+msgid "Don't Use SMTP Authentication"
+msgstr "禁用SMTP认证"
+
+#: includes/translations.php:118
+msgid "Test Email Address"
+msgstr "测试电子邮件地址"
+
+#: includes/translations.php:119
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr "在此输入接收测试邮件的E-Mail地址"
+
+#: includes/translations.php:120
+msgid "Please provide Test Email Address"
+msgstr "请输入测试邮件地址"
+
+#: includes/translations.php:121
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "在此输入测试邮件标题"
+
+#: includes/translations.php:122
+msgid "Please provide Subject"
+msgstr "请填写邮件标题"
+
+#: includes/translations.php:123
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: includes/translations.php:124
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "此区域输入测试邮件内容"
+
+#: includes/translations.php:125
+msgid "Send Test Email"
+msgstr "发送测试邮件"
+
+#: includes/translations.php:126
+msgid "SMTP Debugging Output"
+msgstr "SMTP调试信息"
+
+#: includes/translations.php:127
+msgid "Checking your settings"
+msgstr "检查你的设定"
+
+#: includes/translations.php:128
+msgid "Result"
+msgstr "结果"
+
+#: includes/translations.php:129
+msgid "Send Another Test Email"
+msgstr "再次发送测试邮件"
+
+#: includes/translations.php:130
+msgid "From Name Configuration"
+msgstr "从名称配置"
+
+#: includes/translations.php:131
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"如果您想覆盖发送电子邮件时使用的预先配置的名称，需要从下拉列表中选择覆盖。"
+
+#: includes/translations.php:132
+msgid "From Email Configuration"
+msgstr "从Email配置"
+
+#: includes/translations.php:133
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"如果您想覆盖发送电子邮件时使用的预先配置的邮箱地址，需要从下拉列表中选择覆"
+"盖。"
+
+#: includes/translations.php:134
+msgid "Username"
+msgstr "用户名"
+
+#: includes/translations.php:135
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr "在这个字段，您需要提供用户名用于验证SMTP详细信息"
+
+#: includes/translations.php:136
+msgid "Please provide username"
+msgstr "请填写用户名"
+
+#: includes/translations.php:137
+msgid "Password"
+msgstr "密码"
+
+#: includes/translations.php:138
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr "在这个字段，您需要提供密码用于验证SMTP详细信息"
+
+#: includes/translations.php:139
+msgid "Please provide password"
+msgstr "请填写密码"
+
+#: includes/translations.php:140
+msgid "Redirect URI"
+msgstr "重定向URI"
+
+#: includes/translations.php:141
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr "请复制这个重定向URI并在创建你的应用时粘贴至重定向URI字段"
+
+#: includes/translations.php:142
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "使用OAuth（Client Id和Secret Key必填）"
+
+#: includes/translations.php:143
+msgid "Plain Authentication"
+msgstr "简单验证"
+
+#: includes/translations.php:144
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:145
+msgid "Login"
+msgstr "登录"
+
+#: includes/translations.php:146
+msgid "Client Id"
+msgstr "Client Id"
+
+#: includes/translations.php:147
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: includes/translations.php:148
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "请提供您的SMTP主机发出的有效Client Id"
+
+#: includes/translations.php:149
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr "请提供您的SMTP主机发出的有效Secret Key"
+
+#: includes/translations.php:150
+msgid "Please provide Client Id"
+msgstr "请提供Client Id"
+
+#: includes/translations.php:151
+msgid "Please provide Secret Key"
+msgstr "请提供Secret Key"
+
+#: includes/translations.php:152
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr "是，当点击下一步按钮验证设置时，自动发送测试电子邮件"
+
+#: includes/translations.php:153
+msgid "Email Address"
+msgstr "邮件地址"
+
+#: includes/translations.php:154
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr "在这个字段，你需要在收件人字段中添加有效的邮箱"
+
+#: includes/translations.php:155
+msgid "Please provide valid Email Address"
+msgstr "请提供有效的邮箱"
+
+#: includes/translations.php:156
+msgid "Reply To"
+msgstr "回复给"
+
+#: includes/translations.php:157
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"在这个字段，你需要添加一个有效的邮箱，当用户回复电子邮件时，该邮箱会自动插入"
+"回复字段中"
+
+#: includes/translations.php:158
+msgid "Please provide Reply To Email Address"
+msgstr "请提供要回复的邮箱"
+
+#: includes/translations.php:159
+msgid "Get Google Client Id and Secret Key"
+msgstr "获取 Google Client Id 和 Secret Key"
+
+#: includes/translations.php:160
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "获取 Microsoft Client Id 和 Secret Key"
+
+#: includes/translations.php:161
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "获取Yahoo Client Id和Secret Key"
+
+#: includes/translations.php:164
+msgid "Start Date"
+msgstr "开始日期"
+
+#: includes/translations.php:165
+msgid "Please provide Start Date"
+msgstr "请提供开始日期"
+
+#: includes/translations.php:166
+msgid "This field shows starting date of Email Logs"
+msgstr "这个字段显示Email日志的开始日期"
+
+#: includes/translations.php:167
+msgid "End Date"
+msgstr "结束日期"
+
+#: includes/translations.php:168
+msgid "Please provide End Date"
+msgstr "请提供结束日期"
+
+#: includes/translations.php:169
+msgid "This field shows ending date of Email Logs"
+msgstr "这个字段显示Email日志的结束日期"
+
+#: includes/translations.php:170
+msgid "Submit"
+msgstr "提交"
+
+#: includes/translations.php:171
+msgid "Bulk Action"
+msgstr "批量操作"
+
+#: includes/translations.php:172
+msgid "Delete"
+msgstr "删除"
+
+#: includes/translations.php:173
+msgid "Apply"
+msgstr "应用"
+
+#: includes/translations.php:174
+msgid "Email To"
+msgstr "Email To"
+
+#: includes/translations.php:175
+msgid "Action"
+msgstr "操作"
+
+#: includes/translations.php:176
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: includes/translations.php:177
+msgid "Email Details"
+msgstr "Email详情"
+
+#: includes/translations.php:178
+msgid "Email Debugging output"
+msgstr "Email调试输出"
+
+#: includes/translations.php:179
+msgid "Close"
+msgstr "关闭"
+
+#: includes/translations.php:180
+msgid "Debugging Output"
+msgstr "调试输出"
+
+#: includes/translations.php:181
+msgid "Show Debugging Output"
+msgstr "显示调试输出"
+
+#: includes/translations.php:182
+msgid "Email Sent To"
+msgstr "邮件发送给"
+
+#: includes/translations.php:183
+msgid "Date/Time"
+msgstr "日期/时间"
+
+#: includes/translations.php:184
+msgid "Status"
+msgstr "状态"
+
+#: includes/translations.php:185
+msgid "From"
+msgstr "来自"
+
+#: includes/translations.php:186
+msgid "Back to Email Logs"
+msgstr "返回Email日志"
+
+#: includes/translations.php:189
+msgid "Automatic Plugin Updates"
+msgstr "自动更新插件"
+
+#: includes/translations.php:190
+msgid ""
+"Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr "请选择是否允许自动更新插件"
+
+#: includes/translations.php:191
+msgid "Debug Mode"
+msgstr "debug模式"
+
+#: includes/translations.php:192
+msgid "Please choose a specific option for Debug Mode"
+msgstr "请选择debug模式"
+
+#: includes/translations.php:193
+msgid "Remove Tables at Uninstall"
+msgstr "卸载时移除表"
+
+#: includes/translations.php:194
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr "请选择是否在卸载时删除表"
+
+#: includes/translations.php:195
+msgid "Monitoring Email Logs"
+msgstr "监控Email日志"
+
+#: includes/translations.php:196
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr "这个字段用于是否监控Email日志"
+
+#: includes/translations.php:199
+msgid "Show Mail Bank Menu"
+msgstr "显示Mail Bank菜单"
+
+#: includes/translations.php:200
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr "请选择一个特定的角色谁可以看到侧边栏菜单"
+
+#: includes/translations.php:201
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:202
+msgid "Author"
+msgstr "作者"
+
+#: includes/translations.php:203
+msgid "Editor"
+msgstr "编辑"
+
+#: includes/translations.php:204
+msgid "Contributor"
+msgstr "贡献人"
+
+#: includes/translations.php:205
+msgid "Subscriber"
+msgstr "订阅"
+
+#: includes/translations.php:206
+msgid "Others"
+msgstr "其他"
+
+#: includes/translations.php:207
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "显示Mail Bank顶部菜单"
+
+#: includes/translations.php:208
+msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+msgstr "请从Mail Bank顶部菜单选择一个选项"
+
+#: includes/translations.php:209
+msgid "An Administrator Role can do the following "
+msgstr "管理员角色可以执行以下操作"
+
+#: includes/translations.php:210
+msgid "Please choose specific page available for the Administrator Access"
+msgstr "请选择供管理员账户访问的特定页面"
+
+#: includes/translations.php:211
+msgid "Full Control"
+msgstr "完全控制"
+
+#: includes/translations.php:212
+msgid "An Author Role can do the following "
+msgstr "作者角色可以执行以下操作"
+
+#: includes/translations.php:213
+msgid "Please choose specific page available for Author Access"
+msgstr "请选择供作者账户访问的特定页面"
+
+#: includes/translations.php:214
+msgid "An Editor Role can do the following "
+msgstr "编辑角色可以执行以下操作"
+
+#: includes/translations.php:215
+msgid "Please choose specific page available for Editor Access"
+msgstr "请选择供编辑账户访问的特定页面"
+
+#: includes/translations.php:216
+msgid "A Contributor Role can do the following "
+msgstr "贡献人角色可以执行以下操作"
+
+#: includes/translations.php:217
+msgid "Please choose specific page available for Contributor Access"
+msgstr "请选择供贡献人账户访问的特定页面"
+
+#: includes/translations.php:218
+msgid "Other Roles can do the following "
+msgstr "其他角色可以执行以下操作"
+
+#: includes/translations.php:219
+msgid "Please choose specific page available for Others Role Access"
+msgstr "请选择供其他角色账户访问的特定页面"
+
+#: includes/translations.php:220
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "请从安全角度勾选适当的功能"
+
+#: includes/translations.php:221
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "只有具有这些功能的用户才能访问Mail Bank"
+
+#: includes/translations.php:222
+msgid "A Subscriber Role can do the following"
+msgstr "订阅角色可以执行以下操作"
+
+#: includes/translations.php:223
+msgid "Please choose specific page available for Subscriber Access"
+msgstr "请选择供订阅账户访问的特定页面"
+
+#: includes/translations.php:226
+msgid "Thank You!"
+msgstr "谢谢！"
+
+#: includes/translations.php:227
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"如果你没有在插件中没有发现你想要的功能，请填写下面的表格给我们提建议(开发组跪"
+"求"
+
+#: includes/translations.php:228
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr "如果你有任何建议/投诉，你可以使用下面同样的表格"
+
+#: includes/translations.php:229
+msgid "You can also write us on"
+msgstr "你也可以在(@weibo)上面告诉我们"
+
+#: includes/translations.php:230
+msgid "Your Name"
+msgstr "你的姓名"
+
+#: includes/translations.php:231
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr "请提供你的姓名，这将与你的反馈一起发送"
+
+#: includes/translations.php:232
+msgid "Please provide your Name"
+msgstr "请提供你的姓名"
+
+#: includes/translations.php:233
+msgid "Your Email"
+msgstr "你的邮件地址"
+
+#: includes/translations.php:234
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr "请提供你的邮箱地址，这将与你的反馈一起发送"
+
+#: includes/translations.php:235
+msgid "Please provide your Email Address"
+msgstr "请提供你的邮件地址"
+
+#: includes/translations.php:236
+msgid "Please provide your Feedback which will be sent along"
+msgstr "请提供你的反馈，以便发送"
+
+#: includes/translations.php:237
+msgid "Please provide your Feedback"
+msgstr "请填写你的反馈"
+
+#: includes/translations.php:238
+msgid "Send Feedback"
+msgstr "发送反馈"
+
+#: includes/translations.php:241
+msgid "Sending Test Email to"
+msgstr "发送测试邮件到"
+
+#: includes/translations.php:242
+msgid "Email Status"
+msgstr "邮件状态"
+
+#: includes/translations.php:245
+msgid "Important Notice!"
+msgstr "重要提醒！"
+
+#: includes/translations.php:246
+msgid ""
+"Congratulations! You have recently purchased Mail Bank Business Edition and "
+"now you would need to activate the license in order to unlock it!"
+msgstr "祝贺！ 您最近购买了Mail Bank商业版，现在您需要激活许可证才能解锁它。"
+
+#: includes/translations.php:247
+msgid ""
+"Kindly fill in the required details and click on Validate License to unlock "
+"it"
+msgstr "请填写所需的详细信息，然后点击验证许可证来解锁它"
+
+#: includes/translations.php:248
+msgid "If you face any issues activating the license, you may contact us at "
+msgstr "如果您在激活许可证时遇到任何问题，您可以通过....与我们联系"
+
+#: includes/translations.php:250
+msgid "Product Name"
+msgstr "产品名称"
+
+#: includes/translations.php:251
+msgid "Current Version"
+msgstr "当前版本"
+
+#: includes/translations.php:252
+msgid "Website URL"
+msgstr "网站地址"
+
+#: includes/translations.php:253
+msgid "Order ID"
+msgstr "订单号"
+
+#: includes/translations.php:254
+msgid "API KEY"
+msgstr "API KEY"
+
+#: includes/translations.php:255
+msgid "Validate License"
+msgstr "验证授权"
+
+#: includes/translations.php:257
+msgid "This field shows your Installed Product"
+msgstr "这个字段显示你已安装的产品"
+
+#: includes/translations.php:258
+msgid "This field shows your Installed Product Version"
+msgstr "这个字段显示你已安装的产品版本"
+
+#: includes/translations.php:259
+msgid "This field shows your Website URL"
+msgstr "这个字段显示你的网站地址"
+
+#: includes/translations.php:260
+msgid ""
+"Please provide your Order ID  which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr "请提供您在购买产品后收到的订单号，这将用于验证许可证"
+
+#: includes/translations.php:261
+msgid ""
+"Please provide your API Key which you have received after purchasing the "
+"Product. This will be used for Validating the License"
+msgstr "请提供您在购买产品后收到的API Key，这将用于验证许可证"
+
+#: includes/translations.php:262
+msgid "Please provide Order ID received after making the purchase"
+msgstr "请在购买后提供订单号"
+
+#: includes/translations.php:263
+msgid "Please provide API Key received after making the purchase"
+msgstr "请在购买后提供API Key"
+
+#~ msgid "* Openssl extension not found or disabled"
+#~ msgstr "Openssl扩展不存在或禁用"
+
+#~ msgid "Use Username And Password"
+#~ msgstr "使用用户名和密码"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "如果你想翻译"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Mail Bank. If Interested, Kindly click "
+#~ msgstr ""
+#~ "帮助我们，我们会免费奖励你一套Mail Bank个人版授权。如果你有兴趣，请点击"
+
+#~ msgid "here"
+#~ msgstr "这里"
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr "你确定关闭而不发送翻译请求？"
+
+#~ msgid "Translation Request"
+#~ msgstr "翻译请求"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "翻译感兴趣的语言"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "请选择您要翻译的语言"
+
+#~ msgid "Please provide a language"
+#~ msgstr "请提供一种语言"
+
+#~ msgid "Query"
+#~ msgstr "查询"
+
+#~ msgid "Please provide your query"
+#~ msgstr "请提供你的查询"
+
+#~ msgid "Please provide your Email"
+#~ msgstr "请提供你的Email"
+
+#~ msgid "Send Request"
+#~ msgstr "发送请求"
+
+#~ msgid "* Click "
+#~ msgstr "点击"
+
+#~ msgid "here "
+#~ msgstr "这里"
+
+#~ msgid " to see Premium Edition Features in detail"
+#~ msgstr "查看高级版功能"
+
+#~ msgid "* For Mail Bank Demos, click "
+#~ msgstr "Mail Bank演示，点击查看"
+
+#~ msgid "* For Mail Bank User Guide for this page, click "
+#~ msgstr "Mail Bank用户手册（本页面），点击查看"
+
+#~ msgid "* Filters "
+#~ msgstr "筛选"
+
+#~ msgid "* Reply to, Cc and Bcc Fields "
+#~ msgstr "回复给，抄送 和 私密发送 字段"
+
+#~ msgid "* Deleting Email Logs "
+#~ msgstr "删除邮件日志"
+
+#~ msgid "* Debugging Output"
+#~ msgstr "调试输出"
+
+#~ msgid "* Email Logs Details "
+#~ msgstr "详细Email日志"
+
+#~ msgid "* Saving Roles & Capabilities "
+#~ msgstr "保存角色和权限"
+
+#~ msgid " Premium Edition Features :"
+#~ msgstr "高级版功能："
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr "功能可用于商业和开发版本："
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr "这个功能仅商业和开发版本可用，请购买解锁。"
+
+#~ msgid "* Bulk Delete "
+#~ msgstr "批量删除"
+
+#~ msgid "* Debugging Output "
+#~ msgstr "调试输出"

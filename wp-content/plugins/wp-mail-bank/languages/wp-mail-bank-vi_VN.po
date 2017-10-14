@@ -1,0 +1,1162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-22 17:39+0530\n"
+"PO-Revision-Date: 2017-06-06 11:39+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Vietnamese (Vietnam)\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 22543\n"
+"X-Loco-Api-Version: 1.0.17 20170516-2\n"
+"X-Poedit-KeywordsList: .;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:178
+msgid "If Interested, Kindly click "
+msgstr ""
+
+#: includes/translations.php:179
+msgid "here."
+msgstr ""
+
+#: includes/translations.php:189
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: includes/translations.php:190
+msgid "Premium Edition"
+msgstr "Phiên bản cao cấp"
+
+#: includes/translations.php:191
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Tính năng này chỉ dành cho thành viên cao cấp (premium)! <br> Vui lòng trả "
+"phí để mở khóa tính năng này!"
+
+#: includes/translations.php:194
+msgid "Basic Info"
+msgstr "Thông tin Cơ bản"
+
+#: includes/translations.php:195
+msgid "Account Setup"
+msgstr "Thiết lập tài khoản"
+
+#: includes/translations.php:196
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: includes/translations.php:199 includes/translations.php:427
+msgid "Mail Bank"
+msgstr "Mail Bank"
+
+#: includes/translations.php:200
+msgid "Email Setup"
+msgstr "Thiết lập email"
+
+#: includes/translations.php:201
+msgid "Email Logs"
+msgstr "Nhật ký email"
+
+#: includes/translations.php:202 includes/translations.php:256
+msgid "Test Email"
+msgstr "Email thử nghiệm"
+
+#: includes/translations.php:203
+msgid "Plugin Settings"
+msgstr "Thiết lập phần mở rộng"
+
+#: includes/translations.php:204
+msgid "Feedbacks"
+msgstr "Phản hồi"
+
+#: includes/translations.php:205
+msgid "Roles & Capabilities"
+msgstr "Cấp bậc và quyền hạn"
+
+#: includes/translations.php:206
+msgid "System Information"
+msgstr "Thông tin hệ thống"
+
+#: includes/translations.php:207 includes/translations.php:428
+msgid "Error Logs"
+msgstr "Nhật ký lỗi"
+
+#: includes/translations.php:210
+msgid "Success!"
+msgstr "Thành công!"
+
+#: includes/translations.php:211
+msgid "Email Setup has been updated Successfully"
+msgstr "Thiết lập email đã được cập nhật thành công"
+
+#: includes/translations.php:212
+msgid "Your Feedback has been sent Successfully"
+msgstr "Phản hồi của bạn đã được gửi đi thành công"
+
+#: includes/translations.php:213
+msgid "Test Email was sent Successfully!"
+msgstr "Email thử nghiệm đã được gửi đi thành công!"
+
+#: includes/translations.php:214
+msgid "Test Email was not sent!"
+msgstr "Email thử nghiệm chưa được gửi đi"
+
+#: includes/translations.php:215
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Thiết lập phần mở rộng đã được cập nhật thành công"
+
+#: includes/translations.php:216
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"Xác thực kiểu OAuth không được hỗ trợ bởi máy chủ SMTP, vui lòng cung cấp "
+"tên đăng nhập và mật khẩu"
+
+#: includes/translations.php:217
+msgid "Query"
+msgstr "Truy vấn"
+
+#: includes/translations.php:218
+msgid "Language Interested to Translate"
+msgstr "Ngôn ngữ mà bạn muốn dịch"
+
+#: includes/translations.php:219
+msgid "Please enter the language you want to translate."
+msgstr "Vui lòng chọn ngôn ngữ mà bạn muốn dịch"
+
+#: includes/translations.php:220
+msgid "Please enter the language"
+msgstr "Vui lòng nhập ngôn ngữ"
+
+#: includes/translations.php:221
+msgid ""
+"In this field, You would need to provide your name which will be sent along "
+"with your request"
+msgstr ""
+"Ở trường này, Bạn phải cung cấp tên được dùng để gửi kèm với yêu cầu của bạn"
+
+#: includes/translations.php:222
+msgid "Important Disclaimer!"
+msgstr "Thông báo quan trọng về miễn trừ trách nhiệm"
+
+#: includes/translations.php:223
+msgid ""
+"In this field, You would need to provide your valid email which wiil be sent "
+"along with your request"
+msgstr ""
+"Ở trường này, Bạn phải cung cấp email được dùng để gửi kèm với yêu cầu của "
+"bạn"
+
+#: includes/translations.php:224
+msgid "Please enter your query."
+msgstr "Vui lòng nhập truy vấn của bạn."
+
+#: includes/translations.php:225
+msgid "Please enter the query."
+msgstr "Vui lòng nhập truy vấn."
+
+#: includes/translations.php:226 includes/translations.php:344
+msgid "Close"
+msgstr "Đóng"
+
+#: includes/translations.php:227
+msgid "Send Request"
+msgstr "Gửi yêu cầu"
+
+#: includes/translations.php:228
+msgid "Translation Request"
+msgstr "Yêu cầu dịch thuật"
+
+#: includes/translations.php:229
+msgid "Are you sure you want to close without sending Translation Request?"
+msgstr "Bạn có chắc muốn đóng mà không gửi Yêu cầu Dịch thuật?"
+
+#: includes/translations.php:230 includes/translations.php:396
+msgid "Your Email"
+msgstr "Email của bạn"
+
+#: includes/translations.php:231 includes/translations.php:393
+msgid "Your Name"
+msgstr "Tên của bạn"
+
+#: includes/translations.php:232 includes/translations.php:395
+msgid "Please provide your Name"
+msgstr "Vui lòng cung cấp Tên của bạn"
+
+#: includes/translations.php:236
+msgid "Sent"
+msgstr "Đã gửi"
+
+#: includes/translations.php:237
+msgid "Not Sent"
+msgstr "Chưa gửi được"
+
+#: includes/translations.php:238
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Bạn không đủ Quyền hạn Truy cập vào Trang này. Vui lòng liên hệ Quản trị "
+"viên để biết thêm về Quyền hạn"
+
+#: includes/translations.php:239
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: includes/translations.php:240
+msgid "Disable"
+msgstr "Tắt kích hoạt"
+
+#: includes/translations.php:241
+msgid "Override"
+msgstr "Ghi đè"
+
+#: includes/translations.php:242
+msgid "Don't Override"
+msgstr "Không ghi đè"
+
+#: includes/translations.php:243
+msgid "Save Settings"
+msgstr "Lưu thiết lập"
+
+#: includes/translations.php:244
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#: includes/translations.php:245
+msgid "Next Step"
+msgstr "Bước kế tiếp"
+
+#: includes/translations.php:246
+msgid "Previous Step"
+msgstr "Bước trước đó"
+
+#: includes/translations.php:249
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/translations.php:250
+msgid "Bcc"
+msgstr "Bcc"
+
+#: includes/translations.php:251
+msgid "Please provide valid Cc Email Address"
+msgstr "Vui lòng cung cấp địa chỉ email CC hợp lệ"
+
+#: includes/translations.php:252
+msgid "Please provide valid Bcc Email Address"
+msgstr "Vui lòng cung cấp địa chỉ email BCC hợp lệ"
+
+#: includes/translations.php:253
+msgid "Please provide Cc Email"
+msgstr "Vui lòng cung cấp email CC"
+
+#: includes/translations.php:254
+msgid "Please provide Bcc Email"
+msgstr "Vui lòng cung cấp email BCC"
+
+#: includes/translations.php:255
+msgid "Mailer Settings"
+msgstr "Thiết lập gửi thư"
+
+#: includes/translations.php:257
+msgid "From Name"
+msgstr "Người Gửi"
+
+#: includes/translations.php:258
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"Người Gửi là một trường trong hộp thư đến - sẽ giúp người nhận biết được ai "
+"là người đã gửi tin nhắn cho họ. Nếu bạn muốn ghi đè thiết lập sẵn trước đó "
+"của ô Người Gửi, thì bạn sẽ cần phải chèn thêm tên vào trường trong hộp thư "
+"đến."
+
+#: includes/translations.php:259
+msgid "Please provide From Name"
+msgstr "Vui lòng điền tên Người Gửi"
+
+#: includes/translations.php:260
+msgid "From Email"
+msgstr "Gửi email từ địa chỉ"
+
+#: includes/translations.php:261
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"Email Người Gửi là một trường trong hộp thư đến - sẽ giúp người nhận biết "
+"được địa chỉ email của người đã gửi tin nhắn cho họ. Nếu bạn muốn ghi đè "
+"thiết lập sẵn trước đó của ô Email Người Gửi, thì bạn sẽ cần phải chèn thêm "
+"email vào trường trong hộp thư đến."
+
+#: includes/translations.php:262
+msgid "Please provide From Email Address"
+msgstr "Vui lòng điền Email Người Gửi"
+
+#: includes/translations.php:263
+msgid "Mailer Type"
+msgstr "Cách Thức Gửi Thư"
+
+#: includes/translations.php:264
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"Trường này cung cấp cho bạn khả năng chọn một Cách Thức Gửi Thư cụ thể. Nếu "
+"bạn muốn gửi email thông qua SMTP, bạn cần phải chọn Gửi Email qua SMTP ở "
+"menu xổ xuống hoặc bạn có thể dùng PHP mail () Function"
+
+#: includes/translations.php:265
+msgid "Send Email via SMTP"
+msgstr "Gửi Email qua SMTP"
+
+#: includes/translations.php:266
+msgid "Use The PHP mail() Function"
+msgstr "Sử dụng PHP mail() Function"
+
+#: includes/translations.php:267
+msgid "SMTP Host"
+msgstr "Máy chủ SMTP"
+
+#: includes/translations.php:268
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"Nếu bạn muốn gửi email qua một máy chủ khác, bạn cần phải điền tên máy chủ "
+"đó, ví dụ như smtp.gmail.com ở trường hộp thư đến"
+
+#: includes/translations.php:269 includes/translations.php:398
+msgid "Please provide your Email Address"
+msgstr "Vui lòng điền Địa chỉ Email của bạn"
+
+#: includes/translations.php:270
+msgid "Please provide SMTP Host"
+msgstr "Vui lòng điền máy chủ SMTP"
+
+#: includes/translations.php:271
+msgid "SMTP Port"
+msgstr "Cổng SMTP"
+
+#: includes/translations.php:272
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr "Trường hộp thư đến này yêu cầu một Cổng SMTP hợp lệ để xác thực"
+
+#: includes/translations.php:273
+msgid "Please provide SMTP Port"
+msgstr "Vui lòng điền cổng SMTP"
+
+#: includes/translations.php:274
+msgid "Encryption"
+msgstr "Sự mã hóa"
+
+#: includes/translations.php:275
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr ""
+"Nó cung cấp một khả năng chọn loại Mã hóa. Nếu bạn muốn gửi email với mã hóa "
+"TLS, bạn cần cung chọn Dùng Mã hóa TLS từ trình đơn xổ xuống hoặc chọn Mã "
+"hóa SSL. Trong trường hợp đó bạn sẽ chọn Dùng Mã hóa SSL từ trình đơn xổ "
+"xuống. Nếu bạn muốn gửi email mà không mã hóa, hãy chọn Không Mã hóa từ "
+"trình đơn xổ xuống"
+
+#: includes/translations.php:276
+msgid "No Encryption"
+msgstr "Không Mã hóa"
+
+#: includes/translations.php:277
+msgid "Use SSL Encryption"
+msgstr "Dùng Mã hóa SSL"
+
+#: includes/translations.php:278
+msgid "Use TLS Encryption"
+msgstr "Dùng Mã hóa TLS"
+
+#: includes/translations.php:279 includes/translations.php:415
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: includes/translations.php:280
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr ""
+"Trường hộp thư đến này cho phép bạn chọn cách phù hợp để xác thực. Nó cung "
+"cấp cách xác thực 2-bước; Nếu bạn muốn xác thực thông chính bạn thông qua "
+"tên đăng nhập và mật khẩu, bạn cần chọn Dùng Tên đăng nhập và Mật khẩu ở "
+"trình đơn xổ xuống. Bạn cũng có thể xác thực qua giao thức OAuth 2.0, yêu "
+"cầu Client ID và Secret Key, bạn kích hoạt nó bằng cách chọn Dùng OAuth "
+"(Client OD và Secret Key) từ trình đơn xổ xuống. Bạn có thể dễ dàng lấy "
+"Client ID và Secret Key từ mục Máy chủ SMTP trong mục dành cho Nhà phát "
+"triển."
+
+#: includes/translations.php:281
+msgid "Use SMTP Authentication"
+msgstr "Dùng xác thực SMTP"
+
+#: includes/translations.php:282
+msgid "Don't Use SMTP Authentication"
+msgstr "Không dùng xác thực SMTP"
+
+#: includes/translations.php:283
+msgid "Test Email Address"
+msgstr "Địa chỉ nhận email thử"
+
+#: includes/translations.php:284
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr ""
+"Ở trường này, bạn cần cung cấp Địa chỉ Email hợp lệ dùng để nhận email Thử "
+"nghiệm"
+
+#: includes/translations.php:285
+msgid "Please provide Test Email Address"
+msgstr "Vui lòng cung cấp Địa chỉ Email Thử nghiệm"
+
+#: includes/translations.php:286
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr "Ở trường này, bạn cần điền vào tiêu đề cho Email Thử nghiệm"
+
+#: includes/translations.php:287
+msgid "Please provide Subject"
+msgstr "Vui lòng điền Tiêu đề"
+
+#: includes/translations.php:288
+msgid "Email Content"
+msgstr "Nội dung email"
+
+#: includes/translations.php:289
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr "Trong trường này, bạn cần cung cấp nội dung cho Email Thử Nghiệm"
+
+#: includes/translations.php:290
+msgid "Send Test Email"
+msgstr "Gửi Email Thử"
+
+#: includes/translations.php:291
+msgid "SMTP Debugging Output"
+msgstr "Thông tin Chuẩn đoán SMTP"
+
+#: includes/translations.php:292
+msgid "Checking your settings"
+msgstr "Đang kiểm tra các thiết lập của bạn"
+
+#: includes/translations.php:293
+msgid "Result"
+msgstr "Kết quả"
+
+#: includes/translations.php:294
+msgid "Send Another Test Email"
+msgstr "Gửi Thêm Email Thử"
+
+#: includes/translations.php:295
+msgid "From Name Configuration"
+msgstr "Cấu Hình Người Gửi"
+
+#: includes/translations.php:296
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"Nếu bạn muốn ghi đè thiết lập về tên sẽ được dùng khi gửi các email, bạn cần "
+"phải chọn Ghi đè từ trình đơn xổ xuống và ngược lại"
+
+#: includes/translations.php:297
+msgid "From Email Configuration"
+msgstr "Thiết Lập Email Người Gửi"
+
+#: includes/translations.php:298
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"Nếu bạn muốn ghi đè thiết lập Địa chỉ Email để dùng khi gửi các email, bạn "
+"cần phải chọn Ghi đè từ trình đơn xổ xuống và ngược lại"
+
+#: includes/translations.php:299
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: includes/translations.php:300
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr ""
+"Ở trường này, bạn cần cung cấp tên đăng nhập để xác thực thông tin SMTP"
+
+#: includes/translations.php:301
+msgid "Please provide username"
+msgstr "Vui lòng điền tên đăng nhập"
+
+#: includes/translations.php:302
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: includes/translations.php:303
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr "Ở trường này, bạn cần cung cấp mật khẩu để xác thực thông tin SMTP"
+
+#: includes/translations.php:304
+msgid "Please provide password"
+msgstr "Vui lòng điền mật khẩu"
+
+#: includes/translations.php:305
+msgid "Redirect URI"
+msgstr "URI Chuyển hướng"
+
+#: includes/translations.php:306
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Vui lòng copy địa chỉ URI Chuyển hướng và dán vào ô URI Chuyển hướng khi bạn "
+"tạo ra ứng dụng"
+
+#: includes/translations.php:307
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "Dùng OAuth (yêu cầu Client ID và Secret Key)"
+
+#: includes/translations.php:308
+msgid "None"
+msgstr "Không"
+
+#: includes/translations.php:309
+msgid "Plain Authentication"
+msgstr "Xác thực thông thường"
+
+#: includes/translations.php:310
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:311
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: includes/translations.php:312
+msgid "Client Id"
+msgstr "Client ID"
+
+#: includes/translations.php:313
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: includes/translations.php:314
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr "Vui lòng điền chính xác Client ID được cấp bởi máy chủ SMTP của bạn"
+
+#: includes/translations.php:315
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr "Vu lòng điền chính xác Secret Key được cấp bởi máy chủ SMTP của bạn"
+
+#: includes/translations.php:316
+msgid "Please provide Client Id"
+msgstr "Vui lòng cung cấp Client ID"
+
+#: includes/translations.php:317
+msgid "Please provide Secret Key"
+msgstr "Vui lòng cung cấp Secret Key"
+
+#: includes/translations.php:318
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Vâng, tự động gửi Email Thử Nghiệm khi tôi click Nút Bước Kế Tiếp để xác "
+"nhận thiết lập"
+
+#: includes/translations.php:319
+msgid "Email Address"
+msgstr "Địa chỉ Email"
+
+#: includes/translations.php:320
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr ""
+"Ở trường này, bạn cần phải thêm Địa chỉ Email hợp lệ mà bạn muốn dùng để gửi "
+"email"
+
+#: includes/translations.php:321
+msgid "Please provide valid Email Address"
+msgstr "Vui lòng điền Địa chỉ Email hợp lệ"
+
+#: includes/translations.php:322
+msgid "Reply To"
+msgstr "Trả lời Tới"
+
+#: includes/translations.php:323
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"Ở trường này, bạn cần thêm Địa chỉ Email hợp lệ dùng để tự động điền vào ô "
+"Trả lời Tới khi người dùng trả lời một email"
+
+#: includes/translations.php:324
+msgid "Please provide Reply To Email Address"
+msgstr "Vui lòng cung cấp Địa Chỉ Email Nhận Thư Trả Lời"
+
+#: includes/translations.php:325
+msgid "Get Google Client Id and Secret Key"
+msgstr "Lấy Client ID và Secret Key của Google"
+
+#: includes/translations.php:326
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "Lấy Client ID và Secret Key của Microsoft"
+
+#: includes/translations.php:327
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "Lấy Client ID và Secret Key của Yahoo"
+
+#: includes/translations.php:330
+msgid "Start Date"
+msgstr "Ngày Bắt Đầu"
+
+#: includes/translations.php:331
+msgid "Resend"
+msgstr "Gửi lại"
+
+#: includes/translations.php:332
+msgid "Please provide Start Date"
+msgstr "Vui lòng cung cấp Ngày Bắt Đầu"
+
+#: includes/translations.php:333
+msgid "This field shows starting date of Email Logs"
+msgstr "Ô này sẽ hiển thị ngày bắt đầu của nhật ký email"
+
+#: includes/translations.php:334
+msgid "End Date"
+msgstr "Ngày Kết Thúc"
+
+#: includes/translations.php:335
+msgid "Please provide End Date"
+msgstr "Vui lòng cung cấp Ngày Kết Thúc"
+
+#: includes/translations.php:336
+msgid "This field shows ending date of Email Logs"
+msgstr "Ô này sẽ hiển thị ngày kết thúc của nhật ký email"
+
+#: includes/translations.php:337
+msgid "Submit"
+msgstr "Gửi"
+
+#: includes/translations.php:338
+msgid "Bulk Action"
+msgstr "Hành Động Hàng Loạt"
+
+#: includes/translations.php:339
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/translations.php:340
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: includes/translations.php:341
+msgid "Email To"
+msgstr "Email đến"
+
+#: includes/translations.php:342
+msgid "Action"
+msgstr "Hành động"
+
+#: includes/translations.php:343
+msgid "Show Details"
+msgstr "Hiển thị Chi tiết"
+
+#: includes/translations.php:345
+msgid "Debugging Output"
+msgstr "Thông tin gỡ rối"
+
+#: includes/translations.php:346
+msgid "Show Debugging Output"
+msgstr "Hiển thị thông tin gỡ rối"
+
+#: includes/translations.php:347
+msgid "Email Sent To"
+msgstr "Email đã gửi tới"
+
+#: includes/translations.php:348
+msgid "Date/Time"
+msgstr "Ngày/giờ"
+
+#: includes/translations.php:349 includes/translations.php:412
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/translations.php:350
+msgid "From"
+msgstr "Từ"
+
+#: includes/translations.php:351
+msgid "Back to Email Logs"
+msgstr "Quay lại Nhật Ký Email"
+
+#: includes/translations.php:354
+msgid "Debug Mode"
+msgstr "Chế Độ Gỡ Rối"
+
+#: includes/translations.php:355
+msgid "Please choose a specific option for Debug Mode"
+msgstr "Vui lòng chọn cụ thể Chế Độ Gỡ Rối"
+
+#: includes/translations.php:356
+msgid "Remove Tables at Uninstall"
+msgstr "Xóa Bảng dữ liệu khi Gỡ cài đặt"
+
+#: includes/translations.php:357
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr ""
+"Vui lòng chọn cụ thể một tùy chọn để cho phép Xóa Bảng dữ liệu khi Gỡ cài đặt"
+
+#: includes/translations.php:358
+msgid "Monitoring Email Logs"
+msgstr "Theo dõi Nhật Ký Email"
+
+#: includes/translations.php:359
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr "Ô này dùng để bật hoặc tắt chế độ theo dõi Nhật Ký Emaiil"
+
+#: includes/translations.php:362
+msgid "Show Mail Bank Menu"
+msgstr "Hiển thị trình đơn của Mail Bank"
+
+#: includes/translations.php:363
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr "Vui lòng chọn một cấp bậc cụ thể xem ai có thể thấy Trình đơn Bên cạnh"
+
+#: includes/translations.php:364
+msgid "Administrator"
+msgstr "Quản trị viên"
+
+#: includes/translations.php:365
+msgid "Author"
+msgstr "Chủ nhân"
+
+#: includes/translations.php:366
+msgid "Editor"
+msgstr "Biên tập viên"
+
+#: includes/translations.php:367
+msgid "Contributor"
+msgstr "Cộng tác viên"
+
+#: includes/translations.php:368
+msgid "Subscriber"
+msgstr "Người đăng ký"
+
+#: includes/translations.php:369
+msgid "Others"
+msgstr "Khác"
+
+#: includes/translations.php:370
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Hiển thị Trình Đơn Phía Trên của Mail Bank"
+
+#: includes/translations.php:371
+msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+msgstr "Vui lòng chọn cụ thể một tùy chọn từ Trình Đơn Phía Trên của Mail Bank"
+
+#: includes/translations.php:372
+msgid "An Administrator Role can do the following "
+msgstr "Cấp bậc Quản trị viên có thể làm các điều sau"
+
+#: includes/translations.php:373
+msgid "Please choose specific page available for the Administrator Access"
+msgstr "Vui lòng chọn cụ thể một trang khả dụng cho Quản trị viên Truy cập"
+
+#: includes/translations.php:374
+msgid "Full Control"
+msgstr "Đầy đủ Quyền hạn"
+
+#: includes/translations.php:375
+msgid "An Author Role can do the following "
+msgstr "Cấp bậc Tác giả sẽ có thể làm các điều sau"
+
+#: includes/translations.php:376
+msgid "Please choose specific page available for Author Access"
+msgstr "Vui lòng chọn trang cụ thể mà Tác Giả có thể truy cập"
+
+#: includes/translations.php:377
+msgid "An Editor Role can do the following "
+msgstr "Một Biên Tập Viên sẽ có thể làm các điều sau"
+
+#: includes/translations.php:378
+msgid "Please choose specific page available for Editor Access"
+msgstr "Vui lòng chọn trang cụ thể mà Biên Tập Viên có thể truy cập"
+
+#: includes/translations.php:379
+msgid "A Contributor Role can do the following "
+msgstr "Một Cộng Tác Viên sẽ có thể làm các điều sau"
+
+#: includes/translations.php:380
+msgid "Please choose specific page available for Contributor Access"
+msgstr "Vui lòng chọn trang cụ thể mà Cộng Tác Viên có thể truy cập"
+
+#: includes/translations.php:381
+msgid "Other Roles can do the following "
+msgstr "Những Cấp Bậc Khác có thể làm"
+
+#: includes/translations.php:382
+msgid "Please choose specific page available for Others Role Access"
+msgstr "Vui lòng chọn những điều mà các Cấp Bậc Khác có thể truy cập"
+
+#: includes/translations.php:383
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Vui lòng chọn vào các quyền hạn thích hợp để đảm bảo mục đích bảo mật"
+
+#: includes/translations.php:384
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "Chỉ những người dùng với quyền hạn này có thể sử dụng Mail Bank"
+
+#: includes/translations.php:385
+msgid "A Subscriber Role can do the following"
+msgstr "Một Người Đăng Ký có thể làm các điều sau"
+
+#: includes/translations.php:386
+msgid "Please choose specific page available for Subscriber Access"
+msgstr "Vui lòng chọn những điều mà các Người Đăng Ký có thể truy cập"
+
+#: includes/translations.php:389
+msgid "Thank You!"
+msgstr "Cảm ơn!"
+
+#: includes/translations.php:390
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Vui lòng điền vào biểu mẫu dưới đây nếu bạn muốn gợi ý một tính năng chưa có "
+"trong phần mở rộng"
+
+#: includes/translations.php:391
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr "Nếu bạn cũng có đề xuất hay phàn nàn gì, vui lòng dùng biểu mẫu này"
+
+#: includes/translations.php:392
+msgid "You can also write us on"
+msgstr "Bạn có thể nhắn cho chúng tôi trên"
+
+#: includes/translations.php:394
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr "Vui lòng điền Tên dùng để gửi kèm Phản hồi"
+
+#: includes/translations.php:397
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr "Vui lòng điền Email dùng để gửi kèm Phản hồi"
+
+#: includes/translations.php:399
+msgid "Please provide your Feedback which will be sent along"
+msgstr "Vui lòng điền Phàn hồi dùng để gửi kèm"
+
+#: includes/translations.php:400
+msgid "Please provide your Feedback"
+msgstr "Vui lòng điền Phản hồi của bạn"
+
+#: includes/translations.php:401
+msgid "Send Feedback"
+msgstr "Gửi Phản hồi"
+
+#: includes/translations.php:402
+msgid "Your request Email has been sent Successfully"
+msgstr "Email yêu cầu của bạn đã được gửi đi Thành công"
+
+#: includes/translations.php:405
+msgid "Sending Test Email to"
+msgstr "Đang gửi Email Thử tới"
+
+#: includes/translations.php:406
+msgid "Email Status"
+msgstr "Trạng trái email"
+
+#: includes/translations.php:409
+msgid "Connectivity Test"
+msgstr "Kiểm thử Kết nối"
+
+#: includes/translations.php:410
+msgid "Transport"
+msgstr "Truyền tải"
+
+#: includes/translations.php:411
+msgid "Socket"
+msgstr "Socket"
+
+#: includes/translations.php:413
+msgid "Service Available"
+msgstr "Dịch vụ Khả dụng"
+
+#: includes/translations.php:414
+msgid "Server ID"
+msgstr "Server ID"
+
+#: includes/translations.php:416
+msgid "Plain"
+msgstr "Thông thường"
+
+#: includes/translations.php:417
+msgid "CRAM-MD5"
+msgstr "CRAM-MD5"
+
+#: includes/translations.php:418
+msgid "OAuth 2.0"
+msgstr "OAuth 2.0"
+
+#: includes/translations.php:419
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:420
+msgid "Gmail API"
+msgstr "API của Gmail"
+
+#: includes/translations.php:421
+msgid "Outgoing Mail Server Hostname"
+msgstr "Tên Máy Chủ Gửi thư đi"
+
+#: includes/translations.php:422
+msgid "Begin Test"
+msgstr "Bắt đầu thử"
+
+#: includes/translations.php:423
+msgid "localhost"
+msgstr "localhost"
+
+#: includes/translations.php:424
+msgid "In this field, you would need to provide Outgoing Mail Server Hostname"
+msgstr "Trong ô này, bạn hãy điền Tên Máy chủ Gửi thư đi"
+
+#: includes/translations.php:429
+msgid "In this field you would be able to see all PHP Errors"
+msgstr "Trong ô này bạn sẽ thấy các lỗi phát sinh của PHP"
+
+#: includes/translations.php:430
+msgid "Download Error Logs"
+msgstr "Tải về Nhật ký Lỗi"
+
+#: includes/translations.php:431
+msgid "Clear Error Logs"
+msgstr "Xóa Nhật ký Lỗi"
+
+#: includes/translations.php:432
+msgid "Output"
+msgstr "Đầu ra"
+
+#: includes/translations.php:433
+msgid "Error Logs has been cleared successfully"
+msgstr "Nhật ký Lỗi đã được xóa thành công"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "Cập Nhật Phần Mở Rộng Tự Động"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr ""
+#~ "Vui lòng chọn một tùy chọn cụ thể để cho phép Cập Nhật Phần Mở Rộng Tự "
+#~ "Động"
+
+#~ msgid "Error Reporting"
+#~ msgstr "Bảng thông tin lỗi"
+
+#~ msgid ""
+#~ "If you would like to Report your Errors in Error Logs Menu, then you "
+#~ "would need to Choose Enable from dropdown or vice-versa"
+#~ msgstr ""
+#~ "Nếu bạn muốn Báo Cáo Lỗi trong Trình Đơn Nhật Ký Lỗi, thì bạn phải Chọn "
+#~ "Kích Hoạt từ trình đơn xổ xuống hoặc ngược lại"
+
+#~ msgid "Email Log Details"
+#~ msgstr "Chi tiết Nhật ký Email"
+
+#~ msgid "Your request email has been sent Successfully"
+#~ msgstr "Email yêu cầu của bạn đã được gửi đi thành công"
+
+#~ msgid "Roles & Capabilities have been updated Successfully"
+#~ msgstr "Cấp bậc và Quyền hạn đã được cập nhật thành công"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Vui lòng chọn một Hành động từ trình đơn xổ xuống!"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "Vui lòng chọn ít nhất 1 bản ghi để xóa!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "Bạn có chắc muốn xóa Nhật ký Email?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "Nhật Ký được chọn đã được xóa thành công"
+
+#~ msgid "Are you sure you want to delete Email Log?"
+#~ msgstr "Bạn có chắc muốn xóa Nhật ký Email?"
+
+#~ msgid "Email Log has been deleted Successfully"
+#~ msgstr "Nhật ký Email đã được xóa thành công"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "Sai Secret Key. Vui lòng kiểm tra và thử lại!"
+
+#~ msgid "Licensing"
+#~ msgstr "Bản quyền"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "Email của bạn đã được gửi lại thành công"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "Thật không may, email của bạn chưa gửi đi được"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "Bạn có chắc muốn gửi lại emai không?"
+
+#~ msgid "Like Button has been deleted Successfully"
+#~ msgstr "Nút \"Like\" đã được xóa thành công"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Name which will be sent "
+#~ "along with your Feature Request"
+#~ msgstr ""
+#~ "Trong ô này, bạn cần cung cấp Tên sẽ được dùng để gửi kèm với các yêu cầu "
+#~ "tính năng."
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Bản quyền của bạn đã được kích hoạt thành công"
+
+#~ msgid "Settings"
+#~ msgstr "Các thiết lập"
+
+#~ msgid "Not available"
+#~ msgstr "Không khả dụng"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your "
+#~ "server."
+#~ msgstr ""
+#~ "Phần mở rộng PHP này không được tìm thấy trên máy chủ của bạn hoặc đã bị "
+#~ "vô hiệu hóa. Điều này tạo ra vài vấn đề trong khi cấu hình Mail Bank, vui "
+#~ "lòng liên hệ với công ty cung cấp dịch vụ để cài đặt các phần mở rộng này."
+
+#~ msgid "Email Details"
+#~ msgstr "Chi tiết email"
+
+#~ msgid "Email Debugging output"
+#~ msgstr "Thông tin đầu ra cho việc gỡ rối email"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Thông tin Quan trọng!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank Business Edition "
+#~ "and now you would need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Chúc mừng! Bạn đã mua thành công bản quyền Mail Bank phiên bản cho doanh "
+#~ "nghiệp, giờ đây bạn cần kích hoạt nó để mở khóa các tính năng!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Vui lòng điền các chi tiết cần thiết và click nút Xác nhận Bản Quyền để "
+#~ "mở khóa phần mở rộng"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr ""
+#~ "Nếu bạn gặp phải trục trặc khi kích hoạt bản quyền, hãy liên hệ với chúng "
+#~ "tôi tại"
+
+#~ msgid "Product Name"
+#~ msgstr "Tên sản phẩm"
+
+#~ msgid "Current Version"
+#~ msgstr "Phiên bản hiện hành"
+
+#~ msgid "Website URL"
+#~ msgstr "Địa chỉ website"
+
+#~ msgid "Order ID"
+#~ msgstr "Mã số đơn hàng"
+
+#~ msgid "API KEY"
+#~ msgstr "API KEY"
+
+#~ msgid "Validate License"
+#~ msgstr "Xác nhận Bản Quyền"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Ô này hiển thị các Sản phẩm bạn đã cài"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Ô này hiển thị các Phiên bản của Sản phẩm bạn đã cài"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Ô này hiển thị địa chỉ website của bạn"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Vui lòng cung cấp mã số đơn hàng mà bạn đã nhận lúc mua Sản phẩm. Thông "
+#~ "tin này sẽ giúp xác nhận Bản quyền."
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Vui lòng cung cấp API key mà bạn đã nhận sau khi mua Sản phẩm. Thông tin "
+#~ "này sẽ giúp xác nhận Bản quyền"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Vui lòng cung cấp mã số đơn hàng sau khi bạn đã mua sản phẩm"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Vui lòng cung cấp API Key sau khi bạn đã mua sản phẩm"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr ""
+#~ "Tính năng này chỉ dành cho người dùng phiên bản Doanh Nghiệp và Nhà phát "
+#~ "triển. <br> Vui lòng mua để mở khóa nó!."
+
+#~ msgid "Business Edition"
+#~ msgstr "Phiên bản Doanh Nghiệp"
